@@ -79,9 +79,36 @@
 		<Alignment>LEFT</Alignment>
 	</Text>
 	<Image>
+		<Id>1775756164288</Id>
+		<Name><![CDATA[image1]]></Name>
+		<X>1150</X>
+		<Y>0</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<Lock>true</Lock>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Width>560</Width>
+		<Height>748</Height>
+		<Rotation>0.0</Rotation>
+		<ImageFiles>
+			<ImageResourceReference>
+				<PackageName>ie406_project_model</PackageName>
+				<ClassName>Screenshot 2026-04-09 at 1.22.49 PM.png</ClassName>
+			</ImageResourceReference>
+		</ImageFiles>
+		<OriginalSize>false</OriginalSize>
+	</Image>
+	<Image>
 		<Id>1775755310993</Id>
 		<Name><![CDATA[image]]></Name>
-		<X>1040</X>
+		<X>1720</X>
 		<Y>0</Y>
 		<Label>
 			<X>0</X>
@@ -93,39 +120,13 @@
 		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<EmbeddedIcon>false</EmbeddedIcon>
 		<Z>0</Z>
-		<Width>400</Width>
-		<Height>440</Height>
+		<Width>450</Width>
+		<Height>590</Height>
 		<Rotation>0.0</Rotation>
 		<ImageFiles>
 			<ImageResourceReference>
 				<PackageName>ie406_project_model</PackageName>
 				<ClassName>Canva Screenshot.png</ClassName>
-			</ImageResourceReference>
-		</ImageFiles>
-		<OriginalSize>false</OriginalSize>
-	</Image>
-	<Image>
-		<Id>1775756164288</Id>
-		<Name><![CDATA[image1]]></Name>
-		<X>440</X>
-		<Y>610</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Width>560</Width>
-		<Height>748</Height>
-		<Rotation>0.0</Rotation>
-		<ImageFiles>
-			<ImageResourceReference>
-				<PackageName>ie406_project_model</PackageName>
-				<ClassName>Screenshot 2026-04-09 at 1.22.49 PM.png</ClassName>
 			</ImageResourceReference>
 		</ImageFiles>
 		<OriginalSize>false</OriginalSize>
