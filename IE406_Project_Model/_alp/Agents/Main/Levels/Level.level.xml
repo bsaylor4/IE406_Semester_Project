@@ -27,33 +27,6 @@
 		<FillMaterial>null</FillMaterial>
 		<ArcRadius>10</ArcRadius>
 	</RoundedRectangle>
-	<RoundedRectangle>
-		<Id>1775754675959</Id>
-		<Name><![CDATA[roundRectangle1]]></Name>
-		<X>350</X>
-		<Y>310</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor>-16777216</LineColor>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-65281</FillColor>
-		<FillMaterial>null</FillMaterial>
-		<ArcRadius>10</ArcRadius>
-	</RoundedRectangle>
 	<Oval>
 		<Id>1775754931293</Id>
 		<Name><![CDATA[oval]]></Name>
@@ -80,4 +53,29 @@
 		<FillColor>-16711681</FillColor>
 		<FillMaterial>null</FillMaterial>
 	</Oval>
+	<Text>
+		<Id>1775755019961</Id>
+		<Name><![CDATA[text]]></Name>
+		<X>530</X>
+		<Y>370</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Hello World]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>20</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
 </Presentation>
