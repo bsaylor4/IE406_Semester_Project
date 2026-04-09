@@ -4,7 +4,7 @@
 	         AnyLogic Project File
 *************************************************
 -->
-<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.9.7.202512121156" AlpVersion="8.9.7">
+<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.9.7.202512121155" AlpVersion="8.9.7">
 <Model>
 	<Id>1775754186189</Id>
 	<Name><![CDATA[IE406_Project_Model]]></Name>
@@ -233,6 +233,28 @@
 					</ImageFiles>
 					<OriginalSize>false</OriginalSize>
 				</Image>
+				<Image>
+					<Id>1775755799714</Id>
+					<Name><![CDATA[image1]]></Name>
+					<X>1040</X><Y>490</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>610</Width>
+					<Height>770</Height>
+					<Rotation>0.0</Rotation>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[ie406_project_model]]></PackageName>
+							<ClassName><![CDATA[Screenshot 2026-04-09 at 1.22.49 PM.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
 			</Presentation>
 
 				</Level>
@@ -350,6 +372,12 @@
 		<Resource>
 			<Id>1775755326230</Id>
 			<Path><![CDATA[Canva Screenshot.png]]></Path>
+			<ReferencedFromUserCode>false</ReferencedFromUserCode>
+			<Location>FILE_SYSTEM</Location>
+		</Resource>
+		<Resource>
+			<Id>1775755816591</Id>
+			<Path><![CDATA[Screenshot 2026-04-09 at 1.22.49 PM.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
