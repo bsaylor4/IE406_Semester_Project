@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Variables>
+	<Variable Class="Parameter">
+		<Id>1776192264163</Id>
+		<Name><![CDATA[pProbPayInside]]></Name>
+		<X>30</X>
+		<Y>500</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[0.3]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192264161</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776192341236</Id>
+		<Name><![CDATA[pProbGoToStore]]></Name>
+		<X>30</X>
+		<Y>520</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[0.15]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192341234</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776192411511</Id>
+		<Name><![CDATA[pFuelTimeMIn]]></Name>
+		<X>30</X>
+		<Y>550</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[4]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192411509</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776192427490</Id>
+		<Name><![CDATA[pFuelTimeMax]]></Name>
+		<X>30</X>
+		<Y>590</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[12]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192427488</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776192448702</Id>
+		<Name><![CDATA[pFuelTimeMode]]></Name>
+		<X>30</X>
+		<Y>570</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[7]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192448700</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776192493791</Id>
+		<Name><![CDATA[pInsideTimeMin]]></Name>
+		<X>30</X>
+		<Y>620</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[1]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192493789</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776192512683</Id>
+		<Name><![CDATA[pInsideTimeMode]]></Name>
+		<X>30</X>
+		<Y>640</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[2.5]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192512681</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776192531008</Id>
+		<Name><![CDATA[pInsideTimeMax]]></Name>
+		<X>30</X>
+		<Y>660</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[5]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776192531006</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1776193299413</Id>
+		<Name><![CDATA[pArrivalRate]]></Name>
+		<X>30</X>
+		<Y>470</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[12]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1776193299411</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+</Variables>

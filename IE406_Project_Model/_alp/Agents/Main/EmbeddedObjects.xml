@@ -30,7 +30,7 @@
 			<Parameter>
 				<Name><![CDATA[rate]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[12]]></Code>
+					<Code><![CDATA[pArrivalRate]]></Code>
 					<Unit Class="RateUnits">PER_HOUR</Unit>
 				</Value>
 			</Parameter>
@@ -112,7 +112,7 @@
 			<Parameter>
 				<Name><![CDATA[locationNode]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[nodePointArrival]]></Code>
+					<Code><![CDATA[node13]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -123,6 +123,46 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[newEntity]]></Name>
+				<Value Class="EntityCodeValue">
+					<IsAgentEntity>true</IsAgentEntity>
+					<EntityEmbeddedObject>
+						<Id>1776191562530</Id>
+						<ActiveObjectClass>
+							<PackageName>ie406_project_model</PackageName>
+							<ClassName>Car</ClassName>
+						</ActiveObjectClass>
+						<GenericParameterSubstitute>
+							<GenericParameterSubstituteReference>
+								<PackageName>ie406_project_model</PackageName>
+								<ClassName>Car</ClassName>
+								<ItemName>1776191534767</ItemName>
+							</GenericParameterSubstituteReference>
+						</GenericParameterSubstitute>
+						<Parameters/>
+						<ReplicationFlag>true</ReplicationFlag>
+						<Replication Class="CodeValue">
+							<Code><![CDATA[100]]></Code>
+						</Replication>
+						<CollectionType>ARRAY_LIST_BASED</CollectionType>
+						<InitialLocationType>XYZ</InitialLocationType>
+						<ColumnCode Class="CodeValue">
+							<Code><![CDATA[0]]></Code>
+						</ColumnCode>
+						<RowCode Class="CodeValue">
+							<Code><![CDATA[0]]></Code>
+						</RowCode>
+						<LocationNameCode Class="CodeValue">
+							<Code><![CDATA[""]]></Code>
+						</LocationNameCode>
+						<InitializationType>LOAD_FROM_DATABASE</InitializationType>
+						<InitializationDatabaseTableQuery>
+							<Id>1776191562531</Id>
+							<TableReference/>
+						</InitializationDatabaseTableQuery>
+						<InitializationDatabaseType>ONE_AGENT_PER_DATABASE_RECORD</InitializationDatabaseType>
+						<QuantityColumn/>
+					</EntityEmbeddedObject>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[changeDimensions]]></Name>
@@ -826,14 +866,20 @@
 		<Parameters>
 			<Parameter>
 				<Name><![CDATA[conditionIsProbabilistic]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[false]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[condition]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[randomTrue(pProbGoToStore)]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0.85]]></Code>
+					<Code><![CDATA[randomTrue(pProbGoToStore)]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -1088,14 +1134,20 @@
 		<Parameters>
 			<Parameter>
 				<Name><![CDATA[conditionIsProbabilistic]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[false]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[condition]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[randomTrue(pProbPayInside)]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0.7]]></Code>
+					<Code><![CDATA[randomTrue(pProbPayInside)]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>

@@ -38,7 +38,35 @@
 				<Alignment>LEFT</Alignment>
 			</Text>
 		</Presentation>
-		<Parameters/>
+		<Parameters>
+			<Parameter>
+				<ParameterName>pProbPayInside</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pProbGoToStore</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pFuelTimeMIn</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pFuelTimeMax</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pFuelTimeMode</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pInsideTimeMin</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pInsideTimeMode</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pInsideTimeMax</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pArrivalRate</ParameterName>
+			</Parameter>
+		</Parameters>
 		<PresentationProperties>
 			<EnableZoomAndPanning>true</EnableZoomAndPanning>
 			<ExecutionMode>realTimeScaled</ExecutionMode>
