@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AnyLogicWorkspace splitVersion="1"
                    WorkspaceVersion="1.9"
-                   AnyLogicVersion="8.9.7.202512121156"
+                   AnyLogicVersion="8.9.7.202512121155"
                    AlpVersion="8.9.7">
 	<Model>
 		<Id>1775754186189</Id>
 		<Name><![CDATA[IE406_Project_Model]]></Name>
 		<EngineVersion>6</EngineVersion>
 		<JavaPackageName><![CDATA[ie406_project_model]]></JavaPackageName>
-		<ModelTimeUnit>Second</ModelTimeUnit>
+		<ModelTimeUnit>Minute</ModelTimeUnit>
 		<Folders/>
 		<ActiveObjectClasses/>
 		<DifferentialEquationsMethod>EULER</DifferentialEquationsMethod>
@@ -59,6 +59,12 @@
 			<VersionMajor>1</VersionMajor>
 			<VersionMinor>0</VersionMinor>
 			<VersionBuild>0</VersionBuild>
+		</RequiredLibraryReference>
+		<RequiredLibraryReference>
+			<LibraryName>com.anylogic.libraries.processmodeling</LibraryName>
+			<VersionMajor>8</VersionMajor>
+			<VersionMinor>0</VersionMinor>
+			<VersionBuild>5</VersionBuild>
 		</RequiredLibraryReference>
 	</Model>
 	<ConvertersApplied>

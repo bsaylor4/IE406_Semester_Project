@@ -67,11 +67,11 @@
 		<OccurrenceDate>1775808000000</OccurrenceDate>
 		<OccurrenceTime Class="CodeUnitValue">
 			<Code><![CDATA[0]]></Code>
-			<Unit Class="TimeUnits">SECOND</Unit>
+			<Unit Class="TimeUnits">MINUTE</Unit>
 		</OccurrenceTime>
 		<RecurrenceCode Class="CodeUnitValue">
 			<Code><![CDATA[1]]></Code>
-			<Unit Class="TimeUnits">SECOND</Unit>
+			<Unit Class="TimeUnits">MINUTE</Unit>
 		</RecurrenceCode>
 	</DatasetsCreationProperties>
 	<ScaleRuler>
@@ -118,6 +118,7 @@
 			<LineArrowPosition>END</LineArrowPosition>
 		</AgentLink>
 	</AgentLinks>
+	<EmbeddedObjects xmlns:al="http://anylogic.com"/>
 	<Presentation>
 		<Level>
 			<Id>1775754186199</Id>
@@ -142,7 +143,7 @@
 			<Id>1775756687602</Id>
 			<Name><![CDATA[viewArea]]></Name>
 			<X>1100</X>
-			<Y>0</Y>
+			<Y>-50</Y>
 			<Label>
 				<X>0</X>
 				<Y>-10</Y>
@@ -152,7 +153,23 @@
 			<ShowLabel>false</ShowLabel>
 			<Title/>
 			<Width>1150</Width>
-			<Height>700</Height>
+			<Height>750</Height>
+		</Area>
+		<Area>
+			<Id>1776169626298</Id>
+			<Name><![CDATA[viewArea1]]></Name>
+			<X>1100</X>
+			<Y>730</Y>
+			<Label>
+				<X>0</X>
+				<Y>-10</Y>
+			</Label>
+			<PublicFlag>false</PublicFlag>
+			<PresentationFlag>true</PresentationFlag>
+			<ShowLabel>false</ShowLabel>
+			<Title/>
+			<Width>1000</Width>
+			<Height>600</Height>
 		</Area>
 	</Areas>
 </ActiveObjectClass>
