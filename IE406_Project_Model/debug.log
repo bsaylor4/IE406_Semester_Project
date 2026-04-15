@@ -1,0 +1,5 @@
+[0415/160621.915:INFO:CONSOLE(7)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.7.202512121156/static/init.js (7)
+[0415/160621.956:INFO:CONSOLE(13)] "Loaded: file:C:/Users/saylo/OneDrive/Documents/IE 406/IE406_Semester_Project/IE406_Project_Model/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.7.202512121156/static/init.js (13)
+[0415/160621.967:INFO:CONSOLE(13)] "Loaded: file:C:/Users/saylo/OneDrive/Documents/IE 406/IE406_Semester_Project/IE406_Project_Model/3d/car.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.7.202512121156/static/init.js (13)
+[0415/160719.436:WARNING:spdy_session.cc(3484)] Received HEADERS for invalid stream 3
+[0415/160819.144:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 

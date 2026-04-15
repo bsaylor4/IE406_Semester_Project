@@ -7066,4 +7066,81 @@
 		</Presentation>
 		<Z>0</Z>
 	</Network>
+	<PointNode>
+		<Id>1776285466339</Id>
+		<Name><![CDATA[CashierHome]]></Name>
+		<X>1415</X>
+		<Y>505</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<Z>0</Z>
+		<FakeNode>false</FakeNode>
+		<Lock>false</Lock>
+		<Color>-14774017</Color>
+		<Radius>10</Radius>
+		<SpeedLimit>false</SpeedLimit>
+		<SpeedLimitValue Class="UnitValue">
+			<Value Class="Double">10</Value>
+			<Unit Class="SpeedUnits">MPS</Unit>
+		</SpeedLimitValue>
+	</PointNode>
+	<Text>
+		<Id>1776287708201</Id>
+		<Name><![CDATA[text]]></Name>
+		<X>160</X>
+		<Y>-80</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[I dont think we need this, but not sure]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>14</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Line>
+		<Id>1776287739475</Id>
+		<Name><![CDATA[line]]></Name>
+		<X>270</X>
+		<Y>10</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>10</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor>-16777216</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>0</Dx>
+		<Dy>-70</Dy>
+		<Dz>0</Dz>
+	</Line>
 </Presentation>

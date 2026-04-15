@@ -66,6 +66,9 @@
 			<Parameter>
 				<ParameterName>pArrivalRate</ParameterName>
 			</Parameter>
+			<Parameter>
+				<ParameterName>pNumberOfCashiers</ParameterName>
+			</Parameter>
 		</Parameters>
 		<PresentationProperties>
 			<EnableZoomAndPanning>true</EnableZoomAndPanning>
