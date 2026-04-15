@@ -233,7 +233,7 @@
 	<EmbeddedObject>
 		<Id>1776178340666</Id>
 		<Name><![CDATA[Waiting_Pump]]></Name>
-		<X>110</X>
+		<X>210</X>
 		<Y>40</Y>
 		<Label>
 			<X>-5</X>
@@ -380,7 +380,7 @@
 			<Parameter>
 				<Name><![CDATA[queueCapacity]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0]]></Code>
+					<Code><![CDATA[1]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -866,9 +866,6 @@
 		<Parameters>
 			<Parameter>
 				<Name><![CDATA[conditionIsProbabilistic]]></Name>
-				<Value Class="CodeValue">
-					<Code><![CDATA[false]]></Code>
-				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[condition]]></Name>
@@ -879,7 +876,7 @@
 			<Parameter>
 				<Name><![CDATA[probability]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[randomTrue(pProbGoToStore)]]></Code>
+					<Code><![CDATA[pProbGoToStore]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -924,10 +921,10 @@
 	<EmbeddedObject>
 		<Id>1776178340834</Id>
 		<Name><![CDATA[Inside_Checkout]]></Name>
-		<X>500</X>
-		<Y>120</Y>
+		<X>440</X>
+		<Y>100</Y>
 		<Label>
-			<X>-5</X>
+			<X>-25</X>
 			<Y>-10</Y>
 		</Label>
 		<PublicFlag>false</PublicFlag>
@@ -1023,8 +1020,8 @@
 	<EmbeddedObject>
 		<Id>1776178340857</Id>
 		<Name><![CDATA[Checkout]]></Name>
-		<X>610</X>
-		<Y>120</Y>
+		<X>540</X>
+		<Y>100</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -1111,7 +1108,7 @@
 	<EmbeddedObject>
 		<Id>1776178340875</Id>
 		<Name><![CDATA[Pay_At_Pump]]></Name>
-		<X>210</X>
+		<X>130</X>
 		<Y>50</Y>
 		<Label>
 			<X>-15</X>
@@ -1134,20 +1131,17 @@
 		<Parameters>
 			<Parameter>
 				<Name><![CDATA[conditionIsProbabilistic]]></Name>
-				<Value Class="CodeValue">
-					<Code><![CDATA[false]]></Code>
-				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[condition]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[randomTrue(pProbPayInside)]]></Code>
+					<Code><![CDATA[randomTrue(pProbPayAtPump)]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[randomTrue(pProbPayInside)]]></Code>
+					<Code><![CDATA[pProbPayAtPump]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -1192,8 +1186,8 @@
 	<EmbeddedObject>
 		<Id>1776178340889</Id>
 		<Name><![CDATA[Wait_Inside]]></Name>
-		<X>260</X>
-		<Y>220</Y>
+		<X>160</X>
+		<Y>100</Y>
 		<Label>
 			<X>-5</X>
 			<Y>-10</Y>
@@ -1291,8 +1285,8 @@
 	<EmbeddedObject>
 		<Id>1776178340912</Id>
 		<Name><![CDATA[delay]]></Name>
-		<X>360</X>
-		<Y>220</Y>
+		<X>240</X>
+		<Y>100</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>

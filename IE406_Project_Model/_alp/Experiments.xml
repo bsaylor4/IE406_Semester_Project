@@ -40,7 +40,7 @@
 		</Presentation>
 		<Parameters>
 			<Parameter>
-				<ParameterName>pProbPayInside</ParameterName>
+				<ParameterName>pProbPayAtPump</ParameterName>
 			</Parameter>
 			<Parameter>
 				<ParameterName>pProbGoToStore</ParameterName>

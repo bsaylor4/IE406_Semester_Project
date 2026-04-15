@@ -2,7 +2,7 @@
 <Variables>
 	<Variable Class="Parameter">
 		<Id>1776192264163</Id>
-		<Name><![CDATA[pProbPayInside]]></Name>
+		<Name><![CDATA[pProbPayAtPump]]></Name>
 		<X>30</X>
 		<Y>500</Y>
 		<Label>
@@ -17,7 +17,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[0.3]]></Code>
+				<Code><![CDATA[0.7]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776192264161</Id>
@@ -45,7 +45,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[0.15]]></Code>
+				<Code><![CDATA[1-0.15]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776192341234</Id>
