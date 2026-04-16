@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AnyLogicWorkspace splitVersion="1"
                    WorkspaceVersion="1.9"
-                   AnyLogicVersion="8.9.7.202512121156"
+                   AnyLogicVersion="8.9.7.202512121155"
                    AlpVersion="8.9.7">
 	<Model>
 		<Id>1775754186189</Id>
@@ -22,7 +22,7 @@
 		<Frame>
 			<Id>1775754186191</Id>
 			<Width>1000</Width>
-			<Height>760</Height>
+			<Height>1150</Height>
 		</Frame>
 		<Database>
 			<Id>1775754186190</Id>

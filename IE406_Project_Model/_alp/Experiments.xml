@@ -40,13 +40,7 @@
 		</Presentation>
 		<Parameters>
 			<Parameter>
-				<ParameterName>pProbPayAtPump</ParameterName>
-			</Parameter>
-			<Parameter>
-				<ParameterName>pProbGoToStore</ParameterName>
-			</Parameter>
-			<Parameter>
-				<ParameterName>pFuelTimeMIn</ParameterName>
+				<ParameterName>pFuelTimeMin</ParameterName>
 			</Parameter>
 			<Parameter>
 				<ParameterName>pFuelTimeMax</ParameterName>
@@ -55,19 +49,73 @@
 				<ParameterName>pFuelTimeMode</ParameterName>
 			</Parameter>
 			<Parameter>
-				<ParameterName>pInsideTimeMin</ParameterName>
-			</Parameter>
-			<Parameter>
-				<ParameterName>pInsideTimeMode</ParameterName>
-			</Parameter>
-			<Parameter>
-				<ParameterName>pInsideTimeMax</ParameterName>
-			</Parameter>
-			<Parameter>
 				<ParameterName>pArrivalRate</ParameterName>
 			</Parameter>
 			<Parameter>
 				<ParameterName>pNumberOfCashiers</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pGasOnlyPayAtPump</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pStoreOrBathroomPayAtPump</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pPayInsideGasOnly</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pPayInsideGasPlusInside</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pNoGasInsideOnly</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pBathroomOnly</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pShopOnly</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pBathroomAndShop</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pBathroomTimeMin</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pBathroomTimeMode</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pBathroomTimeMax</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pShopTimeMin</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pShopTimeMode</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pShopTimeMax</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pCheckoutMin</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pCheckoutMode</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pCheckoutMax</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pNumberOfPumps</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pPayInsideGasMin</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pPayInsideGasMode</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pPayInsideGasMax</ParameterName>
 			</Parameter>
 		</Parameters>
 		<PresentationProperties>
