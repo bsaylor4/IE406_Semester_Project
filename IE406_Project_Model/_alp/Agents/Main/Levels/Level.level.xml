@@ -677,7 +677,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>300.0</Rotation>
 					</Attractor>
 					<Attractor>
 						<Id>1775757243293</Id>
@@ -693,7 +693,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>300.0</Rotation>
 					</Attractor>
 					<Attractor>
 						<Id>1775757243296</Id>
@@ -709,7 +709,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>285.0</Rotation>
 					</Attractor>
 					<Attractor>
 						<Id>1775757243299</Id>
@@ -725,7 +725,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>300.0</Rotation>
 					</Attractor>
 					<Attractor>
 						<Id>1775757243302</Id>
@@ -741,7 +741,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>300.0</Rotation>
 					</Attractor>
 					<Attractor>
 						<Id>1775757243305</Id>
@@ -757,7 +757,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>300.0</Rotation>
 					</Attractor>
 					<Attractor>
 						<Id>1775757243308</Id>
@@ -773,7 +773,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>300.0</Rotation>
 					</Attractor>
 					<Attractor>
 						<Id>1775757243311</Id>
@@ -789,7 +789,7 @@
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 						<Z>0</Z>
-						<Rotation>25.0</Rotation>
+						<Rotation>300.0</Rotation>
 					</Attractor>
 				</Presentation>
 				<Sloped>false</Sloped>
