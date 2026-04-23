@@ -86,8 +86,8 @@
 		<Length>50</Length>
 		<Rotation>0</Rotation>
 		<ScaleType>BASED_ON_LENGTH</ScaleType>
-		<ModelLength>70</ModelLength>
-		<LengthUnits>FOOT</LengthUnits>
+		<ModelLength>12.5</ModelLength>
+		<LengthUnits>METER</LengthUnits>
 		<Scale>10</Scale>
 		<InheritedFromParentAgentType>true</InheritedFromParentAgentType>
 	</ScaleRuler>
