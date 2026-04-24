@@ -84,9 +84,6 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[entityLocationDelay]]></Name>
-				<Value Class="CodeValue">
-					<Code><![CDATA[nodePumps]]></Code>
-				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[priority]]></Name>
@@ -6181,9 +6178,6 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[entityLocationDelay]]></Name>
-				<Value Class="CodeValue">
-					<Code><![CDATA[nodePumps]]></Code>
-				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[priority]]></Name>
