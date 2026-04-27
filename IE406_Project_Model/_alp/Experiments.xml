@@ -58,7 +58,7 @@
 				<ParameterName>pGasOnlyPayAtPump</ParameterName>
 			</Parameter>
 			<Parameter>
-				<ParameterName>pStoreOrBathroomPayAtPump</ParameterName>
+				<ParameterName>pInsidePayAtPump</ParameterName>
 			</Parameter>
 			<Parameter>
 				<ParameterName>pPayInsideGasOnly</ParameterName>
@@ -67,7 +67,7 @@
 				<ParameterName>pPayInsideGasPlusInside</ParameterName>
 			</Parameter>
 			<Parameter>
-				<ParameterName>pNoGasInsideOnly</ParameterName>
+				<ParameterName>pNoGasInside</ParameterName>
 			</Parameter>
 			<Parameter>
 				<ParameterName>pBathroomOnly</ParameterName>
@@ -116,6 +116,30 @@
 			</Parameter>
 			<Parameter>
 				<ParameterName>pPayInsideGasMax</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pNumberOfParkingSpots</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pCarSpeed</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pWalkSpeed</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pExitSpeed</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pPumpQueueCapacity</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pCheckoutQueueCapacity</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pParkingQueueCapacity</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pRunTimeHours</ParameterName>
 			</Parameter>
 		</Parameters>
 		<PresentationProperties>

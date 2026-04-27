@@ -1788,7 +1788,7 @@
 			<Parameter>
 				<Name><![CDATA[probability2]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[pStoreOrBathroomPayAtPump]]></Code>
+					<Code><![CDATA[pInsidePayAtPump]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -1806,7 +1806,7 @@
 			<Parameter>
 				<Name><![CDATA[probability5]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[pNoGasInsideOnly]]></Code>
+					<Code><![CDATA[pNoGasInside]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -4847,8 +4847,8 @@
 		<X>80</X>
 		<Y>-910</Y>
 		<Label>
-			<X>-35</X>
-			<Y>-25</Y>
+			<X>-5</X>
+			<Y>-15</Y>
 		</Label>
 		<PublicFlag>false</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
@@ -4873,6 +4873,9 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[1 - pNoGasInside]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[onAtEnter]]></Name>
@@ -4955,19 +4958,19 @@
 			<Parameter>
 				<Name><![CDATA[probability1]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0.5]]></Code>
+					<Code><![CDATA[pGasOnlyPayAtPump/(1-pNoGasInside)]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability2]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0.4]]></Code>
+					<Code><![CDATA[pInsidePayAtPump / (1 - pNoGasInside)]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability3]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0.1]]></Code>
+					<Code><![CDATA[(pPayInsideGasOnly + pPayInsideGasPlusInside) / (1 - pNoGasInside)]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -5072,16 +5075,19 @@
 			<Parameter>
 				<Name><![CDATA[probability1]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0.5]]></Code>
+					<Code><![CDATA[pBathroomOnly]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability2]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[pShopOnly]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability3]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[0.3]]></Code>
+					<Code><![CDATA[pBathroomAndShop]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -6438,7 +6444,7 @@
 		<Y>-920</Y>
 		<Label>
 			<X>-5</X>
-			<Y>-15</Y>
+			<Y>-10</Y>
 		</Label>
 		<PublicFlag>false</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
@@ -6481,7 +6487,7 @@
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[10000]]></Code>
+					<Code><![CDATA[pPumpQueueCapacity]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -6646,8 +6652,8 @@
 		<X>200</X>
 		<Y>-920</Y>
 		<Label>
-			<X>-15</X>
-			<Y>-15</Y>
+			<X>-5</X>
+			<Y>-10</Y>
 		</Label>
 		<PublicFlag>false</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
@@ -7471,6 +7477,9 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[resourceQuantity]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[pNumberOfC]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[seizePolicy]]></Name>
