@@ -10655,23 +10655,23 @@
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>62.212</X>
-				<Y>19.285</Y>
+				<X>61.655</X>
+				<Y>20.572</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
 				<X>54</X>
-				<Y>16</Y>
+				<Y>17</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>30.788</X>
-				<Y>6.715</Y>
+				<X>31.345</X>
+				<Y>6.428</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>46.094</X>
-				<Y>39.717</Y>
+				<X>42.82</X>
+				<Y>39.361</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
@@ -10680,8 +10680,8 @@
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>60.906</X>
-				<Y>-4.716999999999999</Y>
+				<X>64.18</X>
+				<Y>-3.361</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
@@ -10711,12 +10711,57 @@
 			</Point>
 			<Point>
 				<X>130.89</X>
-				<Y>0.2809999999999999</Y>
+				<Y>0.281</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>117.639</X>
-				<Y>-34.18</Y>
+				<X>149.285</X>
+				<Y>-46.212</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>146</X>
+				<Y>-38</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>136.715</X>
+				<Y>-14.788</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>123.345</X>
+				<Y>-48.572</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>116</X>
+				<Y>-52</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>138.655</X>
+				<Y>-41.428</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>106.152</X>
+				<Y>-29.021</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>110</X>
+				<Y>-38</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>119.848</X>
+				<Y>-60.979</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>87.639</X>
+				<Y>-49.18</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
@@ -10814,7 +10859,7 @@
 	<Wall>
 		<Id>1776955549841</Id>
 		<Name><![CDATA[wall4]]></Name>
-		<X>2534</X>
+		<X>2533</X>
 		<Y>557</Y>
 		<Label>
 			<X>10</X>
@@ -10833,18 +10878,18 @@
 		<Closed>false</Closed>
 		<Points>
 			<Point>
-				<X>0</X>
-				<Y>0</Y>
+				<X>0.438</X>
+				<Y>0.204</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>50</X>
-				<Y>0</Y>
+				<X>50.438</X>
+				<Y>0.204</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>9.615</X>
-				<Y>-23.076999999999998</Y>
+				<X>9.839</X>
+				<Y>-22.961</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
@@ -10853,8 +10898,8 @@
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>10.385</X>
-				<Y>-24.923</Y>
+				<X>10.599</X>
+				<Y>-24.835</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
@@ -16370,8 +16415,8 @@
 		<ShowLabel>false</ShowLabel>
 		<RotationX>20.0</RotationX>
 		<RotationZ>-45.0</RotationZ>
-		<XCode>500 + 500 * cos(cameraRotation())</XCode>
-		<YCode>250 + 250 * sin(cameraRotation())</YCode>
+		<XCode>2500 + 500 * cos(cameraRotation())</XCode>
+		<YCode>350 + 250 * sin(cameraRotation())</YCode>
 		<RotationXCode>atan2(200, getLength(250* sin(cameraRotation()), 500 *cos(cameraRotation())))</RotationXCode>
 		<RotationZCode>-PI/2 + (atan2(250 *sin(cameraRotation()), 500 *cos(cameraRotation()))- PI/2)</RotationZCode>
 	</Camera3D>
@@ -16406,4 +16451,160 @@
 			<LinkTo>false</LinkTo>
 		</ExtendedProperties>
 	</Control>
+	<Rectangle>
+		<Id>1777315522744</Id>
+		<Name><![CDATA[rectangle16]]></Name>
+		<X>2603.609</X>
+		<Y>443.921</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>141</Width>
+		<Height>26</Height>
+		<Rotation>293.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillMaterial>concrete</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777315603038</Id>
+		<Name><![CDATA[rectangle17]]></Name>
+		<X>2576.728</X>
+		<Y>496.252</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>32</Width>
+		<Height>30</Height>
+		<Rotation>293.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillMaterial>concrete</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777315667509</Id>
+		<Name><![CDATA[rectangle18]]></Name>
+		<X>2546.248</X>
+		<Y>565.425</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>69</Width>
+		<Height>11</Height>
+		<Rotation>25.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillMaterial>concrete</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777315708741</Id>
+		<Name><![CDATA[rectangle19]]></Name>
+		<X>2534</X>
+		<Y>557</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>16</Width>
+		<Height>14</Height>
+		<Rotation>25.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillMaterial>concrete</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777315744655</Id>
+		<Name><![CDATA[rectangle20]]></Name>
+		<X>2485.937</X>
+		<Y>542.774</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>51</Width>
+		<Height>6</Height>
+		<Rotation>25.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillMaterial>concrete</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777315898283</Id>
+		<Name><![CDATA[rectangle21]]></Name>
+		<X>2520</X>
+		<Y>488</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>40</Width>
+		<Height>63</Height>
+		<Rotation>24.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillMaterial>floorLino</FillMaterial>
+	</Rectangle>
 </Presentation>
