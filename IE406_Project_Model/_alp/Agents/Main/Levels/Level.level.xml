@@ -4,7 +4,7 @@
 		<Id>1776955925541</Id>
 		<Name><![CDATA[rectangle]]></Name>
 		<X>2300</X>
-		<Y>45</Y>
+		<Y>-40</Y>
 		<Label>
 			<X>10</X>
 			<Y>10</Y>
@@ -22,7 +22,7 @@
 		<LineMaterial>null</LineMaterial>
 		<LineStyle>SOLID</LineStyle>
 		<Width>560</Width>
-		<Height>760</Height>
+		<Height>845</Height>
 		<Rotation>0.0</Rotation>
 		<FillColor>-1</FillColor>
 		<FillMaterial>grass</FillMaterial>
@@ -55,6 +55,110 @@
 		<OriginalSize>false</OriginalSize>
 	</Image>
 	<Rectangle>
+		<Id>1777311714244</Id>
+		<Name><![CDATA[rectangle11]]></Name>
+		<X>2530.215</X>
+		<Y>-11.557</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>290</Width>
+		<Height>105</Height>
+		<Rotation>24.0</Rotation>
+		<FillColor>1677721600</FillColor>
+		<FillMaterial>tarmac</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777310981740</Id>
+		<Name><![CDATA[rectangle10]]></Name>
+		<X>2442</X>
+		<Y>542</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>32</Width>
+		<Height>21</Height>
+		<Rotation>20.0</Rotation>
+		<FillColor>1677721600</FillColor>
+		<FillMaterial>tarmac</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777310915080</Id>
+		<Name><![CDATA[rectangle9]]></Name>
+		<X>2426.997</X>
+		<Y>539.583</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>97</Width>
+		<Height>44</Height>
+		<Rotation>292.0</Rotation>
+		<FillColor>1677721600</FillColor>
+		<FillMaterial>tarmac</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777293948246</Id>
+		<Name><![CDATA[rectangle7]]></Name>
+		<X>2607.625</X>
+		<Y>674.927</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>-0.5</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>150</Width>
+		<Height>28</Height>
+		<Rotation>292.0</Rotation>
+		<FillColor>1677721600</FillColor>
+		<FillMaterial>tarmac</FillMaterial>
+	</Rectangle>
+	<Rectangle>
 		<Id>1777293341545</Id>
 		<Name><![CDATA[rectangle6]]></Name>
 		<X>2461.828</X>
@@ -77,32 +181,6 @@
 		<Width>140</Width>
 		<Height>61</Height>
 		<Rotation>25.0</Rotation>
-		<FillColor>1677721600</FillColor>
-		<FillMaterial>tarmac</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777293948246</Id>
-		<Name><![CDATA[rectangle7]]></Name>
-		<X>2608</X>
-		<Y>674</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>-1</Z>
-		<ZHeight>0</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>149</Width>
-		<Height>28</Height>
-		<Rotation>292.0</Rotation>
 		<FillColor>1677721600</FillColor>
 		<FillMaterial>tarmac</FillMaterial>
 	</Rectangle>
@@ -4902,8 +4980,8 @@
 	<Control Type="Window3D">
 		<Id>1776169631716</Id>
 		<Name><![CDATA[window3d]]></Name>
-		<X>1100</X>
-		<Y>800</Y>
+		<X>1127</X>
+		<Y>760</Y>
 		<Width>1000</Width>
 		<Height>530</Height>
 		<MakeDefaultViewArea>true</MakeDefaultViewArea>
@@ -5258,7 +5336,7 @@
 	</Wall>
 	<Camera3D>
 		<Id>1776170564529</Id>
-		<Name><![CDATA[cameraLoves]]></Name>
+		<Name><![CDATA[camera2D]]></Name>
 		<X>1164.96</X>
 		<Y>328.96</Y>
 		<Z>142.47</Z>
@@ -10216,118 +10294,6 @@
 				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 				<Z>0</Z>
 				<FakeNode>false</FakeNode>
-				<Presentation>
-					<LaneConnector SourceId="1776953727834" TargetId="1776953782925">
-						<Id>1777034081053</Id>
-						<Name><![CDATA[laneConnector11]]></Name>
-						<X>2688.864686483295</X>
-						<Y>316.872112170939</Y>
-						<Label>
-							<X>10</X>
-							<Y>0</Y>
-						</Label>
-						<PublicFlag>true</PublicFlag>
-						<PresentationFlag>true</PresentationFlag>
-						<ShowLabel>false</ShowLabel>
-						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-						<Z>0</Z>
-						<Points>
-							<Point>
-								<X>0</X>
-								<Y>0</Y>
-							</Point>
-							<Point>
-								<X>91.13531351670508</X>
-								<Y>-131.87211217093898</Y>
-							</Point>
-							<Point>
-								<X>9.39793423488436</X>
-								<Y>3.4174306308670452</Y>
-							</Point>
-							<Point>
-								<X>41.068510825746216</X>
-								<Y>-16.36467139652723</Y>
-							</Point>
-							<Point>
-								<X>36.596374870746786</X>
-								<Y>-7.420399486528083</Y>
-							</Point>
-							<Point>
-								<X>41.068510825746216</X>
-								<Y>-16.36467139652723</Y>
-							</Point>
-							<Point>
-								<X>95.28484767370264</X>
-								<Y>-124.79734509244011</Y>
-							</Point>
-							<Point>
-								<X>95.28484767370264</X>
-								<Y>-124.79734509244011</Y>
-							</Point>
-							<Point>
-								<X>91.13531351670508</X>
-								<Y>-131.87211217093898</Y>
-							</Point>
-						</Points>
-						<SourceLane>0</SourceLane>
-						<TargetLane>0</TargetLane>
-					</LaneConnector>
-					<LaneConnector SourceId="1776953727834" TargetId="1776953782925">
-						<Id>1777034081056</Id>
-						<Name><![CDATA[laneConnector12]]></Name>
-						<X>2695.0160616188555</X>
-						<Y>299.9558305481471</Y>
-						<Label>
-							<X>10</X>
-							<Y>0</Y>
-						</Label>
-						<PublicFlag>true</PublicFlag>
-						<PresentationFlag>true</PresentationFlag>
-						<ShowLabel>false</ShowLabel>
-						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-						<Z>0</Z>
-						<Points>
-							<Point>
-								<X>0</X>
-								<Y>0</Y>
-							</Point>
-							<Point>
-								<X>84.98393838114453</X>
-								<Y>-114.9558305481471</Y>
-							</Point>
-							<Point>
-								<X>9.39793423488436</X>
-								<Y>3.4174306308670452</Y>
-							</Point>
-							<Point>
-								<X>18.817446252187437</X>
-								<Y>-7.498234492734582</Y>
-							</Point>
-							<Point>
-								<X>14.345310297187552</X>
-								<Y>1.446037417264563</Y>
-							</Point>
-							<Point>
-								<X>18.817446252187437</X>
-								<Y>-7.498234492734582</Y>
-							</Point>
-							<Point>
-								<X>73.03378310014386</X>
-								<Y>-115.93090818864749</Y>
-							</Point>
-							<Point>
-								<X>73.03378310014386</X>
-								<Y>-115.93090818864749</Y>
-							</Point>
-							<Point>
-								<X>84.98393838114453</X>
-								<Y>-114.9558305481471</Y>
-							</Point>
-						</Points>
-						<SourceLane>1</SourceLane>
-						<TargetLane>1</TargetLane>
-					</LaneConnector>
-				</Presentation>
 			</RoadJunction>
 			<Road SourceId="1776953770603" TargetId="1776954003576">
 				<Id>1776953782925</Id>
@@ -10364,37 +10330,37 @@
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>11.18</X>
-						<Y>-22.361</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>15</X>
-						<Y>-30</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>3.82</X>
-						<Y>-7.639</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>21.868</X>
-						<Y>-54.038</Y>
+						<X>9.615</X>
+						<Y>-23.077</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
 						<X>25</X>
+						<Y>-60</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>15.385</X>
+						<Y>-36.923</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>29.903</X>
+						<Y>-84.515</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>26</X>
 						<Y>-65</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>18.132</X>
-						<Y>-40.962</Y>
+						<X>21.097</X>
+						<Y>-40.485</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>30</X>
+						<X>31</X>
 						<Y>25</Y>
 						<Z>0</Z>
 					</Point>
@@ -10413,7 +10379,7 @@
 						<PresentationFlag>true</PresentationFlag>
 						<ShowLabel>false</ShowLabel>
 						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-						<Offset>65.134</Offset>
+						<Offset>62.09901951359278</Offset>
 						<OnForwardSide>true</OnForwardSide>
 						<LeftLane>2</LeftLane>
 						<RightLane>0</RightLane>
@@ -10484,57 +10450,12 @@
 				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 				<Z>0</Z>
 				<FakeNode>false</FakeNode>
-				<Presentation>
-					<LaneConnector SourceId="1776954055881" TargetId="1776954055881">
-						<Id>1776954118339</Id>
-						<Name><![CDATA[laneConnector]]></Name>
-						<X>2756.8663212335673</X>
-						<Y>88.43682744808788</Y>
-						<Label>
-							<X>10</X>
-							<Y>0</Y>
-						</Label>
-						<PublicFlag>true</PublicFlag>
-						<PresentationFlag>true</PresentationFlag>
-						<ShowLabel>false</ShowLabel>
-						<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-						<Z>0</Z>
-						<Points>
-							<Point>
-								<X>0</X>
-								<Y>0</Y>
-							</Point>
-							<Point>
-								<X>28.133678766432695</X>
-								<Y>11.563172551912118</Y>
-							</Point>
-							<Point>
-								<X>9.374252720097502</X>
-								<Y>3.4818652960362755</Y>
-							</Point>
-							<Point>
-								<X>6.26735753286539</X>
-								<Y>-16.873654896175765</Y>
-							</Point>
-							<Point>
-								<X>15.641610252962892</X>
-								<Y>-13.391789600139504</Y>
-							</Point>
-							<Point>
-								<X>28.133678766432695</X>
-								<Y>11.563172551912118</Y>
-							</Point>
-						</Points>
-						<SourceLane>0</SourceLane>
-						<TargetLane>0</TargetLane>
-					</LaneConnector>
-				</Presentation>
 			</RoadJunction>
 			<Road SourceId="1776954003576">
 				<Id>1776954055881</Id>
 				<Name><![CDATA[road14]]></Name>
 				<X>2760</X>
-				<Y>80</Y>
+				<Y>75</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -10565,37 +10486,37 @@
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-23.436</X>
-						<Y>-8.705</Y>
+						<X>-22.759161936565118</X>
+						<Y>-10.3450736075296</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-175</X>
-						<Y>-65</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-151.564</X>
-						<Y>-56.295</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-199.302</X>
-						<Y>-70.866</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-320</X>
+						<X>-220</X>
 						<Y>-100</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-295.698</X>
-						<Y>-94.134</Y>
+						<X>-197.2408380634349</X>
+						<Y>-89.6549263924704</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-200</X>
+						<X>-245</X>
+						<Y>-100</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-325</X>
+						<Y>-100</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-300</X>
+						<Y>-100</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-205</X>
 						<Y>-85</Y>
 						<Z>0</Z>
 					</Point>
@@ -11244,7 +11165,7 @@
 		<ShowLabel>false</ShowLabel>
 		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>-1</Z>
+		<Z>-0.5</Z>
 		<ZHeight>0</ZHeight>
 		<LineWidth>1</LineWidth>
 		<LineColor/>
@@ -12156,15 +12077,15 @@
 		<LineStyle>SOLID</LineStyle>
 		<Width>93</Width>
 		<Height>37</Height>
-		<Rotation>24.0</Rotation>
+		<Rotation>26.0</Rotation>
 		<FillColor>-10496</FillColor>
 		<FillMaterial>null</FillMaterial>
 	</Rectangle>
 	<Camera3D>
 		<Id>1777033638096</Id>
 		<Name><![CDATA[camera3d]]></Name>
-		<X>2957.5</X>
-		<Y>605.02</Y>
+		<X>2991.51</X>
+		<Y>617.36</Y>
 		<Z>100</Z>
 		<Label>
 			<X>0</X>
@@ -14327,7 +14248,7 @@
 	<Line>
 		<Id>1777293603212</Id>
 		<Name><![CDATA[line74]]></Name>
-		<X>2635</X>
+		<X>2636</X>
 		<Y>585</Y>
 		<Label>
 			<X>10</X>
@@ -14355,7 +14276,7 @@
 	<Line>
 		<Id>1777293614346</Id>
 		<Name><![CDATA[line75]]></Name>
-		<X>2638</X>
+		<X>2639</X>
 		<Y>578</Y>
 		<Label>
 			<X>10</X>
@@ -14383,7 +14304,7 @@
 	<Line>
 		<Id>1777293623864</Id>
 		<Name><![CDATA[line76]]></Name>
-		<X>2641</X>
+		<X>2642</X>
 		<Y>570</Y>
 		<Label>
 			<X>10</X>
@@ -14411,7 +14332,7 @@
 	<Line>
 		<Id>1777293632153</Id>
 		<Name><![CDATA[line77]]></Name>
-		<X>2644</X>
+		<X>2645</X>
 		<Y>562</Y>
 		<Label>
 			<X>10</X>
@@ -14663,7 +14584,7 @@
 	<Line>
 		<Id>1777293714875</Id>
 		<Name><![CDATA[line86]]></Name>
-		<X>2674</X>
+		<X>2673</X>
 		<Y>586</Y>
 		<Label>
 			<X>10</X>
@@ -14691,8 +14612,8 @@
 	<Line>
 		<Id>1777293724647</Id>
 		<Name><![CDATA[line87]]></Name>
-		<X>2671</X>
-		<Y>593</Y>
+		<X>2670</X>
+		<Y>594</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -14971,8 +14892,8 @@
 	<Line>
 		<Id>1777293812911</Id>
 		<Name><![CDATA[line97]]></Name>
-		<X>2640</X>
-		<Y>669</Y>
+		<X>2639</X>
+		<Y>668</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -14999,8 +14920,8 @@
 	<Line>
 		<Id>1777293830580</Id>
 		<Name><![CDATA[line98]]></Name>
-		<X>2637</X>
-		<Y>677</Y>
+		<X>2636</X>
+		<Y>676</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -15136,4 +15057,1353 @@
 		<Dy>-7</Dy>
 		<Dz>0</Dz>
 	</Line>
+	<Line>
+		<Id>1777310731540</Id>
+		<Name><![CDATA[line34]]></Name>
+		<X>2443.999714285714</X>
+		<Y>513.0001428571428</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>44</Dx>
+		<Dy>-16</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310751108</Id>
+		<Name><![CDATA[line35]]></Name>
+		<X>2451</X>
+		<Y>493</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>44</Dx>
+		<Dy>-16</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310758175</Id>
+		<Name><![CDATA[line36]]></Name>
+		<X>2453</X>
+		<Y>485</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-9</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310774102</Id>
+		<Name><![CDATA[line37]]></Name>
+		<X>2448</X>
+		<Y>503</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>44</Dx>
+		<Dy>-16</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310783049</Id>
+		<Name><![CDATA[line38]]></Name>
+		<X>2440</X>
+		<Y>523</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>44</Dx>
+		<Dy>-16</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310790911</Id>
+		<Name><![CDATA[line39]]></Name>
+		<X>2439</X>
+		<Y>533</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>44</Dx>
+		<Dy>-16</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310806255</Id>
+		<Name><![CDATA[line40]]></Name>
+		<X>2441</X>
+		<Y>540</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>34</Dx>
+		<Dy>-12</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310823052</Id>
+		<Name><![CDATA[line41]]></Name>
+		<X>2450</X>
+		<Y>546</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>23</Dx>
+		<Dy>-8</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310847158</Id>
+		<Name><![CDATA[line42]]></Name>
+		<X>2459</X>
+		<Y>473</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>21</Dx>
+		<Dy>-6</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777310861144</Id>
+		<Name><![CDATA[line44]]></Name>
+		<X>2449</X>
+		<Y>547</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>32</Dx>
+		<Dy>-80</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311184449</Id>
+		<Name><![CDATA[line45]]></Name>
+		<X>2716</X>
+		<Y>166</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311204818</Id>
+		<Name><![CDATA[line46]]></Name>
+		<X>2706</X>
+		<Y>161</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311216632</Id>
+		<Name><![CDATA[line47]]></Name>
+		<X>2726</X>
+		<Y>169</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311230134</Id>
+		<Name><![CDATA[line103]]></Name>
+		<X>2697</X>
+		<Y>156</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311250658</Id>
+		<Name><![CDATA[line104]]></Name>
+		<X>2678</X>
+		<Y>146</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311250660</Id>
+		<Name><![CDATA[line105]]></Name>
+		<X>2668</X>
+		<Y>141</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311250662</Id>
+		<Name><![CDATA[line106]]></Name>
+		<X>2687</X>
+		<Y>151</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311250664</Id>
+		<Name><![CDATA[line107]]></Name>
+		<X>2658</X>
+		<Y>137</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311285134</Id>
+		<Name><![CDATA[line108]]></Name>
+		<X>2639</X>
+		<Y>128</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311285136</Id>
+		<Name><![CDATA[line109]]></Name>
+		<X>2630</X>
+		<Y>123</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311285138</Id>
+		<Name><![CDATA[line110]]></Name>
+		<X>2649</X>
+		<Y>132</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311285140</Id>
+		<Name><![CDATA[line111]]></Name>
+		<X>2620</X>
+		<Y>118</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311314085</Id>
+		<Name><![CDATA[line112]]></Name>
+		<X>2601</X>
+		<Y>109</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311314087</Id>
+		<Name><![CDATA[line113]]></Name>
+		<X>2592</X>
+		<Y>105</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311314089</Id>
+		<Name><![CDATA[line114]]></Name>
+		<X>2610</X>
+		<Y>114</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311314091</Id>
+		<Name><![CDATA[line115]]></Name>
+		<X>2581</X>
+		<Y>100</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311330352</Id>
+		<Name><![CDATA[line116]]></Name>
+		<X>2562</X>
+		<Y>91</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311330354</Id>
+		<Name><![CDATA[line117]]></Name>
+		<X>2553</X>
+		<Y>86</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311330356</Id>
+		<Name><![CDATA[line118]]></Name>
+		<X>2572</X>
+		<Y>95</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311330358</Id>
+		<Name><![CDATA[line119]]></Name>
+		<X>2543</X>
+		<Y>82</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311343057</Id>
+		<Name><![CDATA[line120]]></Name>
+		<X>2523</X>
+		<Y>72</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311343059</Id>
+		<Name><![CDATA[line121]]></Name>
+		<X>2514</X>
+		<Y>68</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311343061</Id>
+		<Name><![CDATA[line122]]></Name>
+		<X>2532</X>
+		<Y>77</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311343063</Id>
+		<Name><![CDATA[line123]]></Name>
+		<X>2504</X>
+		<Y>63</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311382177</Id>
+		<Name><![CDATA[line124]]></Name>
+		<X>2746</X>
+		<Y>179</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311382179</Id>
+		<Name><![CDATA[line125]]></Name>
+		<X>2736</X>
+		<Y>174</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311382181</Id>
+		<Name><![CDATA[line126]]></Name>
+		<X>2755</X>
+		<Y>184</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>25</Dx>
+		<Dy>-61</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Line>
+		<Id>1777311483362</Id>
+		<Name><![CDATA[line127]]></Name>
+		<X>2504</X>
+		<Y>63</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>0</ZHeight>
+		<LineWidth>0.5</LineWidth>
+		<LineColor>-1</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<BeginArrowSize>1</BeginArrowSize>
+		<BeginArrowStyle>0</BeginArrowStyle>
+		<EndArrowSize>1</EndArrowSize>
+		<EndArrowStyle>0</EndArrowStyle>
+		<Dx>252</Dx>
+		<Dy>121</Dy>
+		<Dz>0</Dz>
+	</Line>
+	<Rectangle>
+		<Id>1777313450617</Id>
+		<Name><![CDATA[rectangle12]]></Name>
+		<X>340</X>
+		<Y>660</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<OnClickCode>navigate(viewArea2D);</OnClickCode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>10</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>80</Width>
+		<Height>60</Height>
+		<Rotation>0.0</Rotation>
+		<FillColor>-14774017</FillColor>
+		<FillMaterial>null</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777313510894</Id>
+		<Name><![CDATA[rectangle13]]></Name>
+		<X>445</X>
+		<Y>660</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<OnClickCode>navigate(viewArea3D);</OnClickCode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>10</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>80</Width>
+		<Height>60</Height>
+		<Rotation>0.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillColorCode>selectedViewArea == viewArea3D ?
+	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
+		<FillMaterial>null</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777313582403</Id>
+		<Name><![CDATA[rectangle14]]></Name>
+		<X>550</X>
+		<Y>660</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<OnClickCode>navigate(viewAreaHome);</OnClickCode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>10</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>80</Width>
+		<Height>60</Height>
+		<Rotation>0.0</Rotation>
+		<FillColor>-1</FillColor>
+		<FillColorCode>selectedViewArea == viewAreaHome ?
+	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
+		<FillMaterial>null</FillMaterial>
+	</Rectangle>
+	<Rectangle>
+		<Id>1777313658034</Id>
+		<Name><![CDATA[rectangle15]]></Name>
+		<X>420</X>
+		<Y>660</Y>
+		<Label>
+			<X>10</X>
+			<Y>10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<ZHeight>10</ZHeight>
+		<LineWidth>1</LineWidth>
+		<LineColor/>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>570</Width>
+		<Height>60</Height>
+		<Rotation>0.0</Rotation>
+		<FillColor>-8272897</FillColor>
+		<FillMaterial>null</FillMaterial>
+	</Rectangle>
+	<Text>
+		<Id>1777313729595</Id>
+		<Name><![CDATA[text11]]></Name>
+		<X>382</X>
+		<Y>680</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-1</Color>
+		<Text><![CDATA[Home]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>18</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>CENTER</Alignment>
+	</Text>
+	<Text>
+		<Id>1777313774761</Id>
+		<Name><![CDATA[text12]]></Name>
+		<X>485</X>
+		<Y>680</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-1</Color>
+		<Text><![CDATA[3D]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>18</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>CENTER</Alignment>
+	</Text>
+	<Text>
+		<Id>1777313786704</Id>
+		<Name><![CDATA[text13]]></Name>
+		<X>595</X>
+		<Y>680</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-1</Color>
+		<Text><![CDATA[Logic]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>18</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>CENTER</Alignment>
+	</Text>
+	<Control Type="Button">
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Id>1777313897033</Id>
+		<Name><![CDATA[button]]></Name>
+		<X>655</X>
+		<Y>675</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<BasicProperties Width="100" Height="30">
+			<EmbeddedIcon>false</EmbeddedIcon>
+			<TextColor>-16777216</TextColor>
+			<Enabled>true</Enabled>
+			<ActionCode>window3d.setCamera(camera2D);</ActionCode>
+		</BasicProperties>
+		<ExtendedProperties>
+			<Font Name="Dialog" Size="11" Style="0"/>
+			<LabelText>2D Camera</LabelText>
+		</ExtendedProperties>
+	</Control>
+	<Control Type="Button">
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Id>1777314019511</Id>
+		<Name><![CDATA[button1]]></Name>
+		<X>775</X>
+		<Y>675</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<BasicProperties Width="100" Height="30">
+			<EmbeddedIcon>false</EmbeddedIcon>
+			<TextColor>-16777216</TextColor>
+			<Enabled>true</Enabled>
+			<ActionCode>window3d.setCamera(camera3d);</ActionCode>
+		</BasicProperties>
+		<ExtendedProperties>
+			<Font Name="Dialog" Size="11" Style="0"/>
+			<LabelText>3D Camera</LabelText>
+		</ExtendedProperties>
+	</Control>
+	<Camera3D>
+		<Id>1777314170559</Id>
+		<Name><![CDATA[FlyingCamera]]></Name>
+		<X>2280</X>
+		<Y>840</Y>
+		<Z>200</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ShowLabel>false</ShowLabel>
+		<RotationX>20.0</RotationX>
+		<RotationZ>-45.0</RotationZ>
+		<XCode>500 + 500 * cos(cameraRotation())</XCode>
+		<YCode>250 + 250 * sin(cameraRotation())</YCode>
+		<RotationXCode>atan2(200, getLength(250* sin(cameraRotation()), 500 *cos(cameraRotation())))</RotationXCode>
+		<RotationZCode>-PI/2 + (atan2(250 *sin(cameraRotation()), 500 *cos(cameraRotation()))- PI/2)</RotationZCode>
+	</Camera3D>
+	<Control Type="CheckBox">
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Id>1777314694418</Id>
+		<Name><![CDATA[checkbox]]></Name>
+		<X>894</X>
+		<Y>675</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<BasicProperties Width="100" Height="30">
+			<EmbeddedIcon>false</EmbeddedIcon>
+			<TextColor>-16777216</TextColor>
+			<Enabled>true</Enabled>
+			<ActionCode>if (value) {
+	window3d.setCamera( FlyingCamera, true, 2000);
+} else {
+	window3d.setCamera(camera3d, false, 1000);
+	window3d.setNavigationMode(Navigation3DType.WINDOW_3D_NAVIGATION_LIMITED_TO_Z_ABOVE_ZERO);
+}</ActionCode>
+		</BasicProperties>
+		<ExtendedProperties>
+			<Font Name="Dialog" Size="11" Style="0"/>
+			<LabelText>Flying Camera</LabelText>
+			<LinkTo>false</LinkTo>
+		</ExtendedProperties>
+	</Control>
 </Presentation>

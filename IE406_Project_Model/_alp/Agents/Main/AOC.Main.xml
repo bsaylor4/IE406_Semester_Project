@@ -94,6 +94,7 @@
 	<CurrentLevel>1775754186199</CurrentLevel>
 	<ConnectionsId>1775754186194</ConnectionsId>
 	<Variables xmlns:al="http://anylogic.com"/>
+	<Functions xmlns:al="http://anylogic.com"/>
 	<AgentLinks>
 		<AgentLink>
 			<Id>1775754186194</Id>
@@ -142,9 +143,9 @@
 	<Areas>
 		<Area>
 			<Id>1775756687602</Id>
-			<Name><![CDATA[viewArea]]></Name>
+			<Name><![CDATA[viewArea2D]]></Name>
 			<X>1100</X>
-			<Y>-50</Y>
+			<Y>-80</Y>
 			<Label>
 				<X>0</X>
 				<Y>-10</Y>
@@ -153,8 +154,8 @@
 			<PresentationFlag>true</PresentationFlag>
 			<ShowLabel>false</ShowLabel>
 			<Title/>
-			<Width>1150</Width>
-			<Height>750</Height>
+			<Width>620</Width>
+			<Height>780</Height>
 		</Area>
 		<Area>
 			<Id>1776169626298</Id>
@@ -169,8 +170,24 @@
 			<PresentationFlag>true</PresentationFlag>
 			<ShowLabel>false</ShowLabel>
 			<Title/>
+			<Width>1060</Width>
+			<Height>590</Height>
+		</Area>
+		<Area>
+			<Id>1777313429250</Id>
+			<Name><![CDATA[viewAreaHome]]></Name>
+			<X>0</X>
+			<Y>0</Y>
+			<Label>
+				<X>0</X>
+				<Y>-10</Y>
+			</Label>
+			<PublicFlag>false</PublicFlag>
+			<PresentationFlag>true</PresentationFlag>
+			<ShowLabel>false</ShowLabel>
+			<Title/>
 			<Width>1000</Width>
-			<Height>600</Height>
+			<Height>1760</Height>
 		</Area>
 	</Areas>
 </ActiveObjectClass>
