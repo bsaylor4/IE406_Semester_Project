@@ -3736,7 +3736,7 @@
 			<Parameter>
 				<Name><![CDATA[resourceQuantity]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[pNumberOfC]]></Code>
+					<Code><![CDATA[pNumberofCars]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -4087,7 +4087,7 @@
 			<Parameter>
 				<Name><![CDATA[seizeBlocks]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[{ szCar }]]></Code>
+					<Code><![CDATA[{ szCar1 }]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -4165,7 +4165,7 @@
 			<Parameter>
 				<Name><![CDATA[seizeBlocks]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[{ szParkingSpot }]]></Code>
+					<Code><![CDATA[{ szParkingSpot1 }]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>

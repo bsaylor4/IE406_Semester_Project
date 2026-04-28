@@ -141,6 +141,9 @@
 			<Parameter>
 				<ParameterName>pRunTimeHours</ParameterName>
 			</Parameter>
+			<Parameter>
+				<ParameterName>pNumberofCars</ParameterName>
+			</Parameter>
 		</Parameters>
 		<PresentationProperties>
 			<EnableZoomAndPanning>true</EnableZoomAndPanning>
