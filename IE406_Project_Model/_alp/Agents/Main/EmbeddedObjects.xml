@@ -3,8 +3,8 @@
 	<EmbeddedObject>
 		<Id>1776284220410</Id>
 		<Name><![CDATA[rpCashier]]></Name>
-		<X>40</X>
-		<Y>970</Y>
+		<X>2150</X>
+		<Y>-450</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -299,8 +299,8 @@
 	<EmbeddedObject>
 		<Id>1776288120990</Id>
 		<Name><![CDATA[rpBathrooms]]></Name>
-		<X>40</X>
-		<Y>1030</Y>
+		<X>2150</X>
+		<Y>-390</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -545,8 +545,8 @@
 	<EmbeddedObject>
 		<Id>1776786520887</Id>
 		<Name><![CDATA[rpCars]]></Name>
-		<X>40</X>
-		<Y>1100</Y>
+		<X>2150</X>
+		<Y>-320</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -841,8 +841,8 @@
 	<EmbeddedObject>
 		<Id>1776881591041</Id>
 		<Name><![CDATA[rpParkingSpots]]></Name>
-		<X>40</X>
-		<Y>820</Y>
+		<X>2150</X>
+		<Y>-600</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -1136,7 +1136,7 @@
 	<EmbeddedObject>
 		<Id>1776883716160</Id>
 		<Name><![CDATA[GetGas]]></Name>
-		<X>80</X>
+		<X>520</X>
 		<Y>-910</Y>
 		<Label>
 			<X>-5</X>
@@ -1211,7 +1211,7 @@
 	<EmbeddedObject>
 		<Id>1776883725821</Id>
 		<Name><![CDATA[PumpDecisions]]></Name>
-		<X>280</X>
+		<X>720</X>
 		<Y>-910</Y>
 		<Label>
 			<X>-15</X>
@@ -1328,7 +1328,7 @@
 	<EmbeddedObject>
 		<Id>1776883803631</Id>
 		<Name><![CDATA[InsideDecisions]]></Name>
-		<X>520</X>
+		<X>960</X>
 		<Y>-870</Y>
 		<Label>
 			<X>-40</X>
@@ -1445,7 +1445,7 @@
 	<EmbeddedObject>
 		<Id>1776883879875</Id>
 		<Name><![CDATA[PayInsideDecisions]]></Name>
-		<X>520</X>
+		<X>960</X>
 		<Y>-560</Y>
 		<Label>
 			<X>-40</X>
@@ -1562,7 +1562,7 @@
 	<EmbeddedObject>
 		<Id>1776883911485</Id>
 		<Name><![CDATA[selectOutput8]]></Name>
-		<X>430</X>
+		<X>870</X>
 		<Y>-250</Y>
 		<Label>
 			<X>-40</X>
@@ -1870,7 +1870,7 @@
 	<EmbeddedObject>
 		<Id>1776884244649</Id>
 		<Name><![CDATA[szParkingSpot1]]></Name>
-		<X>150</X>
+		<X>590</X>
 		<Y>-260</Y>
 		<Label>
 			<X>-25</X>
@@ -2079,7 +2079,7 @@
 	<EmbeddedObject>
 		<Id>1776884244705</Id>
 		<Name><![CDATA[Park1]]></Name>
-		<X>210</X>
+		<X>650</X>
 		<Y>-260</Y>
 		<Label>
 			<X>5</X>
@@ -2233,7 +2233,7 @@
 	<EmbeddedObject>
 		<Id>1776884244742</Id>
 		<Name><![CDATA[LeaveCar1]]></Name>
-		<X>270</X>
+		<X>710</X>
 		<Y>-260</Y>
 		<Label>
 			<X>-15</X>
@@ -2302,7 +2302,7 @@
 	<EmbeddedObject>
 		<Id>1776884244753</Id>
 		<Name><![CDATA[GoInside1]]></Name>
-		<X>330</X>
+		<X>770</X>
 		<Y>-260</Y>
 		<Label>
 			<X>-15</X>
@@ -2741,7 +2741,7 @@
 	<EmbeddedObject>
 		<Id>1776885834358</Id>
 		<Name><![CDATA[szPump]]></Name>
-		<X>130</X>
+		<X>570</X>
 		<Y>-920</Y>
 		<Label>
 			<X>-5</X>
@@ -2950,7 +2950,7 @@
 	<EmbeddedObject>
 		<Id>1776885856179</Id>
 		<Name><![CDATA[ToPump]]></Name>
-		<X>200</X>
+		<X>640</X>
 		<Y>-920</Y>
 		<Label>
 			<X>-5</X>
@@ -3295,7 +3295,7 @@
 	<EmbeddedObject>
 		<Id>1776887107228</Id>
 		<Name><![CDATA[LeaveCar2]]></Name>
-		<X>380</X>
+		<X>820</X>
 		<Y>-880</Y>
 		<Label>
 			<X>-15</X>
@@ -3364,7 +3364,7 @@
 	<EmbeddedObject>
 		<Id>1776887107249</Id>
 		<Name><![CDATA[GoInside2]]></Name>
-		<X>440</X>
+		<X>880</X>
 		<Y>-880</Y>
 		<Label>
 			<X>-12</X>
@@ -3508,7 +3508,7 @@
 	<EmbeddedObject>
 		<Id>1776887350137</Id>
 		<Name><![CDATA[Arrival1]]></Name>
-		<X>-60</X>
+		<X>380</X>
 		<Y>-910</Y>
 		<Label>
 			<X>-5</X>
@@ -3738,7 +3738,7 @@
 	<EmbeddedObject>
 		<Id>1776887350203</Id>
 		<Name><![CDATA[szCar1]]></Name>
-		<X>0</X>
+		<X>440</X>
 		<Y>-920</Y>
 		<Label>
 			<X>-5</X>
@@ -4271,7 +4271,7 @@
 	<EmbeddedObject>
 		<Id>1776957986156</Id>
 		<Name><![CDATA[UseRestroom5]]></Name>
-		<X>650</X>
+		<X>1090</X>
 		<Y>-880</Y>
 		<Label>
 			<X>-20</X>
@@ -4466,7 +4466,7 @@
 	<EmbeddedObject>
 		<Id>1776958004699</Id>
 		<Name><![CDATA[UseRestroom6]]></Name>
-		<X>670</X>
+		<X>1110</X>
 		<Y>-570</Y>
 		<Label>
 			<X>-20</X>
@@ -4661,7 +4661,7 @@
 	<EmbeddedObject>
 		<Id>1776958018988</Id>
 		<Name><![CDATA[UseRestroom7]]></Name>
-		<X>570</X>
+		<X>1010</X>
 		<Y>-260</Y>
 		<Label>
 			<X>-20</X>
@@ -4856,7 +4856,7 @@
 	<EmbeddedObject>
 		<Id>1776958043045</Id>
 		<Name><![CDATA[UseRestroom8]]></Name>
-		<X>630</X>
+		<X>1070</X>
 		<Y>-720</Y>
 		<Label>
 			<X>-20</X>
@@ -5051,7 +5051,7 @@
 	<EmbeddedObject>
 		<Id>1776958056109</Id>
 		<Name><![CDATA[UseRestroom9]]></Name>
-		<X>610</X>
+		<X>1050</X>
 		<Y>-370</Y>
 		<Label>
 			<X>-20</X>
@@ -5246,7 +5246,7 @@
 	<EmbeddedObject>
 		<Id>1776958062971</Id>
 		<Name><![CDATA[UseRestroom10]]></Name>
-		<X>530</X>
+		<X>970</X>
 		<Y>-100</Y>
 		<Label>
 			<X>-20</X>
@@ -5441,7 +5441,7 @@
 	<EmbeddedObject>
 		<Id>1776958106805</Id>
 		<Name><![CDATA[Shop5]]></Name>
-		<X>630</X>
+		<X>1070</X>
 		<Y>-820</Y>
 		<Label>
 			<X>0</X>
@@ -5535,7 +5535,7 @@
 	<EmbeddedObject>
 		<Id>1776958135111</Id>
 		<Name><![CDATA[Shop6]]></Name>
-		<X>730</X>
+		<X>1170</X>
 		<Y>-720</Y>
 		<Label>
 			<X>0</X>
@@ -5629,7 +5629,7 @@
 	<EmbeddedObject>
 		<Id>1776958139926</Id>
 		<Name><![CDATA[Shop7]]></Name>
-		<X>630</X>
+		<X>1070</X>
 		<Y>-470</Y>
 		<Label>
 			<X>0</X>
@@ -5723,7 +5723,7 @@
 	<EmbeddedObject>
 		<Id>1776958146732</Id>
 		<Name><![CDATA[Shop8]]></Name>
-		<X>700</X>
+		<X>1140</X>
 		<Y>-370</Y>
 		<Label>
 			<X>0</X>
@@ -5817,7 +5817,7 @@
 	<EmbeddedObject>
 		<Id>1776958163675</Id>
 		<Name><![CDATA[Shop9]]></Name>
-		<X>540</X>
+		<X>980</X>
 		<Y>-190</Y>
 		<Label>
 			<X>0</X>
@@ -5911,7 +5911,7 @@
 	<EmbeddedObject>
 		<Id>1776958174212</Id>
 		<Name><![CDATA[Shop10]]></Name>
-		<X>630</X>
+		<X>1070</X>
 		<Y>-100</Y>
 		<Label>
 			<X>0</X>
@@ -6005,8 +6005,8 @@
 	<EmbeddedObject>
 		<Id>1776967537130</Id>
 		<Name><![CDATA[rpGasPumps]]></Name>
-		<X>30</X>
-		<Y>890</Y>
+		<X>2150</X>
+		<Y>-530</Y>
 		<Label>
 			<X>-25</X>
 			<Y>-15</Y>
@@ -6260,8 +6260,8 @@
 	<EmbeddedObject>
 		<Id>1777295780618</Id>
 		<Name><![CDATA[releaseCar]]></Name>
-		<X>2140</X>
-		<Y>-640</Y>
+		<X>2020</X>
+		<Y>-840</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-15</Y>
@@ -6353,8 +6353,8 @@
 	<EmbeddedObject>
 		<Id>1777295805337</Id>
 		<Name><![CDATA[endCar]]></Name>
-		<X>2170</X>
-		<Y>-560</Y>
+		<X>2050</X>
+		<Y>-760</Y>
 		<Label>
 			<X>-60</X>
 			<Y>-20</Y>
@@ -6416,8 +6416,8 @@
 	<EmbeddedObject>
 		<Id>1777295867179</Id>
 		<Name><![CDATA[toExit]]></Name>
-		<X>1940</X>
-		<Y>-640</Y>
+		<X>1820</X>
+		<Y>-840</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-15</Y>
@@ -6560,8 +6560,8 @@
 	<EmbeddedObject>
 		<Id>1777295935801</Id>
 		<Name><![CDATA[sink]]></Name>
-		<X>2240</X>
-		<Y>-630</Y>
+		<X>2120</X>
+		<Y>-830</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-20</Y>
@@ -6614,7 +6614,7 @@
 	<EmbeddedObject>
 		<Id>1777382119377</Id>
 		<Name><![CDATA[LeaveCar3]]></Name>
-		<X>390</X>
+		<X>830</X>
 		<Y>-570</Y>
 		<Label>
 			<X>-15</X>
@@ -6683,7 +6683,7 @@
 	<EmbeddedObject>
 		<Id>1777382119413</Id>
 		<Name><![CDATA[GoInside3]]></Name>
-		<X>450</X>
+		<X>890</X>
 		<Y>-570</Y>
 		<Label>
 			<X>-12</X>

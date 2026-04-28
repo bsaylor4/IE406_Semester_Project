@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModelResources>
 	<Resource>
-		<Id>1775755326230</Id>
-		<Path>Canva Screenshot.png</Path>
-		<ReferencedFromUserCode>false</ReferencedFromUserCode>
-		<Location>FILE_SYSTEM</Location>
-	</Resource>
-	<Resource>
-		<Id>1775756084017</Id>
-		<Path>Screenshot 2026-04-09 at 1.22.49 PM.png</Path>
-		<ReferencedFromUserCode>false</ReferencedFromUserCode>
-		<Location>FILE_SYSTEM</Location>
-	</Resource>
-	<Resource>
 		<Id>1776191534777</Id>
 		<Path>3d/car.dae</Path>
 		<ReferencedFromUserCode>false</ReferencedFromUserCode>
