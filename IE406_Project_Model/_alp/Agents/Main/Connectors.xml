@@ -25,11 +25,11 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>PayInsideDecisions</ItemName>
+			<ItemName>LeaveCar3</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>SelectOutput5</ClassName>
+			<ClassName>ResourceDetach</ClassName>
 			<ItemName>in</ItemName>
 		</TargetConnectableItemReference>
 		<Points>
@@ -43,6 +43,10 @@
 			</Point>
 			<Point>
 				<X>40</X>
+				<Y>310</Y>
+			</Point>
+			<Point>
+				<X>80</X>
 				<Y>310</Y>
 			</Point>
 		</Points>
@@ -361,57 +365,6 @@
 			<Point>
 				<X>1120</X>
 				<Y>0</Y>
-			</Point>
-		</Points>
-	</Connector>
-	<Connector>
-		<Id>1776885759581</Id>
-		<Name><![CDATA[connector20]]></Name>
-		<X>1340</X>
-		<Y>-790</Y>
-		<Label>
-			<X>10</X>
-			<Y>0</Y>
-		</Label>
-		<PublicFlag>false</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<SourceEmbeddedObjectReference>
-			<PackageName>ie406_project_model</PackageName>
-			<ClassName>Main</ClassName>
-			<ItemName>Checkout</ItemName>
-		</SourceEmbeddedObjectReference>
-		<SourceConnectableItemReference>
-			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>Service</ClassName>
-			<ItemName>out</ItemName>
-		</SourceConnectableItemReference>
-		<TargetEmbeddedObjectReference>
-			<PackageName>ie406_project_model</PackageName>
-			<ClassName>Main</ClassName>
-			<ItemName>Fueling1</ItemName>
-		</TargetEmbeddedObjectReference>
-		<TargetConnectableItemReference>
-			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>Service</ClassName>
-			<ItemName>in</ItemName>
-		</TargetConnectableItemReference>
-		<Points>
-			<Point>
-				<X>0</X>
-				<Y>0</Y>
-			</Point>
-			<Point>
-				<X>60</X>
-				<Y>0</Y>
-			</Point>
-			<Point>
-				<X>60</X>
-				<Y>-110</Y>
-			</Point>
-			<Point>
-				<X>90</X>
-				<Y>-110</Y>
 			</Point>
 		</Points>
 	</Connector>
@@ -784,11 +737,11 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>queue</ItemName>
+			<ItemName>toExit</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>Queue</ClassName>
+			<ClassName>MoveTo</ClassName>
 			<ItemName>in</ItemName>
 		</TargetConnectableItemReference>
 		<Points>
@@ -798,6 +751,14 @@
 			</Point>
 			<Point>
 				<X>330</X>
+				<Y>280</Y>
+			</Point>
+			<Point>
+				<X>370</X>
+				<Y>280</Y>
+			</Point>
+			<Point>
+				<X>390</X>
 				<Y>280</Y>
 			</Point>
 		</Points>
@@ -964,11 +925,11 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>queue</ItemName>
+			<ItemName>toExit</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>Queue</ClassName>
+			<ClassName>MoveTo</ClassName>
 			<ItemName>in</ItemName>
 		</TargetConnectableItemReference>
 		<Points>
@@ -977,7 +938,7 @@
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>300</X>
+				<X>360</X>
 				<Y>-380</Y>
 			</Point>
 		</Points>
@@ -1050,11 +1011,11 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>Fueling1</ItemName>
+			<ItemName>moveTo</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>Service</ClassName>
+			<ClassName>MoveTo</ClassName>
 			<ItemName>in</ItemName>
 		</TargetConnectableItemReference>
 		<Points>
@@ -1063,23 +1024,23 @@
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>710</X>
+				<X>660</X>
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>710</X>
-				<Y>-40</Y>
+				<X>660</X>
+				<Y>70</Y>
 			</Point>
 			<Point>
-				<X>740</X>
-				<Y>-40</Y>
+				<X>680</X>
+				<Y>70</Y>
 			</Point>
 		</Points>
 	</Connector>
 	<Connector>
 		<Id>1776958012931</Id>
 		<Name><![CDATA[connector27]]></Name>
-		<X>370</X>
+		<X>550</X>
 		<Y>-550</Y>
 		<Label>
 			<X>10</X>
@@ -1122,7 +1083,7 @@
 	<Connector>
 		<Id>1776958012933</Id>
 		<Name><![CDATA[connector72]]></Name>
-		<X>530</X>
+		<X>710</X>
 		<Y>-550</Y>
 		<Label>
 			<X>10</X>
@@ -1157,15 +1118,15 @@
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>750</X>
+				<X>570</X>
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>750</X>
+				<X>570</X>
 				<Y>-240</Y>
 			</Point>
 			<Point>
-				<X>770</X>
+				<X>590</X>
 				<Y>-240</Y>
 			</Point>
 		</Points>
@@ -1314,7 +1275,7 @@
 	<Connector>
 		<Id>1776958059886</Id>
 		<Name><![CDATA[connector59]]></Name>
-		<X>370</X>
+		<X>550</X>
 		<Y>-510</Y>
 		<Label>
 			<X>10</X>
@@ -1612,7 +1573,7 @@
 	<Connector>
 		<Id>1776958144678</Id>
 		<Name><![CDATA[connector58]]></Name>
-		<X>370</X>
+		<X>550</X>
 		<Y>-530</Y>
 		<Label>
 			<X>10</X>
@@ -1663,7 +1624,7 @@
 	<Connector>
 		<Id>1776958144680</Id>
 		<Name><![CDATA[connector79]]></Name>
-		<X>490</X>
+		<X>670</X>
 		<Y>-450</Y>
 		<Label>
 			<X>10</X>
@@ -1698,15 +1659,15 @@
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>790</X>
+				<X>610</X>
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>790</X>
+				<X>610</X>
 				<Y>-340</Y>
 			</Point>
 			<Point>
-				<X>810</X>
+				<X>630</X>
 				<Y>-340</Y>
 			</Point>
 		</Points>
@@ -1714,7 +1675,7 @@
 	<Connector>
 		<Id>1776958155171</Id>
 		<Name><![CDATA[connector75]]></Name>
-		<X>0</X>
+		<X>180</X>
 		<Y>0</Y>
 		<Label>
 			<X>10</X>
@@ -1757,8 +1718,8 @@
 	<Connector>
 		<Id>1776958155173</Id>
 		<Name><![CDATA[connector80]]></Name>
-		<X>0</X>
-		<Y>0</Y>
+		<X>740</X>
+		<Y>-350</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -1788,20 +1749,20 @@
 		</TargetConnectableItemReference>
 		<Points>
 			<Point>
+				<X>0</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>540</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>540</X>
+				<Y>-440</Y>
+			</Point>
+			<Point>
 				<X>560</X>
-				<Y>-350</Y>
-			</Point>
-			<Point>
-				<X>1280</X>
-				<Y>-350</Y>
-			</Point>
-			<Point>
-				<X>1280</X>
-				<Y>-790</Y>
-			</Point>
-			<Point>
-				<X>1300</X>
-				<Y>-790</Y>
+				<Y>-440</Y>
 			</Point>
 		</Points>
 	</Connector>
@@ -2088,49 +2049,6 @@
 		</Points>
 	</Connector>
 	<Connector>
-		<Id>1777295869933</Id>
-		<Name><![CDATA[connector83]]></Name>
-		<X>0</X>
-		<Y>0</Y>
-		<Label>
-			<X>10</X>
-			<Y>0</Y>
-		</Label>
-		<PublicFlag>false</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<SourceEmbeddedObjectReference>
-			<PackageName>ie406_project_model</PackageName>
-			<ClassName>Main</ClassName>
-			<ItemName>toExit</ItemName>
-		</SourceEmbeddedObjectReference>
-		<SourceConnectableItemReference>
-			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>MoveTo</ClassName>
-			<ItemName>in</ItemName>
-		</SourceConnectableItemReference>
-		<TargetEmbeddedObjectReference>
-			<PackageName>ie406_project_model</PackageName>
-			<ClassName>Main</ClassName>
-			<ItemName>queue</ItemName>
-		</TargetEmbeddedObjectReference>
-		<TargetConnectableItemReference>
-			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
-			<ClassName>Queue</ClassName>
-			<ItemName>out</ItemName>
-		</TargetConnectableItemReference>
-		<Points>
-			<Point>
-				<X>1940</X>
-				<Y>-620</Y>
-			</Point>
-			<Point>
-				<X>1920</X>
-				<Y>-620</Y>
-			</Point>
-		</Points>
-	</Connector>
-	<Connector>
 		<Id>1777295938532</Id>
 		<Name><![CDATA[connector84]]></Name>
 		<X>0</X>
@@ -2170,6 +2088,237 @@
 			<Point>
 				<X>2180</X>
 				<Y>-620</Y>
+			</Point>
+		</Points>
+	</Connector>
+	<Connector>
+		<Id>1777382119462</Id>
+		<Name><![CDATA[connector85]]></Name>
+		<X>430</X>
+		<Y>-550</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<SourceEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>LeaveCar3</ItemName>
+		</SourceEmbeddedObjectReference>
+		<SourceConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>ResourceDetach</ClassName>
+			<ItemName>out</ItemName>
+		</SourceConnectableItemReference>
+		<TargetEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>GoInside3</ItemName>
+		</TargetEmbeddedObjectReference>
+		<TargetConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>MoveTo</ClassName>
+			<ItemName>in</ItemName>
+		</TargetConnectableItemReference>
+		<Points>
+			<Point>
+				<X>0</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>20</X>
+				<Y>0</Y>
+			</Point>
+		</Points>
+	</Connector>
+	<Connector>
+		<Id>1777382144787</Id>
+		<Name><![CDATA[connector]]></Name>
+		<X>490</X>
+		<Y>-550</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<SourceEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>GoInside3</ItemName>
+		</SourceEmbeddedObjectReference>
+		<SourceConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>MoveTo</ClassName>
+			<ItemName>out</ItemName>
+		</SourceConnectableItemReference>
+		<TargetEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>PayInsideDecisions</ItemName>
+		</TargetEmbeddedObjectReference>
+		<TargetConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>SelectOutput5</ClassName>
+			<ItemName>in</ItemName>
+		</TargetConnectableItemReference>
+		<Points>
+			<Point>
+				<X>0</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>40</X>
+				<Y>0</Y>
+			</Point>
+		</Points>
+	</Connector>
+	<Connector>
+		<Id>1777382192319</Id>
+		<Name><![CDATA[connector1]]></Name>
+		<X>1340</X>
+		<Y>-790</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<SourceEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>Checkout</ItemName>
+		</SourceEmbeddedObjectReference>
+		<SourceConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>Service</ClassName>
+			<ItemName>out</ItemName>
+		</SourceConnectableItemReference>
+		<TargetEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>moveTo</ItemName>
+		</TargetEmbeddedObjectReference>
+		<TargetConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>MoveTo</ClassName>
+			<ItemName>in</ItemName>
+		</TargetConnectableItemReference>
+		<Points>
+			<Point>
+				<X>0</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>30</X>
+				<Y>0</Y>
+			</Point>
+		</Points>
+	</Connector>
+	<Connector>
+		<Id>1777382225799</Id>
+		<Name><![CDATA[connector2]]></Name>
+		<X>1410</X>
+		<Y>-790</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<SourceEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>moveTo</ItemName>
+		</SourceEmbeddedObjectReference>
+		<SourceConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>MoveTo</ClassName>
+			<ItemName>out</ItemName>
+		</SourceConnectableItemReference>
+		<TargetEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>resourceAttach</ItemName>
+		</TargetEmbeddedObjectReference>
+		<TargetConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>ResourceAttach</ClassName>
+			<ItemName>in</ItemName>
+		</TargetConnectableItemReference>
+		<Points>
+			<Point>
+				<X>0</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>15</X>
+				<Y>0</Y>
+			</Point>
+		</Points>
+	</Connector>
+	<Connector>
+		<Id>1777382225801</Id>
+		<Name><![CDATA[connector3]]></Name>
+		<X>1465</X>
+		<Y>-790</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<SourceEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>resourceAttach</ItemName>
+		</SourceEmbeddedObjectReference>
+		<SourceConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>ResourceAttach</ClassName>
+			<ItemName>out</ItemName>
+		</SourceConnectableItemReference>
+		<TargetEmbeddedObjectReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>Main</ClassName>
+			<ItemName>Fueling1</ItemName>
+		</TargetEmbeddedObjectReference>
+		<TargetConnectableItemReference>
+			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
+			<ClassName>Service</ClassName>
+			<ItemName>in</ItemName>
+		</TargetConnectableItemReference>
+		<Points>
+			<Point>
+				<X>0</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>25</X>
+				<Y>0</Y>
+			</Point>
+			<Point>
+				<X>25</X>
+				<Y>-70</Y>
+			</Point>
+			<Point>
+				<X>-65</X>
+				<Y>-70</Y>
+			</Point>
+			<Point>
+				<X>-65</X>
+				<Y>-110</Y>
+			</Point>
+			<Point>
+				<X>-35</X>
+				<Y>-110</Y>
 			</Point>
 		</Points>
 	</Connector>
