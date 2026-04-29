@@ -16296,8 +16296,8 @@
 	<PointNode>
 		<Id>1776786557582</Id>
 		<Name><![CDATA[CarHome]]></Name>
-		<X>150</X>
-		<Y>500</Y>
+		<X>195</X>
+		<Y>920</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -16596,7 +16596,7 @@
 		<Id>1777313450617</Id>
 		<Name><![CDATA[rectangle12]]></Name>
 		<X>280</X>
-		<Y>40</Y>
+		<Y>60</Y>
 		<Label>
 			<X>10</X>
 			<Y>10</Y>
@@ -16623,7 +16623,7 @@
 		<Id>1777313510894</Id>
 		<Name><![CDATA[rectangle13]]></Name>
 		<X>385</X>
-		<Y>40</Y>
+		<Y>60</Y>
 		<Label>
 			<X>10</X>
 			<Y>10</Y>
@@ -16652,7 +16652,7 @@
 		<Id>1777313582403</Id>
 		<Name><![CDATA[rectangle14]]></Name>
 		<X>720</X>
-		<Y>40</Y>
+		<Y>60</Y>
 		<Label>
 			<X>10</X>
 			<Y>10</Y>
@@ -16681,7 +16681,7 @@
 		<Id>1777313658034</Id>
 		<Name><![CDATA[rectangle15]]></Name>
 		<X>360</X>
-		<Y>40</Y>
+		<Y>60</Y>
 		<Label>
 			<X>10</X>
 			<Y>10</Y>
@@ -16707,7 +16707,7 @@
 		<Id>1777313729595</Id>
 		<Name><![CDATA[text11]]></Name>
 		<X>322</X>
-		<Y>60</Y>
+		<Y>80</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -16732,7 +16732,7 @@
 		<Id>1777313774761</Id>
 		<Name><![CDATA[text12]]></Name>
 		<X>425</X>
-		<Y>60</Y>
+		<Y>80</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -16757,7 +16757,7 @@
 		<Id>1777313786704</Id>
 		<Name><![CDATA[text13]]></Name>
 		<X>760</X>
-		<Y>60</Y>
+		<Y>80</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -16801,7 +16801,7 @@
 		<Id>1777314694418</Id>
 		<Name><![CDATA[checkbox]]></Name>
 		<X>600</X>
-		<Y>56</Y>
+		<Y>76</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17083,7 +17083,7 @@
 		<Id>1777406098561</Id>
 		<Name><![CDATA[button4]]></Name>
 		<X>473</X>
-		<Y>58</Y>
+		<Y>78</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
