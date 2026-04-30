@@ -2190,7 +2190,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[4.5]]></Code>
+					<Code><![CDATA[3.5]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -2413,7 +2413,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[1.5]]></Code>
+					<Code><![CDATA[1]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -3068,7 +3068,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[4.5]]></Code>
+					<Code><![CDATA[3.5]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -3479,7 +3479,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[1.5]]></Code>
+					<Code><![CDATA[1]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -3918,6 +3918,10 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[onSeizeUnit]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[Car car = (Car) unit;
+car.group.setVisible(true);]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[onPrepareUnit]]></Name>
@@ -4081,7 +4085,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[1.5]]></Code>
+					<Code><![CDATA[1]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -6409,6 +6413,10 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[onRemove]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[Car car = (Car) unit;
+car.group.setVisible(false);]]></Code>
+				</Value>
 			</Parameter>
 		</Parameters>
 		<ReplicationFlag>false</ReplicationFlag>
@@ -6545,7 +6553,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[4.5]]></Code>
+					<Code><![CDATA[3.5]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -6819,7 +6827,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[1.5]]></Code>
+					<Code><![CDATA[1]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -6973,7 +6981,7 @@
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[1.5]]></Code>
+					<Code><![CDATA[1]]></Code>
 					<Unit Class="SpeedUnits">MPS</Unit>
 				</Value>
 			</Parameter>
@@ -7464,6 +7472,10 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[delayTime]]></Name>
+				<Value Class="CodeUnitValue">
+					<Code><![CDATA[triangular( pBathroomTimeMin, pBathroomTimeMode, pBathroomTimeMax )]]></Code>
+					<Unit Class="TimeUnits">MINUTE</Unit>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
