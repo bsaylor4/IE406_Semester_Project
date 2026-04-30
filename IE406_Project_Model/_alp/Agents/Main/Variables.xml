@@ -3,7 +3,7 @@
 	<Variable Class="PlainVariable">
 		<Id>1777313012171</Id>
 		<Name><![CDATA[selectedViewArea]]></Name>
-		<X>1910</X>
+		<X>1900</X>
 		<Y>-280</Y>
 		<Label>
 			<X>10</X>
@@ -977,7 +977,7 @@
 	<Variable Class="Parameter">
 		<Id>1777381346639</Id>
 		<Name><![CDATA[pNumberofCars]]></Name>
-		<X>1920</X>
+		<X>1900</X>
 		<Y>-360</Y>
 		<Label>
 			<X>10</X>

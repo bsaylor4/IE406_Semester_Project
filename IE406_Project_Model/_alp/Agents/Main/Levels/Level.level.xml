@@ -8414,7 +8414,7 @@
 		<PublicFlag>true</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
 		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
 		<Presentation>
 			<RectangleNode>
 				<Id>1776169359686</Id>
@@ -16559,8 +16559,8 @@
 			<Path SourceId="1776175337591" TargetId="1777469708485">
 				<Id>1777469705502</Id>
 				<Name><![CDATA[path45]]></Name>
-				<X>594</X>
-				<Y>638</Y>
+				<X>593.732</X>
+				<Y>638.573</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -16580,33 +16580,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>-0.268</X>
-						<Y>0.573</Y>
+						<X>0</X>
+						<Y>0</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>12.286</X>
-						<Y>-21.046</Y>
+						<X>12.554</X>
+						<Y>-21.619</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-12.733</X>
-						<Y>22.244</Y>
+						<X>-12.465</X>
+						<Y>21.671</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-4.103</X>
-						<Y>7.241</Y>
+						<X>-3.835</X>
+						<Y>6.667999999999999</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>8.361</X>
-						<Y>-14.43</Y>
+						<X>8.629000000000001</X>
+						<Y>-15.003</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-11.894</X>
-						<Y>25.658</Y>
+						<X>-11.626</X>
+						<Y>25.085</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -16967,6 +16967,93 @@
 				<Height>12</Height>
 				<Rotation>22.0</Rotation>
 			</RectangleNode>
+			<Path SourceId="1776786557582" TargetId="1776175703094">
+				<Id>1777569292049</Id>
+				<Name><![CDATA[path49]]></Name>
+				<X>275</X>
+				<Y>820</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-0.528</X>
+						<Y>-1.056</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-11.708</X>
+						<Y>-23.417</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>8.449</X>
+						<Y>22.277</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>2.929</X>
+						<Y>7.929</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-6.048</X>
+						<Y>-15.404</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-22.361</X>
+						<Y>-30.374</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<PointNode>
+				<Id>1776786557582</Id>
+				<Name><![CDATA[CarHome]]></Name>
+				<X>270</X>
+				<Y>810</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<FakeNode>false</FakeNode>
+				<Lock>false</Lock>
+				<Color>-14774017</Color>
+				<Radius>10</Radius>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="UnitValue">
+					<Value Class="Double">10</Value>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+			</PointNode>
 		</Presentation>
 		<Z>0</Z>
 	</Network>
@@ -16987,30 +17074,6 @@
 		<NavigationType>full</NavigationType>
 		<FarClippingDistance>2000</FarClippingDistance>
 	</Control>
-	<PointNode>
-		<Id>1776786557582</Id>
-		<Name><![CDATA[CarHome]]></Name>
-		<X>195</X>
-		<Y>920</Y>
-		<Label>
-			<X>10</X>
-			<Y>0</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<Z>0</Z>
-		<FakeNode>false</FakeNode>
-		<Lock>false</Lock>
-		<Color>-14774017</Color>
-		<Radius>10</Radius>
-		<SpeedLimit>false</SpeedLimit>
-		<SpeedLimitValue Class="UnitValue">
-			<Value Class="Double">10</Value>
-			<Unit Class="SpeedUnits">MPS</Unit>
-		</SpeedLimitValue>
-	</PointNode>
 	<Text>
 		<Id>1776885973682</Id>
 		<Name><![CDATA[text]]></Name>
@@ -18281,29 +18344,26 @@
 			</Point>
 		</Points>
 	</Wall>
-	<Text>
-		<Id>1777470846961</Id>
-		<Name><![CDATA[text111]]></Name>
-		<X>670</X>
-		<Y>-1310</Y>
+	<EmbeddedObjectPresentation>
+		<Id>1777568005646</Id>
+		<Name><![CDATA[releaseCar_presentation]]></Name>
+		<X>0</X>
+		<Y>0</Y>
 		<Label>
-			<X>0</X>
-			<Y>-10</Y>
+			<X>10</X>
+			<Y>0</Y>
 		</Label>
 		<PublicFlag>true</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
 		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<EmbeddedIcon>false</EmbeddedIcon>
 		<Z>0</Z>
 		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[the simulation feels blocky, i think it may need more move blocks, so we may have to use this for restrooms]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>20</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
+		<ScaleType>AUTOMATICALLY_CALCULATED</ScaleType>
+		<GISScaleForRealEmbeddedObjectPresentationSize>1000</GISScaleForRealEmbeddedObjectPresentationSize>
+		<GISScaleForFixedEmbeddedObjectPresentationSize>1000000000</GISScaleForFixedEmbeddedObjectPresentationSize>
+		<Latitude>0.0</Latitude>
+		<Longitude>0.0</Longitude>
+	</EmbeddedObjectPresentation>
 </Presentation>
