@@ -367,6 +367,9 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[homeNodes]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[{ node9 }]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[showDefaultAnimationStatic]]></Name>

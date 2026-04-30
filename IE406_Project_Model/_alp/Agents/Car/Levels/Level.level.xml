@@ -60,7 +60,7 @@
 					</ColorMapping>
 				</ColorTable>
 				<AutoScale>true</AutoScale>
-				<Scale>1.0</Scale>
+				<Scale>0.8</Scale>
 				<Rotation>0.0</Rotation>
 				<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
 				<ApplyShading>true</ApplyShading>
