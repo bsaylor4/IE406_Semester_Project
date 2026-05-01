@@ -54,64 +54,6 @@
 		<FillMaterial>concrete</FillMaterial>
 	</Rectangle>
 	<Rectangle>
-		<Id>1777405438097</Id>
-		<Name><![CDATA[rectangle27]]></Name>
-		<X>1485</X>
-		<Y>-1000</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewAreaHome);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-1</FillColor>
-		<FillColorCode>selectedViewArea == viewAreaHome ?
-	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777405438101</Id>
-		<Name><![CDATA[rectangle28]]></Name>
-		<X>1125</X>
-		<Y>-1006</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewArea3D);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-1</FillColor>
-		<FillColorCode>selectedViewArea == viewArea3D ?
-	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
 		<Id>1777466780460</Id>
 		<Name><![CDATA[rectangle33]]></Name>
 		<X>517.987</X>
@@ -136,170 +78,6 @@
 		<Rotation>23.0</Rotation>
 		<FillColor>-1</FillColor>
 		<FillMaterial>concrete</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777405438103</Id>
-		<Name><![CDATA[rectangle29]]></Name>
-		<X>1100</X>
-		<Y>-1006</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>490</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-8272897</FillColor>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777405438091</Id>
-		<Name><![CDATA[rectangle26]]></Name>
-		<X>1020</X>
-		<Y>-1006</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewArea2D);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-14774017</FillColor>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777405325545</Id>
-		<Name><![CDATA[rectangle24]]></Name>
-		<X>1455</X>
-		<Y>140</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewArea3D);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-1</FillColor>
-		<FillColorCode>selectedViewArea == viewArea3D ?
-	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777405325539</Id>
-		<Name><![CDATA[rectangle23]]></Name>
-		<X>1760</X>
-		<Y>140</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewAreaHome);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-1</FillColor>
-		<FillColorCode>selectedViewArea == viewAreaHome ?
-	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777405325537</Id>
-		<Name><![CDATA[rectangle22]]></Name>
-		<X>1430</X>
-		<Y>140</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>440</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-8272897</FillColor>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777405325551</Id>
-		<Name><![CDATA[rectangle25]]></Name>
-		<X>1350</X>
-		<Y>140</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewArea2D);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-14774017</FillColor>
-		<FillMaterial>null</FillMaterial>
 	</Rectangle>
 	<Rectangle>
 		<Id>1777311714244</Id>
@@ -4040,8 +3818,8 @@
 	<Rectangle>
 		<Id>1776956372368</Id>
 		<Name><![CDATA[rectangle1]]></Name>
-		<X>415</X>
-		<Y>875</Y>
+		<X>451</X>
+		<Y>790</Y>
 		<Label>
 			<X>10</X>
 			<Y>10</Y>
@@ -4059,8 +3837,8 @@
 		<LineStyle>SOLID</LineStyle>
 		<Width>93</Width>
 		<Height>37</Height>
-		<Rotation>26.0</Rotation>
-		<FillColor>-10496</FillColor>
+		<Rotation>25.0</Rotation>
+		<FillColor>-1761618176</FillColor>
 		<FillMaterial>null</FillMaterial>
 	</Rectangle>
 	<Oval>
@@ -4465,7 +4243,7 @@
 		<Width>160</Width>
 		<Height>85</Height>
 		<Rotation>292.0</Rotation>
-		<FillColor>-10496</FillColor>
+		<FillColor>-1761618176</FillColor>
 		<FillMaterial>null</FillMaterial>
 	</Rectangle>
 	<Line>
@@ -16676,8 +16454,8 @@
 			<Path SourceId="1777380943332" TargetId="1776168614393">
 				<Id>1777469868271</Id>
 				<Name><![CDATA[path48]]></Name>
-				<X>601.253</X>
-				<Y>699.335</Y>
+				<X>598.514</X>
+				<Y>700.672</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -16707,23 +16485,23 @@
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-10.73</X>
-						<Y>22.58</Y>
+						<X>-20.797</X>
+						<Y>13.874</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-1.188</X>
-						<Y>2.501</Y>
+						<X>-0.522</X>
+						<Y>0.348</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>9.542</X>
-						<Y>-20.079</Y>
+						<X>20.275</X>
+						<Y>-13.526</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>7.48</X>
-						<Y>-19.731</Y>
+						<X>8.146</X>
+						<Y>-21.884</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -16739,8 +16517,8 @@
 			<RectangleNode>
 				<Id>1777380943332</Id>
 				<Name><![CDATA[node9]]></Name>
-				<X>587</X>
-				<Y>681</Y>
+				<X>585.146</X>
+				<Y>680.251</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -16842,10 +16620,10 @@
 				<AttractorsLayout>random</AttractorsLayout>
 				<Presentation>
 					<Attractor>
-						<Id>1777380977620</Id>
-						<Name><![CDATA[attractor80]]></Name>
-						<X>590.833</X>
-						<Y>686.862</Y>
+						<Id>1777643778830</Id>
+						<Name><![CDATA[attractor86]]></Name>
+						<X>589.1927349884348</X>
+						<Y>686.9191491968278</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -16858,10 +16636,10 @@
 						<Rotation>22.0</Rotation>
 					</Attractor>
 					<Attractor>
-						<Id>1777380977623</Id>
-						<Name><![CDATA[attractor81]]></Name>
-						<X>596.164</X>
-						<Y>689.016</Y>
+						<Id>1777643778833</Id>
+						<Name><![CDATA[attractor87]]></Name>
+						<X>594.9876340794772</X>
+						<Y>689.2604404056772</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -16874,10 +16652,10 @@
 						<Rotation>22.0</Rotation>
 					</Attractor>
 					<Attractor>
-						<Id>1777380977626</Id>
-						<Name><![CDATA[attractor82]]></Name>
-						<X>601.495</X>
-						<Y>691.171</Y>
+						<Id>1777643778836</Id>
+						<Name><![CDATA[attractor88]]></Name>
+						<X>600.7825331705196</X>
+						<Y>691.6017316145267</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -16890,10 +16668,10 @@
 						<Rotation>22.0</Rotation>
 					</Attractor>
 					<Attractor>
-						<Id>1777380977629</Id>
-						<Name><![CDATA[attractor83]]></Name>
-						<X>589.334</X>
-						<Y>690.572</Y>
+						<Id>1777643778839</Id>
+						<Name><![CDATA[attractor89]]></Name>
+						<X>587.4445708858271</X>
+						<Y>691.2460071848061</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -16906,10 +16684,10 @@
 						<Rotation>22.0</Rotation>
 					</Attractor>
 					<Attractor>
-						<Id>1777380977632</Id>
-						<Name><![CDATA[attractor84]]></Name>
-						<X>594.666</X>
-						<Y>692.726</Y>
+						<Id>1777643778842</Id>
+						<Name><![CDATA[attractor90]]></Name>
+						<X>593.2394699768696</X>
+						<Y>693.5872983936556</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -16922,10 +16700,10 @@
 						<Rotation>22.0</Rotation>
 					</Attractor>
 					<Attractor>
-						<Id>1777380977635</Id>
-						<Name><![CDATA[attractor85]]></Name>
-						<X>599.997</X>
-						<Y>694.88</Y>
+						<Id>1777643778845</Id>
+						<Name><![CDATA[attractor106]]></Name>
+						<X>599.034369067912</X>
+						<Y>695.928589602505</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -16954,8 +16732,8 @@
 					<AngleZ>0</AngleZ>
 					<SlopeType>angle</SlopeType>
 				</Slope>
-				<Width>23</Width>
-				<Height>12</Height>
+				<Width>25</Width>
+				<Height>14</Height>
 				<Rotation>22.0</Rotation>
 			</RectangleNode>
 			<Path SourceId="1776786557582" TargetId="1776175703094">
@@ -17529,192 +17307,6 @@
 		</Font>
 		<Alignment>LEFT</Alignment>
 	</Text>
-	<Rectangle>
-		<Id>1777313450617</Id>
-		<Name><![CDATA[rectangle12]]></Name>
-		<X>280</X>
-		<Y>60</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewArea2D);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-14774017</FillColor>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777313510894</Id>
-		<Name><![CDATA[rectangle13]]></Name>
-		<X>385</X>
-		<Y>60</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewArea3D);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-1</FillColor>
-		<FillColorCode>selectedViewArea == viewArea3D ?
-	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777313582403</Id>
-		<Name><![CDATA[rectangle14]]></Name>
-		<X>720</X>
-		<Y>60</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<OnClickCode>navigate(viewAreaHome);</OnClickCode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>80</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-1</FillColor>
-		<FillColorCode>selectedViewArea == viewAreaHome ?
-	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Rectangle>
-		<Id>1777313658034</Id>
-		<Name><![CDATA[rectangle15]]></Name>
-		<X>360</X>
-		<Y>60</Y>
-		<Label>
-			<X>10</X>
-			<Y>10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<ZHeight>10</ZHeight>
-		<LineWidth>1</LineWidth>
-		<LineColor/>
-		<LineMaterial>null</LineMaterial>
-		<LineStyle>SOLID</LineStyle>
-		<Width>460</Width>
-		<Height>60</Height>
-		<Rotation>0.0</Rotation>
-		<FillColor>-8272897</FillColor>
-		<FillMaterial>null</FillMaterial>
-	</Rectangle>
-	<Text>
-		<Id>1777313729595</Id>
-		<Name><![CDATA[text11]]></Name>
-		<X>322</X>
-		<Y>80</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[Home]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Text>
-		<Id>1777313774761</Id>
-		<Name><![CDATA[text12]]></Name>
-		<X>425</X>
-		<Y>80</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[3D]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Text>
-		<Id>1777313786704</Id>
-		<Name><![CDATA[text13]]></Name>
-		<X>760</X>
-		<Y>80</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[Logic]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
 	<Camera3D>
 		<Id>1777314170559</Id>
 		<Name><![CDATA[FlyingCamera]]></Name>
@@ -17733,274 +17325,6 @@
 		<RotationXCode>atan2(200, getLength(250* sin(cameraRotation()), 500 *cos(cameraRotation())))</RotationXCode>
 		<RotationZCode>-PI/2 + (atan2(250 *sin(cameraRotation()), 500 *cos(cameraRotation()))- PI/2)</RotationZCode>
 	</Camera3D>
-	<Control Type="CheckBox">
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Id>1777314694418</Id>
-		<Name><![CDATA[checkbox]]></Name>
-		<X>600</X>
-		<Y>76</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<BasicProperties Width="100" Height="30">
-			<EmbeddedIcon>false</EmbeddedIcon>
-			<TextColor>-16777216</TextColor>
-			<Enabled>true</Enabled>
-			<ActionCode>if (value) {
-	window3d.setCamera( FlyingCamera, true, 2000);
-} else {
-	window3d.setCamera(camera3d, false, 1000);
-	window3d.setNavigationMode(Navigation3DType.WINDOW_3D_NAVIGATION_LIMITED_TO_Z_ABOVE_ZERO);
-}</ActionCode>
-		</BasicProperties>
-		<ExtendedProperties>
-			<Font Name="Dialog" Size="11" Style="0"/>
-			<LabelText>Flying Camera</LabelText>
-			<LinkTo>false</LinkTo>
-		</ExtendedProperties>
-	</Control>
-	<Control Type="CheckBox">
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Id>1777405325533</Id>
-		<Name><![CDATA[checkbox1]]></Name>
-		<X>1660</X>
-		<Y>156</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<BasicProperties Width="100" Height="30">
-			<EmbeddedIcon>false</EmbeddedIcon>
-			<TextColor>-16777216</TextColor>
-			<Enabled>true</Enabled>
-			<ActionCode>if (value) {
-	window3d.setCamera( FlyingCamera, true, 2000);
-} else {
-	window3d.setCamera(camera3d, false, 1000);
-	window3d.setNavigationMode(Navigation3DType.WINDOW_3D_NAVIGATION_LIMITED_TO_Z_ABOVE_ZERO);
-}</ActionCode>
-		</BasicProperties>
-		<ExtendedProperties>
-			<Font Name="Dialog" Size="11" Style="0"/>
-			<LabelText>Flying Camera</LabelText>
-			<LinkTo>false</LinkTo>
-		</ExtendedProperties>
-	</Control>
-	<Text>
-		<Id>1777405325543</Id>
-		<Name><![CDATA[text15]]></Name>
-		<X>1803</X>
-		<Y>160</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[Logic]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Text>
-		<Id>1777405325549</Id>
-		<Name><![CDATA[text16]]></Name>
-		<X>1392</X>
-		<Y>160</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[Home]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Text>
-		<Id>1777405325541</Id>
-		<Name><![CDATA[text14]]></Name>
-		<X>1495</X>
-		<Y>160</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[3D]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Text>
-		<Id>1777405438088</Id>
-		<Name><![CDATA[text17]]></Name>
-		<X>1062</X>
-		<Y>-986</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[Home]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Text>
-		<Id>1777405438093</Id>
-		<Name><![CDATA[text18]]></Name>
-		<X>1165</X>
-		<Y>-986</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[3D]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Control Type="CheckBox">
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Id>1777405438095</Id>
-		<Name><![CDATA[checkbox2]]></Name>
-		<X>1370</X>
-		<Y>-990</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<BasicProperties Width="100" Height="30">
-			<EmbeddedIcon>false</EmbeddedIcon>
-			<TextColor>-16777216</TextColor>
-			<Enabled>true</Enabled>
-			<ActionCode>if (value) {
-	window3d.setCamera( FlyingCamera, true, 2000);
-} else {
-	window3d.setCamera(camera3d, false, 1000);
-	window3d.setNavigationMode(Navigation3DType.WINDOW_3D_NAVIGATION_LIMITED_TO_Z_ABOVE_ZERO);
-}</ActionCode>
-		</BasicProperties>
-		<ExtendedProperties>
-			<Font Name="Dialog" Size="11" Style="0"/>
-			<LabelText>Flying Camera</LabelText>
-			<LinkTo>false</LinkTo>
-		</ExtendedProperties>
-	</Control>
-	<Text>
-		<Id>1777405438099</Id>
-		<Name><![CDATA[text19]]></Name>
-		<X>1527</X>
-		<Y>-985</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-1</Color>
-		<Text><![CDATA[Logic]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>18</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>CENTER</Alignment>
-	</Text>
-	<Control Type="Button">
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Id>1777405438105</Id>
-		<Name><![CDATA[button3]]></Name>
-		<X>1235</X>
-		<Y>-989</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<BasicProperties Width="100" Height="30">
-			<EmbeddedIcon>false</EmbeddedIcon>
-			<TextColor>-16777216</TextColor>
-			<Enabled>true</Enabled>
-			<ActionCode>window3d.setCamera(camera3d);</ActionCode>
-		</BasicProperties>
-		<ExtendedProperties>
-			<Font Name="Dialog" Size="11" Style="0"/>
-			<LabelText>3D Camera</LabelText>
-		</ExtendedProperties>
-	</Control>
 	<Camera3D>
 		<Id>1777405819979</Id>
 		<Name><![CDATA[camera3d]]></Name>
@@ -18015,56 +17339,6 @@
 		<RotationX>0.0</RotationX>
 		<RotationZ>-158.0</RotationZ>
 	</Camera3D>
-	<Control Type="Button">
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Id>1777406098561</Id>
-		<Name><![CDATA[button4]]></Name>
-		<X>473</X>
-		<Y>78</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<BasicProperties Width="100" Height="30">
-			<EmbeddedIcon>false</EmbeddedIcon>
-			<TextColor>-16777216</TextColor>
-			<Enabled>true</Enabled>
-			<ActionCode>window3d.setCamera(camera3d);</ActionCode>
-		</BasicProperties>
-		<ExtendedProperties>
-			<Font Name="Dialog" Size="11" Style="0"/>
-			<LabelText>3D Camera</LabelText>
-		</ExtendedProperties>
-	</Control>
-	<Control Type="Button">
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Id>1777406125606</Id>
-		<Name><![CDATA[button5]]></Name>
-		<X>1536.6</X>
-		<Y>155.8</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-		<BasicProperties Width="100" Height="30">
-			<EmbeddedIcon>false</EmbeddedIcon>
-			<TextColor>-16777216</TextColor>
-			<Enabled>true</Enabled>
-			<ActionCode>window3d.setCamera(camera3d);</ActionCode>
-		</BasicProperties>
-		<ExtendedProperties>
-			<Font Name="Dialog" Size="11" Style="0"/>
-			<LabelText>3D Camera</LabelText>
-		</ExtendedProperties>
-	</Control>
 	<Wall>
 		<Id>1776955301417</Id>
 		<Name><![CDATA[wall3]]></Name>
@@ -18079,7 +17353,7 @@
 		<ShowLabel>false</ShowLabel>
 		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<Z>0</Z>
-		<LineColor>-3308225</LineColor>
+		<LineColor>-1764915905</LineColor>
 		<LineWidth>2</LineWidth>
 		<LineMaterial>brickRed</LineMaterial>
 		<FillingType>HATCHED_AREA</FillingType>
@@ -18245,7 +17519,7 @@
 		<ShowLabel>false</ShowLabel>
 		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<Z>0</Z>
-		<LineColor>-3308225</LineColor>
+		<LineColor>-1764915905</LineColor>
 		<LineWidth>2</LineWidth>
 		<LineMaterial>brickRed</LineMaterial>
 		<FillingType>HATCHED_AREA</FillingType>
@@ -18347,8 +17621,8 @@
 	<Wall>
 		<Id>1777465851983</Id>
 		<Name><![CDATA[wall5]]></Name>
-		<X>599</X>
-		<Y>699</Y>
+		<X>595</X>
+		<Y>700</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -18358,11 +17632,11 @@
 		<ShowLabel>false</ShowLabel>
 		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<Z>0</Z>
-		<LineColor>-3308225</LineColor>
+		<LineColor>-1764915905</LineColor>
 		<LineWidth>2</LineWidth>
 		<LineMaterial>brickRed</LineMaterial>
 		<FillingType>HATCHED_AREA</FillingType>
-		<ZHeight>20</ZHeight>
+		<ZHeight>10</ZHeight>
 		<Closed>false</Closed>
 		<Points>
 			<Point>
@@ -18371,8 +17645,8 @@
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>-13.868</X>
-				<Y>-20.801</Y>
+				<X>-12.048</X>
+				<Y>-21.905</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
@@ -18391,23 +17665,23 @@
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>-7.456</X>
-				<Y>-30.495</Y>
+				<X>-7.026</X>
+				<Y>-30.334</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>-12</X>
-				<Y>-18</Y>
+				<X>-11</X>
+				<Y>-20</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>-20.544</X>
-				<Y>5.494999999999999</Y>
+				<X>-19.974</X>
+				<Y>3.3339999999999996</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>1.8675049056307262</X>
-				<Y>2.8012573584460903</Y>
+				<X>1.0479687443038976</X>
+				<Y>1.9053977169161769</Y>
 				<Z>0</Z>
 			</Point>
 		</Points>
@@ -18426,7 +17700,7 @@
 		<ShowLabel>false</ShowLabel>
 		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<Z>0</Z>
-		<LineColor>-3308225</LineColor>
+		<LineColor>-1764915905</LineColor>
 		<LineWidth>2</LineWidth>
 		<LineMaterial>brickRed</LineMaterial>
 		<FillingType>HATCHED_AREA</FillingType>
@@ -18474,8 +17748,23 @@
 				<Z>0</Z>
 			</Point>
 			<Point>
-				<X>29.736</X>
-				<Y>-66.153</Y>
+				<X>29.73585120756538</X>
+				<Y>-66.15310772161362</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>42.997</X>
+				<Y>-60.936</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>66.261</X>
+				<Y>-51.783</Y>
+				<Z>0</Z>
+			</Point>
+			<Point>
+				<X>19.733</X>
+				<Y>-70.089</Y>
 				<Z>0</Z>
 			</Point>
 			<Point>
@@ -25183,4 +24472,541 @@
 		<InternalLighting>OFF</InternalLighting>
 		<IgnoreSceneLights>false</IgnoreSceneLights>
 	</Figure3D>
+	<Figure3D>
+		<Id>1777643340110</Id>
+		<Name><![CDATA[toilet]]></Name>
+		<X>591</X>
+		<Y>688</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<X>591</X>
+		<Y>688</Y>
+		<Z>0</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ResourceReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>3d/toilet.dae</ClassName>
+		</ResourceReference>
+		<ColorTable>
+			<ColorMapping>
+				<Name><![CDATA[MA_material]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_0]]></Name>
+				<OriginalColor>-3285271</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_1]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+		</ColorTable>
+		<AutoScale>true</AutoScale>
+		<Scale>1.0</Scale>
+		<Rotation>20.0</Rotation>
+		<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
+		<ApplyShading>true</ApplyShading>
+		<InternalLighting>OFF</InternalLighting>
+		<IgnoreSceneLights>false</IgnoreSceneLights>
+	</Figure3D>
+	<Figure3D>
+		<Id>1777643364477</Id>
+		<Name><![CDATA[toilet1]]></Name>
+		<X>597</X>
+		<Y>690</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<X>597</X>
+		<Y>690</Y>
+		<Z>0</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ResourceReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>3d/toilet.dae</ClassName>
+		</ResourceReference>
+		<ColorTable>
+			<ColorMapping>
+				<Name><![CDATA[MA_material]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_0]]></Name>
+				<OriginalColor>-3285271</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_1]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+		</ColorTable>
+		<AutoScale>true</AutoScale>
+		<Scale>1.0</Scale>
+		<Rotation>20.0</Rotation>
+		<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
+		<ApplyShading>true</ApplyShading>
+		<InternalLighting>OFF</InternalLighting>
+		<IgnoreSceneLights>false</IgnoreSceneLights>
+	</Figure3D>
+	<Figure3D>
+		<Id>1777643377887</Id>
+		<Name><![CDATA[toilet2]]></Name>
+		<X>603</X>
+		<Y>692</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<X>603</X>
+		<Y>692</Y>
+		<Z>0</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ResourceReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>3d/toilet.dae</ClassName>
+		</ResourceReference>
+		<ColorTable>
+			<ColorMapping>
+				<Name><![CDATA[MA_material]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_0]]></Name>
+				<OriginalColor>-3285271</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_1]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+		</ColorTable>
+		<AutoScale>true</AutoScale>
+		<Scale>1.0</Scale>
+		<Rotation>20.0</Rotation>
+		<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
+		<ApplyShading>true</ApplyShading>
+		<InternalLighting>OFF</InternalLighting>
+		<IgnoreSceneLights>false</IgnoreSceneLights>
+	</Figure3D>
+	<Figure3D>
+		<Id>1777643388471</Id>
+		<Name><![CDATA[toilet3]]></Name>
+		<X>587</X>
+		<Y>691</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<X>587</X>
+		<Y>691</Y>
+		<Z>0</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ResourceReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>3d/toilet.dae</ClassName>
+		</ResourceReference>
+		<ColorTable>
+			<ColorMapping>
+				<Name><![CDATA[MA_material]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_0]]></Name>
+				<OriginalColor>-3285271</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_1]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+		</ColorTable>
+		<AutoScale>true</AutoScale>
+		<Scale>1.0</Scale>
+		<Rotation>204.0</Rotation>
+		<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
+		<ApplyShading>true</ApplyShading>
+		<InternalLighting>OFF</InternalLighting>
+		<IgnoreSceneLights>false</IgnoreSceneLights>
+	</Figure3D>
+	<Figure3D>
+		<Id>1777643399776</Id>
+		<Name><![CDATA[toilet4]]></Name>
+		<X>592</X>
+		<Y>693</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<X>592</X>
+		<Y>693</Y>
+		<Z>0</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ResourceReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>3d/toilet.dae</ClassName>
+		</ResourceReference>
+		<ColorTable>
+			<ColorMapping>
+				<Name><![CDATA[MA_material]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_0]]></Name>
+				<OriginalColor>-3285271</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_1]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+		</ColorTable>
+		<AutoScale>true</AutoScale>
+		<Scale>1.0</Scale>
+		<Rotation>198.0</Rotation>
+		<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
+		<ApplyShading>true</ApplyShading>
+		<InternalLighting>OFF</InternalLighting>
+		<IgnoreSceneLights>false</IgnoreSceneLights>
+	</Figure3D>
+	<Figure3D>
+		<Id>1777643414726</Id>
+		<Name><![CDATA[toilet5]]></Name>
+		<X>598</X>
+		<Y>696</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<X>598</X>
+		<Y>696</Y>
+		<Z>0</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ResourceReference>
+			<PackageName>ie406_project_model</PackageName>
+			<ClassName>3d/toilet.dae</ClassName>
+		</ResourceReference>
+		<ColorTable>
+			<ColorMapping>
+				<Name><![CDATA[MA_material]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_0]]></Name>
+				<OriginalColor>-3285271</OriginalColor>
+			</ColorMapping>
+			<ColorMapping>
+				<Name><![CDATA[MA_material_1]]></Name>
+				<OriginalColor>-1</OriginalColor>
+			</ColorMapping>
+		</ColorTable>
+		<AutoScale>true</AutoScale>
+		<Scale>1.0</Scale>
+		<Rotation>200.0</Rotation>
+		<AxisOrder>XYZ_AXIS_ORDER</AxisOrder>
+		<ApplyShading>true</ApplyShading>
+		<InternalLighting>OFF</InternalLighting>
+		<IgnoreSceneLights>false</IgnoreSceneLights>
+	</Figure3D>
+	<Group>
+		<Id>1777644287414</Id>
+		<Name><![CDATA[groupMainMenu]]></Name>
+		<X>560</X>
+		<Y>80</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Presentation>
+			<Rectangle>
+				<Id>1777313450617</Id>
+				<Name><![CDATA[rectangle12]]></Name>
+				<X>-270</X>
+				<Y>-30</Y>
+				<Label>
+					<X>10</X>
+					<Y>10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<OnClickCode>navigate(viewArea2D);</OnClickCode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<ZHeight>10</ZHeight>
+				<LineWidth>1</LineWidth>
+				<LineColor/>
+				<LineMaterial>null</LineMaterial>
+				<LineStyle>SOLID</LineStyle>
+				<Width>80</Width>
+				<Height>60</Height>
+				<Rotation>0.0</Rotation>
+				<FillColor>-14774017</FillColor>
+				<FillMaterial>null</FillMaterial>
+			</Rectangle>
+			<Rectangle>
+				<Id>1777313510894</Id>
+				<Name><![CDATA[rectangle13]]></Name>
+				<X>-165</X>
+				<Y>-30</Y>
+				<Label>
+					<X>10</X>
+					<Y>10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<OnClickCode>navigate(viewArea3D);</OnClickCode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<ZHeight>10</ZHeight>
+				<LineWidth>1</LineWidth>
+				<LineColor/>
+				<LineMaterial>null</LineMaterial>
+				<LineStyle>SOLID</LineStyle>
+				<Width>80</Width>
+				<Height>60</Height>
+				<Rotation>0.0</Rotation>
+				<FillColor>-1</FillColor>
+				<FillColorCode>selectedViewArea == viewArea3D ?
+	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
+				<FillMaterial>null</FillMaterial>
+			</Rectangle>
+			<Rectangle>
+				<Id>1777313582403</Id>
+				<Name><![CDATA[rectangle14]]></Name>
+				<X>170</X>
+				<Y>-30</Y>
+				<Label>
+					<X>10</X>
+					<Y>10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<OnClickCode>navigate(viewAreaHome);</OnClickCode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<ZHeight>10</ZHeight>
+				<LineWidth>1</LineWidth>
+				<LineColor/>
+				<LineMaterial>null</LineMaterial>
+				<LineStyle>SOLID</LineStyle>
+				<Width>80</Width>
+				<Height>60</Height>
+				<Rotation>0.0</Rotation>
+				<FillColor>-1</FillColor>
+				<FillColorCode>selectedViewArea == viewAreaHome ?
+	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
+				<FillMaterial>null</FillMaterial>
+			</Rectangle>
+			<Rectangle>
+				<Id>1777313658034</Id>
+				<Name><![CDATA[rectangle15]]></Name>
+				<X>-190</X>
+				<Y>-30</Y>
+				<Label>
+					<X>10</X>
+					<Y>10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<ZHeight>10</ZHeight>
+				<LineWidth>1</LineWidth>
+				<LineColor/>
+				<LineMaterial>null</LineMaterial>
+				<LineStyle>SOLID</LineStyle>
+				<Width>460</Width>
+				<Height>60</Height>
+				<Rotation>0.0</Rotation>
+				<FillColor>-8272897</FillColor>
+				<FillMaterial>null</FillMaterial>
+			</Rectangle>
+			<Text>
+				<Id>1777313729595</Id>
+				<Name><![CDATA[text11]]></Name>
+				<X>-228</X>
+				<Y>-10</Y>
+				<Label>
+					<X>0</X>
+					<Y>-10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<Rotation>0.0</Rotation>
+				<Color>-1</Color>
+				<Text><![CDATA[Home]]></Text>
+				<Font>
+					<Name><![CDATA[SansSerif]]></Name>
+					<Size>18</Size>
+					<Style>0</Style>
+				</Font>
+				<Alignment>CENTER</Alignment>
+			</Text>
+			<Text>
+				<Id>1777313774761</Id>
+				<Name><![CDATA[text12]]></Name>
+				<X>-125</X>
+				<Y>-10</Y>
+				<Label>
+					<X>0</X>
+					<Y>-10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<Rotation>0.0</Rotation>
+				<Color>-1</Color>
+				<Text><![CDATA[3D]]></Text>
+				<Font>
+					<Name><![CDATA[SansSerif]]></Name>
+					<Size>18</Size>
+					<Style>0</Style>
+				</Font>
+				<Alignment>CENTER</Alignment>
+			</Text>
+			<Text>
+				<Id>1777313786704</Id>
+				<Name><![CDATA[text13]]></Name>
+				<X>210</X>
+				<Y>-10</Y>
+				<Label>
+					<X>0</X>
+					<Y>-10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<Rotation>0.0</Rotation>
+				<Color>-1</Color>
+				<Text><![CDATA[Logic]]></Text>
+				<Font>
+					<Name><![CDATA[SansSerif]]></Name>
+					<Size>18</Size>
+					<Style>0</Style>
+				</Font>
+				<Alignment>CENTER</Alignment>
+			</Text>
+			<Control Type="CheckBox">
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Id>1777314694418</Id>
+				<Name><![CDATA[checkbox]]></Name>
+				<X>50</X>
+				<Y>-14</Y>
+				<Label>
+					<X>0</X>
+					<Y>-10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<BasicProperties Width="100" Height="30">
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<TextColor>-16777216</TextColor>
+					<Enabled>true</Enabled>
+					<ActionCode>if (value) {
+	window3d.setCamera( FlyingCamera, true, 2000);
+} else {
+	window3d.setCamera(camera3d, false, 1000);
+	window3d.setNavigationMode(Navigation3DType.WINDOW_3D_NAVIGATION_LIMITED_TO_Z_ABOVE_ZERO);
+}</ActionCode>
+				</BasicProperties>
+				<ExtendedProperties>
+					<Font Name="Dialog" Size="11" Style="0"/>
+					<LabelText>Flying Camera</LabelText>
+					<LinkTo>false</LinkTo>
+				</ExtendedProperties>
+			</Control>
+			<Control Type="Button">
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Id>1777406098561</Id>
+				<Name><![CDATA[button4]]></Name>
+				<X>-77</X>
+				<Y>-12</Y>
+				<Label>
+					<X>0</X>
+					<Y>-10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<BasicProperties Width="100" Height="30">
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<TextColor>-16777216</TextColor>
+					<Enabled>true</Enabled>
+					<ActionCode>window3d.setCamera(camera3d);</ActionCode>
+				</BasicProperties>
+				<ExtendedProperties>
+					<Font Name="Dialog" Size="11" Style="0"/>
+					<LabelText>3D Camera</LabelText>
+				</ExtendedProperties>
+			</Control>
+		</Presentation>
+	</Group>
 </Presentation>

@@ -3,7 +3,8 @@ double navigate(ViewArea viewArea)
 
 selectedViewArea = viewArea;
 viewArea.navigateTo();
-//groupMainMenu.setPos( viewArea.getX(), viewArea.getY() );
+groupMainMenu.setPos( viewArea.getX(), viewArea.getY() );
+
 /*ALCODEEND*/}
 
 double cameraRotation()
