@@ -3,8 +3,8 @@
 	<EmbeddedObject>
 		<Id>1776284220410</Id>
 		<Name><![CDATA[rpCashier]]></Name>
-		<X>2150</X>
-		<Y>-450</Y>
+		<X>3390</X>
+		<Y>630</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -299,8 +299,8 @@
 	<EmbeddedObject>
 		<Id>1776288120990</Id>
 		<Name><![CDATA[rpBathrooms]]></Name>
-		<X>2150</X>
-		<Y>-390</Y>
+		<X>3390</X>
+		<Y>690</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -548,8 +548,8 @@
 	<EmbeddedObject>
 		<Id>1776786520887</Id>
 		<Name><![CDATA[rpCars]]></Name>
-		<X>2150</X>
-		<Y>-320</Y>
+		<X>3390</X>
+		<Y>760</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -844,8 +844,8 @@
 	<EmbeddedObject>
 		<Id>1776881591041</Id>
 		<Name><![CDATA[rpParkingSpots]]></Name>
-		<X>2150</X>
-		<Y>-600</Y>
+		<X>3390</X>
+		<Y>480</Y>
 		<Label>
 			<X>-30</X>
 			<Y>-20</Y>
@@ -1139,8 +1139,8 @@
 	<EmbeddedObject>
 		<Id>1776883716160</Id>
 		<Name><![CDATA[GetGas]]></Name>
-		<X>520</X>
-		<Y>-910</Y>
+		<X>1760</X>
+		<Y>170</Y>
 		<Label>
 			<X>-5</X>
 			<Y>-15</Y>
@@ -1214,8 +1214,8 @@
 	<EmbeddedObject>
 		<Id>1776883725821</Id>
 		<Name><![CDATA[PumpDecisions]]></Name>
-		<X>720</X>
-		<Y>-910</Y>
+		<X>1960</X>
+		<Y>170</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-20</Y>
@@ -1331,8 +1331,8 @@
 	<EmbeddedObject>
 		<Id>1776883803631</Id>
 		<Name><![CDATA[InsideDecisions]]></Name>
-		<X>960</X>
-		<Y>-870</Y>
+		<X>2200</X>
+		<Y>210</Y>
 		<Label>
 			<X>-40</X>
 			<Y>-25</Y>
@@ -1448,8 +1448,8 @@
 	<EmbeddedObject>
 		<Id>1776883879875</Id>
 		<Name><![CDATA[PayInsideDecisions]]></Name>
-		<X>960</X>
-		<Y>-560</Y>
+		<X>2200</X>
+		<Y>520</Y>
 		<Label>
 			<X>-40</X>
 			<Y>-25</Y>
@@ -1565,8 +1565,8 @@
 	<EmbeddedObject>
 		<Id>1776883911485</Id>
 		<Name><![CDATA[selectOutput8]]></Name>
-		<X>870</X>
-		<Y>-250</Y>
+		<X>2110</X>
+		<Y>830</Y>
 		<Label>
 			<X>-40</X>
 			<Y>-25</Y>
@@ -1682,8 +1682,8 @@
 	<EmbeddedObject>
 		<Id>1776883957573</Id>
 		<Name><![CDATA[Checkout]]></Name>
-		<X>1300</X>
-		<Y>-810</Y>
+		<X>2540</X>
+		<Y>270</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-15</Y>
@@ -1873,8 +1873,8 @@
 	<EmbeddedObject>
 		<Id>1776884244649</Id>
 		<Name><![CDATA[szParkingSpot1]]></Name>
-		<X>590</X>
-		<Y>-260</Y>
+		<X>1830</X>
+		<Y>820</Y>
 		<Label>
 			<X>-25</X>
 			<Y>-5</Y>
@@ -2082,8 +2082,8 @@
 	<EmbeddedObject>
 		<Id>1776884244705</Id>
 		<Name><![CDATA[Park1]]></Name>
-		<X>650</X>
-		<Y>-260</Y>
+		<X>1890</X>
+		<Y>820</Y>
 		<Label>
 			<X>5</X>
 			<Y>-5</Y>
@@ -2236,8 +2236,8 @@
 	<EmbeddedObject>
 		<Id>1776884244742</Id>
 		<Name><![CDATA[LeaveCar1]]></Name>
-		<X>710</X>
-		<Y>-260</Y>
+		<X>1950</X>
+		<Y>820</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-10</Y>
@@ -2305,8 +2305,8 @@
 	<EmbeddedObject>
 		<Id>1776884244753</Id>
 		<Name><![CDATA[GoInside1]]></Name>
-		<X>770</X>
-		<Y>-260</Y>
+		<X>2010</X>
+		<Y>820</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-15</Y>
@@ -2459,8 +2459,8 @@
 	<EmbeddedObject>
 		<Id>1776885701671</Id>
 		<Name><![CDATA[Fueling1]]></Name>
-		<X>1430</X>
-		<Y>-920</Y>
+		<X>2670</X>
+		<Y>160</Y>
 		<Label>
 			<X>-5</X>
 			<Y>-10</Y>
@@ -2658,8 +2658,8 @@
 	<EmbeddedObject>
 		<Id>1776885777953</Id>
 		<Name><![CDATA[releasePump]]></Name>
-		<X>1510</X>
-		<Y>-920</Y>
+		<X>2750</X>
+		<Y>160</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-15</Y>
@@ -2751,8 +2751,8 @@
 	<EmbeddedObject>
 		<Id>1776885834358</Id>
 		<Name><![CDATA[szPump]]></Name>
-		<X>570</X>
-		<Y>-920</Y>
+		<X>1810</X>
+		<Y>160</Y>
 		<Label>
 			<X>-5</X>
 			<Y>-10</Y>
@@ -2960,8 +2960,8 @@
 	<EmbeddedObject>
 		<Id>1776885856179</Id>
 		<Name><![CDATA[ToPump]]></Name>
-		<X>640</X>
-		<Y>-920</Y>
+		<X>1880</X>
+		<Y>160</Y>
 		<Label>
 			<X>-5</X>
 			<Y>-10</Y>
@@ -3114,8 +3114,8 @@
 	<EmbeddedObject>
 		<Id>1776886985387</Id>
 		<Name><![CDATA[Checkout1]]></Name>
-		<X>1320</X>
-		<Y>-200</Y>
+		<X>2560</X>
+		<Y>880</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-15</Y>
@@ -3305,8 +3305,8 @@
 	<EmbeddedObject>
 		<Id>1776887107228</Id>
 		<Name><![CDATA[LeaveCar2]]></Name>
-		<X>820</X>
-		<Y>-880</Y>
+		<X>2060</X>
+		<Y>200</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-10</Y>
@@ -3374,8 +3374,8 @@
 	<EmbeddedObject>
 		<Id>1776887107249</Id>
 		<Name><![CDATA[GoInside2]]></Name>
-		<X>880</X>
-		<Y>-880</Y>
+		<X>2120</X>
+		<Y>200</Y>
 		<Label>
 			<X>-12</X>
 			<Y>-4</Y>
@@ -3525,8 +3525,8 @@
 	<EmbeddedObject>
 		<Id>1776887350137</Id>
 		<Name><![CDATA[Arrival1]]></Name>
-		<X>380</X>
-		<Y>-910</Y>
+		<X>1620</X>
+		<Y>170</Y>
 		<Label>
 			<X>-5</X>
 			<Y>-20</Y>
@@ -3755,8 +3755,8 @@
 	<EmbeddedObject>
 		<Id>1776887350203</Id>
 		<Name><![CDATA[szCar1]]></Name>
-		<X>440</X>
-		<Y>-920</Y>
+		<X>1680</X>
+		<Y>160</Y>
 		<Label>
 			<X>-5</X>
 			<Y>-15</Y>
@@ -3979,8 +3979,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776887443912</Id>
 		<Name><![CDATA[GoToCar1]]></Name>
-		<X>1400</X>
-		<Y>-260</Y>
+		<X>2640</X>
+		<Y>820</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-15</Y>
@@ -4133,8 +4133,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776887443949</Id>
 		<Name><![CDATA[GetInCar1]]></Name>
-		<X>1470</X>
-		<Y>-260</Y>
+		<X>2710</X>
+		<Y>820</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-15</Y>
@@ -4202,8 +4202,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776887443960</Id>
 		<Name><![CDATA[releaseParking1]]></Name>
-		<X>1540</X>
-		<Y>-260</Y>
+		<X>2780</X>
+		<Y>820</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-15</Y>
@@ -4301,8 +4301,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776957986156</Id>
 		<Name><![CDATA[UseRestroom5]]></Name>
-		<X>1090</X>
-		<Y>-880</Y>
+		<X>2330</X>
+		<Y>200</Y>
 		<Label>
 			<X>-20</X>
 			<Y>-5</Y>
@@ -4496,8 +4496,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958004699</Id>
 		<Name><![CDATA[UseRestroom6]]></Name>
-		<X>1110</X>
-		<Y>-570</Y>
+		<X>2350</X>
+		<Y>510</Y>
 		<Label>
 			<X>-20</X>
 			<Y>-5</Y>
@@ -4691,8 +4691,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958018988</Id>
 		<Name><![CDATA[UseRestroom7]]></Name>
-		<X>1070</X>
-		<Y>-260</Y>
+		<X>2310</X>
+		<Y>820</Y>
 		<Label>
 			<X>-20</X>
 			<Y>-5</Y>
@@ -4886,8 +4886,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958043045</Id>
 		<Name><![CDATA[UseRestroom8]]></Name>
-		<X>1070</X>
-		<Y>-720</Y>
+		<X>2310</X>
+		<Y>360</Y>
 		<Label>
 			<X>-20</X>
 			<Y>-5</Y>
@@ -5081,8 +5081,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958056109</Id>
 		<Name><![CDATA[UseRestroom9]]></Name>
-		<X>1050</X>
-		<Y>-370</Y>
+		<X>2290</X>
+		<Y>710</Y>
 		<Label>
 			<X>-20</X>
 			<Y>-5</Y>
@@ -5276,8 +5276,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958062971</Id>
 		<Name><![CDATA[UseRestroom10]]></Name>
-		<X>970</X>
-		<Y>-100</Y>
+		<X>2210</X>
+		<Y>980</Y>
 		<Label>
 			<X>-20</X>
 			<Y>-5</Y>
@@ -5471,8 +5471,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958106805</Id>
 		<Name><![CDATA[Shop5]]></Name>
-		<X>1070</X>
-		<Y>-820</Y>
+		<X>2310</X>
+		<Y>260</Y>
 		<Label>
 			<X>0</X>
 			<Y>-5</Y>
@@ -5565,8 +5565,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958135111</Id>
 		<Name><![CDATA[Shop6]]></Name>
-		<X>1170</X>
-		<Y>-720</Y>
+		<X>2410</X>
+		<Y>360</Y>
 		<Label>
 			<X>0</X>
 			<Y>-5</Y>
@@ -5659,8 +5659,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958139926</Id>
 		<Name><![CDATA[Shop7]]></Name>
-		<X>1070</X>
-		<Y>-470</Y>
+		<X>2310</X>
+		<Y>610</Y>
 		<Label>
 			<X>0</X>
 			<Y>-5</Y>
@@ -5753,8 +5753,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958146732</Id>
 		<Name><![CDATA[Shop8]]></Name>
-		<X>1140</X>
-		<Y>-370</Y>
+		<X>2380</X>
+		<Y>710</Y>
 		<Label>
 			<X>0</X>
 			<Y>-5</Y>
@@ -5847,8 +5847,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958163675</Id>
 		<Name><![CDATA[Shop9]]></Name>
-		<X>1050</X>
-		<Y>-190</Y>
+		<X>2290</X>
+		<Y>890</Y>
 		<Label>
 			<X>0</X>
 			<Y>-5</Y>
@@ -5941,8 +5941,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776958174212</Id>
 		<Name><![CDATA[Shop10]]></Name>
-		<X>1070</X>
-		<Y>-100</Y>
+		<X>2310</X>
+		<Y>980</Y>
 		<Label>
 			<X>0</X>
 			<Y>-5</Y>
@@ -6035,8 +6035,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1776967537130</Id>
 		<Name><![CDATA[rpGasPumps]]></Name>
-		<X>2150</X>
-		<Y>-530</Y>
+		<X>3390</X>
+		<Y>550</Y>
 		<Label>
 			<X>-25</X>
 			<Y>-15</Y>
@@ -6330,8 +6330,8 @@ car.group.setVisible(true);]]></Code>
 	<EmbeddedObject>
 		<Id>1777295780618</Id>
 		<Name><![CDATA[releaseCar]]></Name>
-		<X>2020</X>
-		<Y>-840</Y>
+		<X>3260</X>
+		<Y>240</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-15</Y>
@@ -6441,8 +6441,8 @@ if (car != null) {
 	<EmbeddedObject>
 		<Id>1777295867179</Id>
 		<Name><![CDATA[toExit]]></Name>
-		<X>1820</X>
-		<Y>-840</Y>
+		<X>3060</X>
+		<Y>240</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-15</Y>
@@ -6592,8 +6592,8 @@ if (car != null) {
 	<EmbeddedObject>
 		<Id>1777295935801</Id>
 		<Name><![CDATA[sink]]></Name>
-		<X>2120</X>
-		<Y>-830</Y>
+		<X>3360</X>
+		<Y>250</Y>
 		<Label>
 			<X>-10</X>
 			<Y>-20</Y>
@@ -6646,8 +6646,8 @@ if (car != null) {
 	<EmbeddedObject>
 		<Id>1777382119377</Id>
 		<Name><![CDATA[LeaveCar3]]></Name>
-		<X>830</X>
-		<Y>-570</Y>
+		<X>2070</X>
+		<Y>510</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-10</Y>
@@ -6715,8 +6715,8 @@ if (car != null) {
 	<EmbeddedObject>
 		<Id>1777382119413</Id>
 		<Name><![CDATA[GoInside3]]></Name>
-		<X>890</X>
-		<Y>-570</Y>
+		<X>2130</X>
+		<Y>510</Y>
 		<Label>
 			<X>-12</X>
 			<Y>-4</Y>
@@ -6866,8 +6866,8 @@ if (car != null) {
 	<EmbeddedObject>
 		<Id>1777382188233</Id>
 		<Name><![CDATA[moveToCaar]]></Name>
-		<X>1370</X>
-		<Y>-810</Y>
+		<X>2610</X>
+		<Y>270</Y>
 		<Label>
 			<X>-15</X>
 			<Y>-15</Y>
@@ -7020,8 +7020,8 @@ if (car != null) {
 	<EmbeddedObject>
 		<Id>1777382222920</Id>
 		<Name><![CDATA[resourceAttach]]></Name>
-		<X>1425</X>
-		<Y>-810</Y>
+		<X>2665</X>
+		<Y>270</Y>
 		<Label>
 			<X>-40</X>
 			<Y>-15</Y>
@@ -7089,8 +7089,8 @@ if (car != null) {
 	<EmbeddedObject>
 		<Id>1777568515769</Id>
 		<Name><![CDATA[endCar]]></Name>
-		<X>2050</X>
-		<Y>-770</Y>
+		<X>3290</X>
+		<Y>310</Y>
 		<Label>
 			<X>-60</X>
 			<Y>-20</Y>

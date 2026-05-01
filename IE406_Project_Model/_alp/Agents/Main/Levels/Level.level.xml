@@ -17018,8 +17018,8 @@
 	<Control Type="Window3D">
 		<Id>1776169631716</Id>
 		<Name><![CDATA[window3d]]></Name>
-		<X>1100</X>
-		<Y>220</Y>
+		<X>20</X>
+		<Y>2140</Y>
 		<Width>1000</Width>
 		<Height>530</Height>
 		<MakeDefaultViewArea>true</MakeDefaultViewArea>
@@ -17035,8 +17035,8 @@
 	<Text>
 		<Id>1776885973682</Id>
 		<Name><![CDATA[text]]></Name>
-		<X>690</X>
-		<Y>-890</Y>
+		<X>1930</X>
+		<Y>190</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17060,8 +17060,8 @@
 	<Text>
 		<Id>1776886007288</Id>
 		<Name><![CDATA[text1]]></Name>
-		<X>680</X>
-		<Y>-870</Y>
+		<X>1920</X>
+		<Y>210</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17085,8 +17085,8 @@
 	<Text>
 		<Id>1776886082104</Id>
 		<Name><![CDATA[text2]]></Name>
-		<X>995</X>
-		<Y>-890</Y>
+		<X>2235</X>
+		<Y>190</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17110,8 +17110,8 @@
 	<Text>
 		<Id>1776886114438</Id>
 		<Name><![CDATA[text3]]></Name>
-		<X>915</X>
-		<Y>-850</Y>
+		<X>2155</X>
+		<Y>230</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17135,8 +17135,8 @@
 	<Text>
 		<Id>1776886159541</Id>
 		<Name><![CDATA[text4]]></Name>
-		<X>875</X>
-		<Y>-830</Y>
+		<X>2115</X>
+		<Y>250</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17160,8 +17160,8 @@
 	<Text>
 		<Id>1776886477314</Id>
 		<Name><![CDATA[text5]]></Name>
-		<X>700</X>
-		<Y>-520</Y>
+		<X>1940</X>
+		<Y>560</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17185,8 +17185,8 @@
 	<Text>
 		<Id>1776886477316</Id>
 		<Name><![CDATA[text6]]></Name>
-		<X>720</X>
-		<Y>-540</Y>
+		<X>1960</X>
+		<Y>540</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17210,8 +17210,8 @@
 	<Text>
 		<Id>1776886491062</Id>
 		<Name><![CDATA[text7]]></Name>
-		<X>990</X>
-		<Y>-560</Y>
+		<X>2230</X>
+		<Y>520</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17235,8 +17235,8 @@
 	<Text>
 		<Id>1776886899508</Id>
 		<Name><![CDATA[text8]]></Name>
-		<X>910</X>
-		<Y>-250</Y>
+		<X>2150</X>
+		<Y>830</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17260,8 +17260,8 @@
 	<Text>
 		<Id>1776886913067</Id>
 		<Name><![CDATA[text9]]></Name>
-		<X>790</X>
-		<Y>-210</Y>
+		<X>2030</X>
+		<Y>870</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17285,8 +17285,8 @@
 	<Text>
 		<Id>1776886919344</Id>
 		<Name><![CDATA[text10]]></Name>
-		<X>830</X>
-		<Y>-230</Y>
+		<X>2070</X>
+		<Y>850</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17328,16 +17328,16 @@
 	<Camera3D>
 		<Id>1777405819979</Id>
 		<Name><![CDATA[camera3d]]></Name>
-		<X>908.39</X>
-		<Y>749.52</Y>
-		<Z>100</Z>
+		<X>659.51</X>
+		<Y>816.42</Y>
+		<Z>158.67</Z>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
 		</Label>
 		<ShowLabel>false</ShowLabel>
-		<RotationX>0.0</RotationX>
-		<RotationZ>-158.0</RotationZ>
+		<RotationX>45.0</RotationX>
+		<RotationZ>-155.0</RotationZ>
 	</Camera3D>
 	<Wall>
 		<Id>1776955301417</Id>
@@ -24748,11 +24748,25 @@
 		<InternalLighting>OFF</InternalLighting>
 		<IgnoreSceneLights>false</IgnoreSceneLights>
 	</Figure3D>
+	<Camera3D>
+		<Id>1777647703845</Id>
+		<Name><![CDATA[camera3dtruck]]></Name>
+		<X>808.18</X>
+		<Y>450.13</Y>
+		<Z>185.06</Z>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<ShowLabel>false</ShowLabel>
+		<RotationX>45.0</RotationX>
+		<RotationZ>-152.0</RotationZ>
+	</Camera3D>
 	<Group>
-		<Id>1777644287414</Id>
+		<Id>1777647832380</Id>
 		<Name><![CDATA[groupMainMenu]]></Name>
-		<X>560</X>
-		<Y>80</Y>
+		<X>260</X>
+		<Y>50</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -24760,7 +24774,7 @@
 		<PublicFlag>true</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
 		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<EmbeddedIcon>false</EmbeddedIcon>
 		<Z>0</Z>
 		<Rotation>0.0</Rotation>
@@ -24768,8 +24782,8 @@
 			<Rectangle>
 				<Id>1777313450617</Id>
 				<Name><![CDATA[rectangle12]]></Name>
-				<X>-270</X>
-				<Y>-30</Y>
+				<X>10</X>
+				<Y>10</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24795,8 +24809,8 @@
 			<Rectangle>
 				<Id>1777313510894</Id>
 				<Name><![CDATA[rectangle13]]></Name>
-				<X>-165</X>
-				<Y>-30</Y>
+				<X>170</X>
+				<Y>10</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24824,8 +24838,8 @@
 			<Rectangle>
 				<Id>1777313582403</Id>
 				<Name><![CDATA[rectangle14]]></Name>
-				<X>170</X>
-				<Y>-30</Y>
+				<X>90</X>
+				<Y>10</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24853,8 +24867,8 @@
 			<Rectangle>
 				<Id>1777313658034</Id>
 				<Name><![CDATA[rectangle15]]></Name>
-				<X>-190</X>
-				<Y>-30</Y>
+				<X>90</X>
+				<Y>10</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24870,7 +24884,7 @@
 				<LineColor/>
 				<LineMaterial>null</LineMaterial>
 				<LineStyle>SOLID</LineStyle>
-				<Width>460</Width>
+				<Width>520</Width>
 				<Height>60</Height>
 				<Rotation>0.0</Rotation>
 				<FillColor>-8272897</FillColor>
@@ -24879,8 +24893,8 @@
 			<Text>
 				<Id>1777313729595</Id>
 				<Name><![CDATA[text11]]></Name>
-				<X>-228</X>
-				<Y>-10</Y>
+				<X>52</X>
+				<Y>30</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24904,8 +24918,8 @@
 			<Text>
 				<Id>1777313774761</Id>
 				<Name><![CDATA[text12]]></Name>
-				<X>-125</X>
-				<Y>-10</Y>
+				<X>210</X>
+				<Y>30</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24929,8 +24943,8 @@
 			<Text>
 				<Id>1777313786704</Id>
 				<Name><![CDATA[text13]]></Name>
-				<X>210</X>
-				<Y>-10</Y>
+				<X>130</X>
+				<Y>30</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24955,8 +24969,8 @@
 				<EmbeddedIcon>false</EmbeddedIcon>
 				<Id>1777314694418</Id>
 				<Name><![CDATA[checkbox]]></Name>
-				<X>50</X>
-				<Y>-14</Y>
+				<X>500</X>
+				<Y>25</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24986,8 +25000,8 @@
 				<EmbeddedIcon>false</EmbeddedIcon>
 				<Id>1777406098561</Id>
 				<Name><![CDATA[button4]]></Name>
-				<X>-77</X>
-				<Y>-12</Y>
+				<X>260</X>
+				<Y>25</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24996,7 +25010,7 @@
 				<PresentationFlag>true</PresentationFlag>
 				<ShowLabel>false</ShowLabel>
 				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<BasicProperties Width="100" Height="30">
+				<BasicProperties Width="110" Height="30">
 					<EmbeddedIcon>false</EmbeddedIcon>
 					<TextColor>-16777216</TextColor>
 					<Enabled>true</Enabled>
@@ -25004,7 +25018,32 @@
 				</BasicProperties>
 				<ExtendedProperties>
 					<Font Name="Dialog" Size="11" Style="0"/>
-					<LabelText>3D Camera</LabelText>
+					<LabelText>Car Gas Station</LabelText>
+				</ExtendedProperties>
+			</Control>
+			<Control Type="Button">
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Id>1777647721895</Id>
+				<Name><![CDATA[button5]]></Name>
+				<X>375</X>
+				<Y>25</Y>
+				<Label>
+					<X>0</X>
+					<Y>-10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<BasicProperties Width="121" Height="30">
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<TextColor>-16777216</TextColor>
+					<Enabled>true</Enabled>
+					<ActionCode>window3d.setCamera(camera3dtruck);</ActionCode>
+				</BasicProperties>
+				<ExtendedProperties>
+					<Font Name="Dialog" Size="11" Style="0"/>
+					<LabelText>Truck Gas Station</LabelText>
 				</ExtendedProperties>
 			</Control>
 		</Presentation>
