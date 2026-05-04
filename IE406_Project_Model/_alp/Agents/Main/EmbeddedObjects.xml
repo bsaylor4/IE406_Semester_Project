@@ -6370,7 +6370,7 @@ car.group.setVisible(true);]]></Code>
 			<Parameter>
 				<Name><![CDATA[seizeBlocks]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[{ szTruck }]]></Code>
+					<Code><![CDATA[{ szCar1 }]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -6865,7 +6865,7 @@ if (car != null) {
 	</EmbeddedObject>
 	<EmbeddedObject>
 		<Id>1777382188233</Id>
-		<Name><![CDATA[moveToCaar]]></Name>
+		<Name><![CDATA[moveToCar]]></Name>
 		<X>2610</X>
 		<Y>270</Y>
 		<Label>
@@ -7742,7 +7742,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[queueCapacity]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[1]]></Code>
+					<Code><![CDATA[10000]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -7919,6 +7919,9 @@ if (car != null) {
 		<Parameters>
 			<Parameter>
 				<Name><![CDATA[releaseMode]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[self.ALL_FROM_SEIZES]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[resourcePool]]></Name>
@@ -7931,6 +7934,9 @@ if (car != null) {
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[seizeBlocks]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[{ szPTruckPump }]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[movingGoHome]]></Name>
@@ -7988,12 +7994,12 @@ if (car != null) {
 	</EmbeddedObject>
 	<EmbeddedObject>
 		<Id>1777912116305</Id>
-		<Name><![CDATA[szPump1]]></Name>
-		<X>1890</X>
+		<Name><![CDATA[szPTruckPump]]></Name>
+		<X>1850</X>
 		<Y>1200</Y>
 		<Label>
-			<X>-5</X>
-			<Y>-10</Y>
+			<X>-25</X>
+			<Y>-15</Y>
 		</Label>
 		<PublicFlag>false</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
@@ -8017,7 +8023,7 @@ if (car != null) {
 				<Name><![CDATA[resourceSets]]></Name>
 				<Value Class="CodeValue">
 					<Code><![CDATA[{ 
-  { rpGasPumps }
+  { rpTruckPump }
 }]]></Code>
 				</Value>
 			</Parameter>
@@ -8385,7 +8391,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[resources]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[{ rpCars }]]></Code>
+					<Code><![CDATA[{ rpTruck }]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -8698,13 +8704,13 @@ if (car != null) {
 						<Id>1776191562530</Id>
 						<ActiveObjectClass>
 							<PackageName>ie406_project_model</PackageName>
-							<ClassName>Truck</ClassName>
+							<ClassName>Trucker</ClassName>
 						</ActiveObjectClass>
 						<GenericParameterSubstitute>
 							<GenericParameterSubstituteReference>
 								<PackageName>ie406_project_model</PackageName>
-								<ClassName>Truck</ClassName>
-								<ItemName>1777912261613</ItemName>
+								<ClassName>Trucker</ClassName>
+								<ItemName>1777915979804</ItemName>
 							</GenericParameterSubstituteReference>
 						</GenericParameterSubstitute>
 						<Parameters/>
@@ -8969,10 +8975,10 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[onSeizeUnit]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[Car car = (Car) unit;
-((Person)agent).car = car;
+					<Code><![CDATA[Truck truck = (Truck) unit;
+((Trucker)agent).truck = truck;
 
-car.group.setVisible(true);]]></Code>
+truck.group.setVisible(true);]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -10181,7 +10187,7 @@ car.group.setVisible(true);]]></Code>
 	</EmbeddedObject>
 	<EmbeddedObject>
 		<Id>1777912117102</Id>
-		<Name><![CDATA[releaseCar1]]></Name>
+		<Name><![CDATA[releaseTruck1]]></Name>
 		<X>3340</X>
 		<Y>1280</Y>
 		<Label>
@@ -10205,9 +10211,6 @@ car.group.setVisible(true);]]></Code>
 		<Parameters>
 			<Parameter>
 				<Name><![CDATA[releaseMode]]></Name>
-				<Value Class="CodeValue">
-					<Code><![CDATA[self.ALL_FROM_SEIZES]]></Code>
-				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[resourcePool]]></Name>
@@ -10221,7 +10224,7 @@ car.group.setVisible(true);]]></Code>
 			<Parameter>
 				<Name><![CDATA[seizeBlocks]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[{ szCar1 }]]></Code>
+					<Code><![CDATA[{ szTruck }]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -10254,11 +10257,11 @@ car.group.setVisible(true);]]></Code>
 			<Parameter>
 				<Name><![CDATA[onExit]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[Car car = ((Person)agent).car;
+					<Code><![CDATA[Truck truck = ((Trucker)agent).truck;
 
-if (car != null) {
-    car.group.setVisible(false);
-    ((Person)agent).car = null; 
+if (truck != null) {
+    truck.group.setVisible(false);
+    ((Trucker)agent).truck = null;
 }]]></Code>
 				</Value>
 			</Parameter>
@@ -10530,7 +10533,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[resources]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[{ rpCars }]]></Code>
+					<Code><![CDATA[{ rpTruck }]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -10716,7 +10719,7 @@ if (car != null) {
 	</EmbeddedObject>
 	<EmbeddedObject>
 		<Id>1777912117216</Id>
-		<Name><![CDATA[moveToCaar1]]></Name>
+		<Name><![CDATA[moveToCar1]]></Name>
 		<X>2690</X>
 		<Y>1310</Y>
 		<Label>
@@ -10756,7 +10759,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[destinationResource]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[rpCars]]></Code>
+					<Code><![CDATA[rpTruck]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -10901,7 +10904,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[seizeBlocks]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[{ szCar1 }]]></Code>
+					<Code><![CDATA[{ szTruck }]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -10939,7 +10942,7 @@ if (car != null) {
 	</EmbeddedObject>
 	<EmbeddedObject>
 		<Id>1777912117264</Id>
-		<Name><![CDATA[endCar1]]></Name>
+		<Name><![CDATA[endTruck]]></Name>
 		<X>3370</X>
 		<Y>1350</Y>
 		<Label>
@@ -10960,7 +10963,7 @@ if (car != null) {
 				<ItemName>1412336243162</ItemName>
 			</GenericParameterSubstituteReference>
 			<GenericParameterSubstituteValue Class="CodeValue">
-				<Code><![CDATA[Car]]></Code>
+				<Code><![CDATA[Truck]]></Code>
 			</GenericParameterSubstituteValue>
 		</GenericParameterSubstitute>
 		<Parameters>
@@ -11287,6 +11290,9 @@ if (car != null) {
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[1000]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[capacityBasedOnAttractors]]></Name>
@@ -11314,9 +11320,53 @@ if (car != null) {
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[newUnit]]></Name>
+				<Value Class="EntityCodeValue">
+					<IsAgentEntity>true</IsAgentEntity>
+					<EntityEmbeddedObject>
+						<Id>1777916084374</Id>
+						<ActiveObjectClass>
+							<PackageName>ie406_project_model</PackageName>
+							<ClassName>Truck</ClassName>
+						</ActiveObjectClass>
+						<GenericParameterSubstitute>
+							<GenericParameterSubstituteReference>
+								<PackageName>ie406_project_model</PackageName>
+								<ClassName>Truck</ClassName>
+								<ItemName>1777912261613</ItemName>
+							</GenericParameterSubstituteReference>
+						</GenericParameterSubstitute>
+						<Parameters/>
+						<ReplicationFlag>true</ReplicationFlag>
+						<Replication Class="CodeValue">
+							<Code><![CDATA[100]]></Code>
+						</Replication>
+						<CollectionType>ARRAY_LIST_BASED</CollectionType>
+						<InitialLocationType>XYZ</InitialLocationType>
+						<ColumnCode Class="CodeValue">
+							<Code><![CDATA[0]]></Code>
+						</ColumnCode>
+						<RowCode Class="CodeValue">
+							<Code><![CDATA[0]]></Code>
+						</RowCode>
+						<LocationNameCode Class="CodeValue">
+							<Code><![CDATA[""]]></Code>
+						</LocationNameCode>
+						<InitializationType>LOAD_FROM_DATABASE</InitializationType>
+						<InitializationDatabaseTableQuery>
+							<Id>1777916084375</Id>
+							<TableReference/>
+						</InitializationDatabaseTableQuery>
+						<InitializationDatabaseType>ONE_AGENT_PER_DATABASE_RECORD</InitializationDatabaseType>
+						<QuantityColumn/>
+					</EntityEmbeddedObject>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[speed]]></Name>
+				<Value Class="CodeUnitValue">
+					<Code><![CDATA[3.5]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[homeLocationType]]></Name>
@@ -11326,6 +11376,9 @@ if (car != null) {
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[homeNodes]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[{ TruckHome }]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[showDefaultAnimationStatic]]></Name>

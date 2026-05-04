@@ -1011,7 +1011,7 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>moveToCaar</ItemName>
+			<ItemName>moveToCar</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -2159,7 +2159,7 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>moveToCaar</ItemName>
+			<ItemName>moveToCar</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -2192,7 +2192,7 @@
 		<SourceEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>moveToCaar</ItemName>
+			<ItemName>moveToCar</ItemName>
 		</SourceEmbeddedObjectReference>
 		<SourceConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -2513,7 +2513,7 @@
 	<Connector>
 		<Id>1777912117290</Id>
 		<Name><![CDATA[connector88]]></Name>
-		<X>1930</X>
+		<X>1890</X>
 		<Y>1220</Y>
 		<Label>
 			<X>10</X>
@@ -2525,7 +2525,7 @@
 		<SourceEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>szPump1</ItemName>
+			<ItemName>szPTruckPump</ItemName>
 		</SourceEmbeddedObjectReference>
 		<SourceConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -2548,7 +2548,7 @@
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>30</X>
+				<X>70</X>
 				<Y>0</Y>
 			</Point>
 		</Points>
@@ -2750,7 +2750,7 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>szPump1</ItemName>
+			<ItemName>szPTruckPump</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -2763,7 +2763,7 @@
 				<Y>0</Y>
 			</Point>
 			<Point>
-				<X>90</X>
+				<X>50</X>
 				<Y>0</Y>
 			</Point>
 		</Points>
@@ -2883,7 +2883,7 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>moveToCaar1</ItemName>
+			<ItemName>moveToCar1</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -3512,7 +3512,7 @@
 		<SourceEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>releaseCar1</ItemName>
+			<ItemName>releaseTruck1</ItemName>
 		</SourceEmbeddedObjectReference>
 		<SourceConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -3565,7 +3565,7 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>releaseCar1</ItemName>
+			<ItemName>releaseTruck1</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -3694,7 +3694,7 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>moveToCaar1</ItemName>
+			<ItemName>moveToCar1</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -3727,7 +3727,7 @@
 		<SourceEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>moveToCaar1</ItemName>
+			<ItemName>moveToCar1</ItemName>
 		</SourceEmbeddedObjectReference>
 		<SourceConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -3829,7 +3829,7 @@
 		<SourceEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>endCar1</ItemName>
+			<ItemName>endTruck</ItemName>
 		</SourceEmbeddedObjectReference>
 		<SourceConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
@@ -3839,7 +3839,7 @@
 		<TargetEmbeddedObjectReference>
 			<PackageName>ie406_project_model</PackageName>
 			<ClassName>Main</ClassName>
-			<ItemName>releaseCar1</ItemName>
+			<ItemName>releaseTruck1</ItemName>
 		</TargetEmbeddedObjectReference>
 		<TargetConnectableItemReference>
 			<PackageName>com.anylogic.libraries.processmodeling</PackageName>
