@@ -14602,8 +14602,8 @@
 			<Path SourceId="1776168910667" TargetId="1776176571874">
 				<Id>1776176657030</Id>
 				<Name><![CDATA[path29]]></Name>
-				<X>642.065</X>
-				<Y>394.775</Y>
+				<X>645.5730000000001</X>
+				<Y>388.31899999999996</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -14633,23 +14633,23 @@
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>24.725578306203065</X>
-						<Y>3.694019142319199</Y>
+						<X>22.73783615562806</X>
+						<Y>10.39186253564842</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>26.19800000000011</X>
-						<Y>3.9139999999999997</Y>
+						<X>22.690000000000072</X>
+						<Y>10.370000000000017</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>1.472421693797049</X>
-						<Y>0.21998085768080244</Y>
+						<X>-0.047836155627987154</X>
+						<Y>-0.02186253564840257</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>37.48500000000011</X>
-						<Y>4.587999999999999</Y>
+						<X>33.977000000000075</X>
+						<Y>11.044000000000016</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -14665,8 +14665,8 @@
 			<RectangleNode>
 				<Id>1776168910667</Id>
 				<Name><![CDATA[nodeTruckPump]]></Name>
-				<X>526.492</X>
-				<Y>456.456</Y>
+				<X>530</X>
+				<Y>450</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -14770,8 +14770,8 @@
 					<Attractor>
 						<Id>1776169012412</Id>
 						<Name><![CDATA[attractor15]]></Name>
-						<X>559.879</X>
-						<Y>467.249</Y>
+						<X>563.387</X>
+						<Y>460.793</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14786,8 +14786,8 @@
 					<Attractor>
 						<Id>1776169012415</Id>
 						<Name><![CDATA[attractor16]]></Name>
-						<X>568.309</X>
-						<Y>446.387</Y>
+						<X>571.817</X>
+						<Y>439.9309999999999</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14802,8 +14802,8 @@
 					<Attractor>
 						<Id>1776169012418</Id>
 						<Name><![CDATA[attractor17]]></Name>
-						<X>576.738</X>
-						<Y>425.525</Y>
+						<X>580.2460000000001</X>
+						<Y>419.06899999999996</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14818,8 +14818,8 @@
 					<Attractor>
 						<Id>1776169012421</Id>
 						<Name><![CDATA[attractor18]]></Name>
-						<X>585.167</X>
-						<Y>404.664</Y>
+						<X>588.675</X>
+						<Y>398.20799999999997</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14834,8 +14834,8 @@
 					<Attractor>
 						<Id>1776169012424</Id>
 						<Name><![CDATA[attractor19]]></Name>
-						<X>593.597</X>
-						<Y>383.803</Y>
+						<X>597.105</X>
+						<Y>377.347</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14850,8 +14850,8 @@
 					<Attractor>
 						<Id>1776169012427</Id>
 						<Name><![CDATA[attractor54]]></Name>
-						<X>602.025</X>
-						<Y>362.942</Y>
+						<X>605.5330000000001</X>
+						<Y>356.486</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14866,8 +14866,8 @@
 					<Attractor>
 						<Id>1776169012430</Id>
 						<Name><![CDATA[attractor55]]></Name>
-						<X>610.452</X>
-						<Y>342.079</Y>
+						<X>613.96</X>
+						<Y>335.62299999999993</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14934,23 +14934,23 @@
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>22.758480380703915</X>
-						<Y>10.346572899328319</Y>
+						<X>24.977807002825124</X>
+						<Y>1.0531653856921832</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>16.010999999999903</X>
-						<Y>7.279000000000041</Y>
+						<X>19.51899999999994</X>
+						<Y>0.8230000000000235</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-6.747480380704008</X>
-						<Y>-3.0675728993282796</Y>
+						<X>-5.458807002825182</X>
+						<Y>-0.23016538569215972</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-30.983000000000096</X>
-						<Y>-12.153999999999957</Y>
+						<X>-27.47500000000006</X>
+						<Y>-18.609999999999975</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -25048,4 +25048,204 @@
 			</Control>
 		</Presentation>
 	</Group>
+	<Text>
+		<Id>1777912115902</Id>
+		<Name><![CDATA[text14]]></Name>
+		<X>2195</X>
+		<Y>1290</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom and Shop]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115907</Id>
+		<Name><![CDATA[text15]]></Name>
+		<X>2310</X>
+		<Y>1560</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115909</Id>
+		<Name><![CDATA[text16]]></Name>
+		<X>2235</X>
+		<Y>1270</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Shop Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115911</Id>
+		<Name><![CDATA[text17]]></Name>
+		<X>2010</X>
+		<Y>1230</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Go inside]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115915</Id>
+		<Name><![CDATA[text19]]></Name>
+		<X>2315</X>
+		<Y>1230</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115919</Id>
+		<Name><![CDATA[text21]]></Name>
+		<X>2020</X>
+		<Y>1600</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom and Shop]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115921</Id>
+		<Name><![CDATA[text22]]></Name>
+		<X>2040</X>
+		<Y>1580</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Shop Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115925</Id>
+		<Name><![CDATA[text24]]></Name>
+		<X>2000</X>
+		<Y>1250</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Pay at pump]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
 </Presentation>

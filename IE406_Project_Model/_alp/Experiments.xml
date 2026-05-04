@@ -144,6 +144,9 @@
 			<Parameter>
 				<ParameterName>pNumberofCars</ParameterName>
 			</Parameter>
+			<Parameter>
+				<ParameterName>pNumberofTrucks</ParameterName>
+			</Parameter>
 		</Parameters>
 		<PresentationProperties>
 			<EnableZoomAndPanning>true</EnableZoomAndPanning>
