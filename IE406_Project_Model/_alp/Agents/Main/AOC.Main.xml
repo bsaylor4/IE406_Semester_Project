@@ -145,7 +145,7 @@
 		<Area>
 			<Id>1775756687602</Id>
 			<Name><![CDATA[viewArea2D]]></Name>
-			<X>220</X>
+			<X>200</X>
 			<Y>60</Y>
 			<Label>
 				<X>0</X>
@@ -155,7 +155,7 @@
 			<PresentationFlag>true</PresentationFlag>
 			<ShowLabel>false</ShowLabel>
 			<Title/>
-			<Width>660</Width>
+			<Width>700</Width>
 			<Height>920</Height>
 		</Area>
 		<Area>
@@ -189,6 +189,22 @@
 			<Title/>
 			<Width>1860</Width>
 			<Height>1020</Height>
+		</Area>
+		<Area>
+			<Id>1777918278663</Id>
+			<Name><![CDATA[viewAreaTruckLogic]]></Name>
+			<X>1720</X>
+			<Y>1800</Y>
+			<Label>
+				<X>0</X>
+				<Y>-10</Y>
+			</Label>
+			<PublicFlag>false</PublicFlag>
+			<PresentationFlag>true</PresentationFlag>
+			<ShowLabel>false</ShowLabel>
+			<Title/>
+			<Width>1460</Width>
+			<Height>600</Height>
 		</Area>
 	</Areas>
 </ActiveObjectClass>

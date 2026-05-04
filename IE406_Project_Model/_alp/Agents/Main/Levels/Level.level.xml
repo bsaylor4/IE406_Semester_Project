@@ -3,8 +3,8 @@
 	<Rectangle>
 		<Id>1776955925541</Id>
 		<Name><![CDATA[rectangle]]></Name>
-		<X>271</X>
-		<Y>130</Y>
+		<X>258</X>
+		<Y>120</Y>
 		<Label>
 			<X>10</X>
 			<Y>10</Y>
@@ -21,8 +21,8 @@
 		<LineColor/>
 		<LineMaterial>null</LineMaterial>
 		<LineStyle>SOLID</LineStyle>
-		<Width>560</Width>
-		<Height>845</Height>
+		<Width>542</Width>
+		<Height>850</Height>
 		<Rotation>0.0</Rotation>
 		<FillColor>-1</FillColor>
 		<FillMaterial>grass</FillMaterial>
@@ -17160,8 +17160,8 @@
 	<Text>
 		<Id>1776886477314</Id>
 		<Name><![CDATA[text5]]></Name>
-		<X>1940</X>
-		<Y>560</Y>
+		<X>1925</X>
+		<Y>380</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17185,8 +17185,8 @@
 	<Text>
 		<Id>1776886477316</Id>
 		<Name><![CDATA[text6]]></Name>
-		<X>1960</X>
-		<Y>540</Y>
+		<X>1945</X>
+		<Y>360</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17211,7 +17211,7 @@
 		<Id>1776886491062</Id>
 		<Name><![CDATA[text7]]></Name>
 		<X>2230</X>
-		<Y>520</Y>
+		<Y>400</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17236,7 +17236,7 @@
 		<Id>1776886899508</Id>
 		<Name><![CDATA[text8]]></Name>
 		<X>2150</X>
-		<Y>830</Y>
+		<Y>610</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17261,7 +17261,7 @@
 		<Id>1776886913067</Id>
 		<Name><![CDATA[text9]]></Name>
 		<X>2030</X>
-		<Y>870</Y>
+		<Y>650</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -17286,7 +17286,7 @@
 		<Id>1776886919344</Id>
 		<Name><![CDATA[text10]]></Name>
 		<X>2070</X>
-		<Y>850</Y>
+		<Y>630</Y>
 		<Label>
 			<X>0</X>
 			<Y>-10</Y>
@@ -24762,11 +24762,211 @@
 		<RotationX>45.0</RotationX>
 		<RotationZ>-152.0</RotationZ>
 	</Camera3D>
+	<Text>
+		<Id>1777912115902</Id>
+		<Name><![CDATA[text14]]></Name>
+		<X>2235</X>
+		<Y>2010</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom and Shop]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115907</Id>
+		<Name><![CDATA[text15]]></Name>
+		<X>2350</X>
+		<Y>2200</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115909</Id>
+		<Name><![CDATA[text16]]></Name>
+		<X>2275</X>
+		<Y>1990</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Shop Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115911</Id>
+		<Name><![CDATA[text17]]></Name>
+		<X>2050</X>
+		<Y>1950</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Go inside]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115915</Id>
+		<Name><![CDATA[text19]]></Name>
+		<X>2355</X>
+		<Y>1950</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115919</Id>
+		<Name><![CDATA[text21]]></Name>
+		<X>2060</X>
+		<Y>2200</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Bathroom and Shop]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115921</Id>
+		<Name><![CDATA[text22]]></Name>
+		<X>2080</X>
+		<Y>2180</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Shop Only]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777912115925</Id>
+		<Name><![CDATA[text24]]></Name>
+		<X>2040</X>
+		<Y>1970</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Pay at pump]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>10</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
 	<Group>
-		<Id>1777647832380</Id>
+		<Id>1777918675274</Id>
 		<Name><![CDATA[groupMainMenu]]></Name>
-		<X>260</X>
-		<Y>50</Y>
+		<X>180</X>
+		<Y>40</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -24780,10 +24980,39 @@
 		<Rotation>0.0</Rotation>
 		<Presentation>
 			<Rectangle>
+				<Id>1777918507066</Id>
+				<Name><![CDATA[rectangle22]]></Name>
+				<X>190</X>
+				<Y>20</Y>
+				<Label>
+					<X>10</X>
+					<Y>10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<OnClickCode>navigate(viewAreaTruckLogic);</OnClickCode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<ZHeight>10</ZHeight>
+				<LineWidth>1</LineWidth>
+				<LineColor/>
+				<LineMaterial>null</LineMaterial>
+				<LineStyle>SOLID</LineStyle>
+				<Width>80</Width>
+				<Height>60</Height>
+				<Rotation>0.0</Rotation>
+				<FillColor>-1</FillColor>
+				<FillColorCode>selectedViewArea == viewAreaTruckLogic ?
+	dodgerBlue : new Color(129, 195, 255)</FillColorCode>
+				<FillMaterial>null</FillMaterial>
+			</Rectangle>
+			<Rectangle>
 				<Id>1777313450617</Id>
 				<Name><![CDATA[rectangle12]]></Name>
-				<X>10</X>
-				<Y>10</Y>
+				<X>20</X>
+				<Y>20</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24809,8 +25038,8 @@
 			<Rectangle>
 				<Id>1777313510894</Id>
 				<Name><![CDATA[rectangle13]]></Name>
-				<X>170</X>
-				<Y>10</Y>
+				<X>280</X>
+				<Y>20</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24838,8 +25067,8 @@
 			<Rectangle>
 				<Id>1777313582403</Id>
 				<Name><![CDATA[rectangle14]]></Name>
-				<X>90</X>
-				<Y>10</Y>
+				<X>100</X>
+				<Y>20</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24867,8 +25096,8 @@
 			<Rectangle>
 				<Id>1777313658034</Id>
 				<Name><![CDATA[rectangle15]]></Name>
-				<X>90</X>
-				<Y>10</Y>
+				<X>100</X>
+				<Y>20</Y>
 				<Label>
 					<X>10</X>
 					<Y>10</Y>
@@ -24884,7 +25113,7 @@
 				<LineColor/>
 				<LineMaterial>null</LineMaterial>
 				<LineStyle>SOLID</LineStyle>
-				<Width>520</Width>
+				<Width>620</Width>
 				<Height>60</Height>
 				<Rotation>0.0</Rotation>
 				<FillColor>-8272897</FillColor>
@@ -24893,8 +25122,8 @@
 			<Text>
 				<Id>1777313729595</Id>
 				<Name><![CDATA[text11]]></Name>
-				<X>52</X>
-				<Y>30</Y>
+				<X>62</X>
+				<Y>40</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24918,8 +25147,8 @@
 			<Text>
 				<Id>1777313774761</Id>
 				<Name><![CDATA[text12]]></Name>
-				<X>210</X>
-				<Y>30</Y>
+				<X>320</X>
+				<Y>40</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24943,8 +25172,8 @@
 			<Text>
 				<Id>1777313786704</Id>
 				<Name><![CDATA[text13]]></Name>
-				<X>130</X>
-				<Y>30</Y>
+				<X>140</X>
+				<Y>40</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -24957,7 +25186,7 @@
 				<Z>0</Z>
 				<Rotation>0.0</Rotation>
 				<Color>-1</Color>
-				<Text><![CDATA[Logic]]></Text>
+				<Text><![CDATA[Car Logic]]></Text>
 				<Font>
 					<Name><![CDATA[SansSerif]]></Name>
 					<Size>18</Size>
@@ -24969,8 +25198,8 @@
 				<EmbeddedIcon>false</EmbeddedIcon>
 				<Id>1777314694418</Id>
 				<Name><![CDATA[checkbox]]></Name>
-				<X>500</X>
-				<Y>25</Y>
+				<X>610</X>
+				<Y>35</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -25000,8 +25229,8 @@
 				<EmbeddedIcon>false</EmbeddedIcon>
 				<Id>1777406098561</Id>
 				<Name><![CDATA[button4]]></Name>
-				<X>260</X>
-				<Y>25</Y>
+				<X>370</X>
+				<Y>35</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -25025,8 +25254,8 @@
 				<EmbeddedIcon>false</EmbeddedIcon>
 				<Id>1777647721895</Id>
 				<Name><![CDATA[button5]]></Name>
-				<X>375</X>
-				<Y>25</Y>
+				<X>485</X>
+				<Y>35</Y>
 				<Label>
 					<X>0</X>
 					<Y>-10</Y>
@@ -25046,206 +25275,57 @@
 					<LabelText>Truck Gas Station</LabelText>
 				</ExtendedProperties>
 			</Control>
+			<Text>
+				<Id>1777918591175</Id>
+				<Name><![CDATA[text18]]></Name>
+				<X>230</X>
+				<Y>40</Y>
+				<Label>
+					<X>0</X>
+					<Y>-10</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D</DrawMode>
+				<EmbeddedIcon>false</EmbeddedIcon>
+				<Z>0</Z>
+				<Rotation>0.0</Rotation>
+				<Color>-1</Color>
+				<Text><![CDATA[Truck Logic]]></Text>
+				<Font>
+					<Name><![CDATA[SansSerif]]></Name>
+					<Size>18</Size>
+					<Style>0</Style>
+				</Font>
+				<Alignment>CENTER</Alignment>
+			</Text>
 		</Presentation>
 	</Group>
-	<Text>
-		<Id>1777912115902</Id>
-		<Name><![CDATA[text14]]></Name>
-		<X>2195</X>
-		<Y>1290</Y>
+	<Rectangle>
+		<Id>1777919211148</Id>
+		<Name><![CDATA[rectangle23]]></Name>
+		<X>2880</X>
+		<Y>337</Y>
 		<Label>
-			<X>0</X>
-			<Y>-10</Y>
+			<X>10</X>
+			<Y>10</Y>
 		</Label>
 		<PublicFlag>true</PublicFlag>
 		<PresentationFlag>true</PresentationFlag>
 		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 		<EmbeddedIcon>false</EmbeddedIcon>
 		<Z>0</Z>
+		<ZHeight>10</ZHeight>
+		<LineWidth>0.25</LineWidth>
+		<LineColor>-16777216</LineColor>
+		<LineMaterial>null</LineMaterial>
+		<LineStyle>SOLID</LineStyle>
+		<Width>520</Width>
+		<Height>560</Height>
 		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Bathroom and Shop]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
-	<Text>
-		<Id>1777912115907</Id>
-		<Name><![CDATA[text15]]></Name>
-		<X>2310</X>
-		<Y>1560</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Bathroom Only]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
-	<Text>
-		<Id>1777912115909</Id>
-		<Name><![CDATA[text16]]></Name>
-		<X>2235</X>
-		<Y>1270</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Shop Only]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
-	<Text>
-		<Id>1777912115911</Id>
-		<Name><![CDATA[text17]]></Name>
-		<X>2010</X>
-		<Y>1230</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Go inside]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
-	<Text>
-		<Id>1777912115915</Id>
-		<Name><![CDATA[text19]]></Name>
-		<X>2315</X>
-		<Y>1230</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Bathroom Only]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
-	<Text>
-		<Id>1777912115919</Id>
-		<Name><![CDATA[text21]]></Name>
-		<X>2020</X>
-		<Y>1600</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Bathroom and Shop]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
-	<Text>
-		<Id>1777912115921</Id>
-		<Name><![CDATA[text22]]></Name>
-		<X>2040</X>
-		<Y>1580</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Shop Only]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
-	<Text>
-		<Id>1777912115925</Id>
-		<Name><![CDATA[text24]]></Name>
-		<X>2000</X>
-		<Y>1250</Y>
-		<Label>
-			<X>0</X>
-			<Y>-10</Y>
-		</Label>
-		<PublicFlag>true</PublicFlag>
-		<PresentationFlag>true</PresentationFlag>
-		<ShowLabel>false</ShowLabel>
-		<DrawMode>SHAPE_DRAW_2D</DrawMode>
-		<EmbeddedIcon>false</EmbeddedIcon>
-		<Z>0</Z>
-		<Rotation>0.0</Rotation>
-		<Color>-16777216</Color>
-		<Text><![CDATA[Pay at pump]]></Text>
-		<Font>
-			<Name><![CDATA[SansSerif]]></Name>
-			<Size>10</Size>
-			<Style>0</Style>
-		</Font>
-		<Alignment>LEFT</Alignment>
-	</Text>
+		<FillColor>-4144960</FillColor>
+		<FillMaterial>null</FillMaterial>
+	</Rectangle>
 </Presentation>
