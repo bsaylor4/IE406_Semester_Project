@@ -14602,8 +14602,8 @@
 			<Path SourceId="1776168910667" TargetId="1776176571874">
 				<Id>1776176657030</Id>
 				<Name><![CDATA[path29]]></Name>
-				<X>645.5730000000001</X>
-				<Y>388.31899999999996</Y>
+				<X>647</X>
+				<Y>385</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -14623,33 +14623,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>0</X>
-						<Y>0</Y>
+						<X>-0.07</X>
+						<Y>-0.028</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-20.378999999999998</X>
-						<Y>-14.480999999999998</Y>
+						<X>-20.449</X>
+						<Y>-14.509</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>22.73783615562806</X>
-						<Y>10.39186253564842</Y>
+						<X>22.668</X>
+						<Y>10.365</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>22.690000000000072</X>
-						<Y>10.370000000000017</Y>
+						<X>22.605</X>
+						<Y>10.336</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-0.047836155627987154</X>
-						<Y>-0.02186253564840257</Y>
+						<X>-0.133</X>
+						<Y>-0.057</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>33.977000000000075</X>
-						<Y>11.044000000000016</Y>
+						<X>33.892</X>
+						<Y>11.01</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -14770,8 +14770,8 @@
 					<Attractor>
 						<Id>1776169012412</Id>
 						<Name><![CDATA[attractor15]]></Name>
-						<X>580</X>
-						<Y>435</Y>
+						<X>585</X>
+						<Y>440</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14786,7 +14786,7 @@
 					<Attractor>
 						<Id>1776169012415</Id>
 						<Name><![CDATA[attractor16]]></Name>
-						<X>585</X>
+						<X>590</X>
 						<Y>420</Y>
 						<Label>
 							<X>10</X>
@@ -14802,7 +14802,7 @@
 					<Attractor>
 						<Id>1776169012418</Id>
 						<Name><![CDATA[attractor17]]></Name>
-						<X>590</X>
+						<X>600</X>
 						<Y>405</Y>
 						<Label>
 							<X>10</X>
@@ -14818,8 +14818,8 @@
 					<Attractor>
 						<Id>1776169012421</Id>
 						<Name><![CDATA[attractor18]]></Name>
-						<X>595</X>
-						<Y>385</Y>
+						<X>605</X>
+						<Y>390</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14834,8 +14834,8 @@
 					<Attractor>
 						<Id>1776169012424</Id>
 						<Name><![CDATA[attractor19]]></Name>
-						<X>600</X>
-						<Y>370</Y>
+						<X>615</X>
+						<Y>375</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14850,7 +14850,7 @@
 					<Attractor>
 						<Id>1776169012427</Id>
 						<Name><![CDATA[attractor54]]></Name>
-						<X>605</X>
+						<X>620</X>
 						<Y>355</Y>
 						<Label>
 							<X>10</X>
@@ -14866,8 +14866,8 @@
 					<Attractor>
 						<Id>1776169012430</Id>
 						<Name><![CDATA[attractor55]]></Name>
-						<X>613.96</X>
-						<Y>335.62299999999993</Y>
+						<X>630</X>
+						<Y>340</Y>
 						<Label>
 							<X>10</X>
 							<Y>0</Y>
@@ -14900,310 +14900,6 @@
 				<Height>85</Height>
 				<Rotation>292.0</Rotation>
 			</RectangleNode>
-			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1776176564656</Id>
-				<Name><![CDATA[path32]]></Name>
-				<X>520</X>
-				<Y>430</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>-3.656</X>
-						<Y>-1.56</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-26.863</X>
-						<Y>-10.858</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>17.532</X>
-						<Y>11.709</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>14.127</X>
-						<Y>9.577</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-7.061</X>
-						<Y>-3.692</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-32.867</X>
-						<Y>-9.856</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<RectangleNode>
-				<Id>1776176505961</Id>
-				<Name><![CDATA[node20]]></Name>
-				<X>431.49</X>
-				<Y>400.13</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<EmbeddedObject>
-					<Id>1776176505965</Id>
-					<ActiveObjectClass>
-						<PackageName>com.anylogic.libraries.modules.markup_descriptors</PackageName>
-						<ClassName>AreaNodeDescriptor</ClassName>
-					</ActiveObjectClass>
-					<GenericParameterSubstitute>
-						<GenericParameterSubstituteReference>
-							<PackageName>com.anylogic.libraries.modules.markup_descriptors</PackageName>
-							<ClassName>AreaNodeDescriptor</ClassName>
-							<ItemName>1574694148121</ItemName>
-						</GenericParameterSubstituteReference>
-					</GenericParameterSubstitute>
-					<Parameters>
-						<Parameter>
-							<Name><![CDATA[appliedClass]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[speedRestricted]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[maxSpeed]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[accessRestricted]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[accessRestrictionType]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[accessRestrictionCondition]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[capacity]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[throughput]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[schedule]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[avoidedIfClosed]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[onEnter]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[onEnterDenied]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[onExit]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[onOpen]]></Name>
-						</Parameter>
-						<Parameter>
-							<Name><![CDATA[onClose]]></Name>
-						</Parameter>
-					</Parameters>
-					<ReplicationFlag>false</ReplicationFlag>
-					<Replication Class="CodeValue">
-						<Code><![CDATA[100]]></Code>
-					</Replication>
-					<CollectionType>ARRAY_LIST_BASED</CollectionType>
-					<InitialLocationType>XYZ</InitialLocationType>
-					<ColumnCode Class="CodeValue">
-						<Code><![CDATA[0]]></Code>
-					</ColumnCode>
-					<RowCode Class="CodeValue">
-						<Code><![CDATA[0]]></Code>
-					</RowCode>
-					<LocationNameCode Class="CodeValue">
-						<Code><![CDATA[""]]></Code>
-					</LocationNameCode>
-					<InitializationType>SPECIFIED_NUMBER</InitializationType>
-					<InitializationDatabaseTableQuery>
-						<Id>1776176505964</Id>
-						<TableReference/>
-					</InitializationDatabaseTableQuery>
-					<InitializationDatabaseType>ONE_AGENT_PER_DATABASE_RECORD</InitializationDatabaseType>
-					<QuantityColumn/>
-				</EmbeddedObject>
-				<LineColor>-14774017</LineColor>
-				<FillColor/>
-				<LineWidth>1</LineWidth>
-				<LineMaterial>null</LineMaterial>
-				<FillMaterial>null</FillMaterial>
-				<LineStyle>DASHED</LineStyle>
-				<AttractorsLayout>random</AttractorsLayout>
-				<Sloped>false</Sloped>
-				<Slope>
-					<Id>1776176505959</Id>
-					<Name><![CDATA[node20]]></Name>
-					<X>0</X>
-					<Y>10</Y>
-					<PublicFlag>false</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>true</ShowLabel>
-					<Dx>20</Dx>
-					<Dy>0</Dy>
-					<Dz>0</Dz>
-					<AngleX>30</AngleX>
-					<AngleZ>0</AngleZ>
-					<SlopeType>angle</SlopeType>
-				</Slope>
-				<Width>155</Width>
-				<Height>90</Height>
-				<Rotation>293.0</Rotation>
-			</RectangleNode>
-			<Path SourceId="1776176170676" TargetId="1776176505961">
-				<Id>1776176544515</Id>
-				<Name><![CDATA[path30]]></Name>
-				<X>329.162</X>
-				<Y>322.513</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>0</X>
-						<Y>0</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-11.063</X>
-						<Y>22.418999999999997</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>10.710999999999999</X>
-						<Y>-22.589</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>9.877</X>
-						<Y>-20.831</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-0.833</X>
-						<Y>1.759</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>33.696</X>
-						<Y>-28.424</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>30.838</X>
-						<Y>-27.513</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>7.019</X>
-						<Y>-19.92</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>54.43</X>
-						<Y>-19.243</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>131.616</X>
-						<Y>7.814</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>108.024</X>
-						<Y>-0.456</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>39.638</X>
-						<Y>-18.019</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<PointNode>
-				<Id>1776176170676</Id>
-				<Name><![CDATA[node19]]></Name>
-				<X>326</X>
-				<Y>332</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<FakeNode>false</FakeNode>
-				<Lock>false</Lock>
-				<Color>-14774017</Color>
-				<Radius>10</Radius>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="UnitValue">
-					<Value Class="Double">10</Value>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-			</PointNode>
 			<RectangleNode>
 				<Id>1776169233597</Id>
 				<Name><![CDATA[node3]]></Name>
@@ -16950,10 +16646,10 @@
 				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 			</Path>
 			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1777924950586</Id>
-				<Name><![CDATA[path53]]></Name>
-				<X>525</X>
-				<Y>410</Y>
+				<Id>1777939883405</Id>
+				<Name><![CDATA[path31]]></Name>
+				<X>518</X>
+				<Y>426</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -16973,33 +16669,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>-0.669</X>
-						<Y>-0.285</Y>
+						<X>-0.521</X>
+						<Y>-0.222</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-21.569</X>
-						<Y>-14.003</Y>
+						<X>-23.561</X>
+						<Y>-9.926</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>20.465</X>
-						<Y>13.07</Y>
+						<X>22.512</X>
+						<Y>9.497</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>16.624</X>
-						<Y>10.643</Y>
+						<X>18.426</X>
+						<Y>7.773</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-4.509</X>
-						<Y>-2.712</Y>
+						<X>-4.608</X>
+						<Y>-1.946</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>4.903</X>
-						<Y>1.235</Y>
+						<X>-20.429</X>
+						<Y>-8.791</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -17012,11 +16708,11 @@
 				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
 				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 			</Path>
-			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1777924960472</Id>
-				<Name><![CDATA[path54]]></Name>
-				<X>535</X>
-				<Y>390</Y>
+			<RectangleNode>
+				<Id>1776176505961</Id>
+				<Name><![CDATA[node20]]></Name>
+				<X>431.49</X>
+				<Y>400.13</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -17026,312 +16722,121 @@
 				<ShowLabel>false</ShowLabel>
 				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 				<Z>0</Z>
+				<EmbeddedObject>
+					<Id>1776176505965</Id>
+					<ActiveObjectClass>
+						<PackageName>com.anylogic.libraries.modules.markup_descriptors</PackageName>
+						<ClassName>AreaNodeDescriptor</ClassName>
+					</ActiveObjectClass>
+					<GenericParameterSubstitute>
+						<GenericParameterSubstituteReference>
+							<PackageName>com.anylogic.libraries.modules.markup_descriptors</PackageName>
+							<ClassName>AreaNodeDescriptor</ClassName>
+							<ItemName>1574694148121</ItemName>
+						</GenericParameterSubstituteReference>
+					</GenericParameterSubstitute>
+					<Parameters>
+						<Parameter>
+							<Name><![CDATA[appliedClass]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[speedRestricted]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[maxSpeed]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[accessRestricted]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[accessRestrictionType]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[accessRestrictionCondition]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[capacity]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[throughput]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[schedule]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[avoidedIfClosed]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onEnter]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onEnterDenied]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onExit]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onOpen]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onClose]]></Name>
+						</Parameter>
+					</Parameters>
+					<ReplicationFlag>false</ReplicationFlag>
+					<Replication Class="CodeValue">
+						<Code><![CDATA[100]]></Code>
+					</Replication>
+					<CollectionType>ARRAY_LIST_BASED</CollectionType>
+					<InitialLocationType>XYZ</InitialLocationType>
+					<ColumnCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</ColumnCode>
+					<RowCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</RowCode>
+					<LocationNameCode Class="CodeValue">
+						<Code><![CDATA[""]]></Code>
+					</LocationNameCode>
+					<InitializationType>SPECIFIED_NUMBER</InitializationType>
+					<InitializationDatabaseTableQuery>
+						<Id>1776176505964</Id>
+						<TableReference/>
+					</InitializationDatabaseTableQuery>
+					<InitializationDatabaseType>ONE_AGENT_PER_DATABASE_RECORD</InitializationDatabaseType>
+					<QuantityColumn/>
+				</EmbeddedObject>
 				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
+				<FillColor/>
 				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>-1.911</X>
-						<Y>-0.815</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-22.972</X>
-						<Y>-14.284</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>19.126</X>
-						<Y>12.692</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>14.826</X>
-						<Y>9.931</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-6.211</X>
-						<Y>-3.576</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-32.801</X>
-						<Y>-13.694</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1777924966334</Id>
-				<Name><![CDATA[path55]]></Name>
-				<X>540</X>
-				<Y>375</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
 				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>-0.728</X>
-						<Y>-0.31</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-21.636</X>
-						<Y>-14.016</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>20.277</X>
-						<Y>13.247</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>15.638</X>
-						<Y>10.253</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-5.367</X>
-						<Y>-3.304</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-14.701</X>
-						<Y>-6.52</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1777924970815</Id>
-				<Name><![CDATA[path56]]></Name>
-				<X>545</X>
-				<Y>360</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>0.456</X>
-						<Y>0.194</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-20.273</X>
-						<Y>-13.782</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>21.427</X>
-						<Y>13.804</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>16.45</X>
-						<Y>10.574</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-4.52</X>
-						<Y>-3.036</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>48.515</X>
-						<Y>19.912</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1777924981999</Id>
-				<Name><![CDATA[path57]]></Name>
-				<X>555</X>
-				<Y>340</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>-0.787</X>
-						<Y>-0.336</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-21.703</X>
-						<Y>-14.03</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>20.073</X>
-						<Y>13.443</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>14.652</X>
-						<Y>9.862</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-6.208</X>
-						<Y>-3.917</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-26.475</X>
-						<Y>-11.189</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1777924986717</Id>
-				<Name><![CDATA[path58]]></Name>
-				<X>560</X>
-				<Y>325</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>0.396</X>
-						<Y>0.169</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-20.343</X>
-						<Y>-13.792</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>21.217</X>
-						<Y>14.007</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>15.464</X>
-						<Y>10.184</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-5.357</X>
-						<Y>-3.654</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>29.027</X>
-						<Y>12.201</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<Path SourceId="1776176505961" TargetId="1776168910667">
-				<Id>1777924993793</Id>
-				<Name><![CDATA[path59]]></Name>
-				<X>570</X>
-				<Y>310</Y>
+				<FillMaterial>null</FillMaterial>
+				<LineStyle>DASHED</LineStyle>
+				<AttractorsLayout>random</AttractorsLayout>
+				<Sloped>false</Sloped>
+				<Slope>
+					<Id>1776176505959</Id>
+					<Name><![CDATA[node20]]></Name>
+					<X>0</X>
+					<Y>10</Y>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<Dx>20</Dx>
+					<Dy>0</Dy>
+					<Dz>0</Dz>
+					<AngleX>30</AngleX>
+					<AngleZ>0</AngleZ>
+					<SlopeType>angle</SlopeType>
+				</Slope>
+				<Width>155</Width>
+				<Height>90</Height>
+				<Rotation>293.0</Rotation>
+			</RectangleNode>
+			<Path SourceId="1776176170676" TargetId="1776176505961">
+				<Id>1776176544515</Id>
+				<Name><![CDATA[path30]]></Name>
+				<X>329.162</X>
+				<Y>322.513</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -17356,28 +16861,523 @@
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-23.717</X>
-						<Y>-7.906</Y>
+						<X>-11.063</X>
+						<Y>22.418999999999997</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>23.76</X>
-						<Y>7.775</Y>
+						<X>10.710999999999999</X>
+						<Y>-22.589</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>13.666</X>
-						<Y>4.472</Y>
+						<X>9.877</X>
+						<Y>-20.831</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-10.095</X>
-						<Y>-3.303</Y>
+						<X>-0.833</X>
+						<Y>1.759</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-13.398</X>
-						<Y>-5.303</Y>
+						<X>33.696</X>
+						<Y>-28.424</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>30.838</X>
+						<Y>-27.513</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>7.019</X>
+						<Y>-19.92</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>54.43</X>
+						<Y>-19.243</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>131.616</X>
+						<Y>7.814</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>108.024</X>
+						<Y>-0.456</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>39.638</X>
+						<Y>-18.019</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<PointNode>
+				<Id>1776176170676</Id>
+				<Name><![CDATA[node19]]></Name>
+				<X>326</X>
+				<Y>332</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<FakeNode>false</FakeNode>
+				<Lock>false</Lock>
+				<Color>-14774017</Color>
+				<Radius>10</Radius>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="UnitValue">
+					<Value Class="Double">10</Value>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+			</PointNode>
+			<Path SourceId="1776176505961" TargetId="1776168910667">
+				<Id>1777939887908</Id>
+				<Name><![CDATA[path32]]></Name>
+				<X>526</X>
+				<Y>409</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-1.154</X>
+						<Y>-0.492</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-23.799</X>
+						<Y>-11.085</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>21.493</X>
+						<Y>10.097</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>17.058</X>
+						<Y>8.023</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-5.589</X>
+						<Y>-2.566</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-17.878</X>
+						<Y>-7.781</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776176505961" TargetId="1776168910667">
+				<Id>1777939894250</Id>
+				<Name><![CDATA[path53]]></Name>
+				<X>532</X>
+				<Y>394</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-0.816</X>
+						<Y>-0.348</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-23.668</X>
+						<Y>-10.487</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>22.017</X>
+						<Y>9.834</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>17.141</X>
+						<Y>7.66</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-5.691</X>
+						<Y>-2.522</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-29.832</X>
+						<Y>-12.515</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776176505961" TargetId="1776168910667">
+				<Id>1777939898785</Id>
+				<Name><![CDATA[path54]]></Name>
+				<X>539</X>
+				<Y>379</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-1.325</X>
+						<Y>-0.565</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-23.973</X>
+						<Y>-11.151</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>21.291</X>
+						<Y>10.09</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>16.089</X>
+						<Y>7.639</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-6.527</X>
+						<Y>-3.016</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-27.507</X>
+						<Y>-11.597</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776176505961" TargetId="1776168910667">
+				<Id>1777939902862</Id>
+				<Name><![CDATA[path55]]></Name>
+				<X>546</X>
+				<Y>361</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-0.751</X>
+						<Y>-0.321</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-23.387</X>
+						<Y>-10.932</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>21.855</X>
+						<Y>10.354</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>16.199</X>
+						<Y>7.683</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-6.407</X>
+						<Y>-2.992</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-31.463</X>
+						<Y>-13.16</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776176505961" TargetId="1776168910667">
+				<Id>1777939907891</Id>
+				<Name><![CDATA[path56]]></Name>
+				<X>554</X>
+				<Y>343</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-1.024</X>
+						<Y>-0.437</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-22.889</X>
+						<Y>-12.558</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>20.746</X>
+						<Y>11.854</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>14.967</X>
+						<Y>8.591</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-6.803</X>
+						<Y>-3.7</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-33.974</X>
+						<Y>-14.158</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776176505961" TargetId="1776168910667">
+				<Id>1777939914808</Id>
+				<Name><![CDATA[path57]]></Name>
+				<X>560</X>
+				<Y>328</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-0.686</X>
+						<Y>-0.293</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-23.798</X>
+						<Y>-9.824</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>22.416</X>
+						<Y>9.262</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>15.735</X>
+						<Y>6.499</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-7.367</X>
+						<Y>-3.056</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-49.978</X>
+						<Y>-20.492</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776176505961" TargetId="1776168910667">
+				<Id>1777939919483</Id>
+				<Name><![CDATA[path58]]></Name>
+				<X>569</X>
+				<Y>307</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-0.722</X>
+						<Y>-0.308</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-23.111</X>
+						<Y>-11.432</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>21.589</X>
+						<Y>10.972</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>14.666</X>
+						<Y>7.472</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-7.645</X>
+						<Y>-3.808</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-126.492</X>
+						<Y>-50.785</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -17391,9 +17391,9 @@
 				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 			</Path>
 			<Path SourceId="1776168910667" TargetId="1776176571874">
-				<Id>1777925037168</Id>
-				<Name><![CDATA[path60]]></Name>
-				<X>615</X>
+				<Id>1777939932848</Id>
+				<Name><![CDATA[path59]]></Name>
+				<X>614</X>
 				<Y>470</Y>
 				<Label>
 					<X>10</X>
@@ -17414,33 +17414,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>-2.182</X>
-						<Y>-0.885</Y>
+						<X>-1.323</X>
+						<Y>-0.536</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-26.616</X>
-						<Y>-6.175</Y>
+						<X>-25.203</X>
+						<Y>-7.935</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>22.321</X>
-						<Y>4.073</Y>
+						<X>22.558</X>
+						<Y>6.859</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>23.051</X>
-						<Y>4.22</Y>
+						<X>22.948</X>
+						<Y>6.979</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-1.452</X>
-						<Y>-0.737</Y>
+						<X>-0.934</X>
+						<Y>-0.415</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-34.862</X>
-						<Y>-14.073</Y>
+						<X>-15.172</X>
+						<Y>-6.195</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -17454,10 +17454,73 @@
 				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 			</Path>
 			<Path SourceId="1776168910667" TargetId="1776176571874">
-				<Id>1777925043089</Id>
+				<Id>1777939937274</Id>
+				<Name><![CDATA[path60]]></Name>
+				<X>621</X>
+				<Y>452</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-1.068</X>
+						<Y>-0.433</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-24.763</X>
+						<Y>-8.404</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>22.648</X>
+						<Y>7.477</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>22.913</X>
+						<Y>7.565</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-0.803</X>
+						<Y>-0.344</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-28.018</X>
+						<Y>-11.334</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776168910667" TargetId="1776176571874">
+				<Id>1777939941289</Id>
 				<Name><![CDATA[path61]]></Name>
-				<X>620</X>
-				<Y>450</Y>
+				<X>627</X>
+				<Y>436</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -17477,33 +17540,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>0.487</X>
-						<Y>0.198</Y>
+						<X>-0.65</X>
+						<Y>-0.263</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-22.726</X>
-						<Y>-9.084</Y>
+						<X>-24.251</X>
+						<Y>-8.509</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>23.7</X>
-						<Y>9.48</Y>
+						<X>22.949</X>
+						<Y>7.988</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>23.913</X>
-						<Y>9.565</Y>
+						<X>23.12</X>
+						<Y>8.048</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>0.7</X>
-						<Y>0.283</Y>
+						<X>-0.479</X>
+						<Y>-0.203</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>10.124</X>
-						<Y>4.173</Y>
+						<X>-19.73</X>
+						<Y>-8.019</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -17517,72 +17580,9 @@
 				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 			</Path>
 			<Path SourceId="1776168910667" TargetId="1776176571874">
-				<Id>1777925047083</Id>
+				<Id>1777939949445</Id>
 				<Name><![CDATA[path62]]></Name>
-				<X>624.675</X>
-				<Y>439.868</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>0</X>
-						<Y>0</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-24.254</X>
-						<Y>-6.063000000000001</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>24.991</X>
-						<Y>0.6819999999999995</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>26.823999999999998</X>
-						<Y>0.7319999999999993</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>1.8330000000000002</X>
-						<Y>0.04999999999999982</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>3.373</X>
-						<Y>-5.648000000000001</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<Path SourceId="1776168910667" TargetId="1776176571874">
-				<Id>1777925060658</Id>
-				<Name><![CDATA[path63]]></Name>
-				<X>635</X>
+				<X>634</X>
 				<Y>420</Y>
 				<Label>
 					<X>10</X>
@@ -17603,33 +17603,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>-1.95</X>
-						<Y>-0.79</Y>
+						<X>-1.091</X>
+						<Y>-0.442</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-26.392</X>
-						<Y>-6.041</Y>
+						<X>-24.571</X>
+						<Y>-9.026</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>22.563</X>
-						<Y>4.123</Y>
+						<X>22.384</X>
+						<Y>8.156</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>23.051</X>
-						<Y>4.22</Y>
+						<X>22.465</X>
+						<Y>8.186</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-1.462</X>
-						<Y>-0.692</Y>
+						<X>-1.01</X>
+						<Y>-0.412</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-44.607</X>
-						<Y>-17.973</Y>
+						<X>-15.399</X>
+						<Y>-6.285</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -17643,73 +17643,73 @@
 				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 			</Path>
 			<Path SourceId="1776168910667" TargetId="1776176571874">
-				<Id>1777925066321</Id>
+				<Id>1777939954194</Id>
+				<Name><![CDATA[path63]]></Name>
+				<X>642</X>
+				<Y>398</Y>
+				<Label>
+					<X>10</X>
+					<Y>0</Y>
+				</Label>
+				<PublicFlag>true</PublicFlag>
+				<PresentationFlag>true</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Z>0</Z>
+				<LineColor>-14774017</LineColor>
+				<LineMaterial>null</LineMaterial>
+				<LineWidth>1</LineWidth>
+				<PathType>dashedLine</PathType>
+				<Width Class="UnitValue">
+					<Value Class="Double">1</Value>
+					<Unit Class="LengthUnits">METER</Unit>
+				</Width>
+				<Points>
+					<Point>
+						<X>-0.302</X>
+						<Y>-0.122</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-22.267</X>
+						<Y>-12.061</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>21.65</X>
+						<Y>11.842</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>21.775</X>
+						<Y>11.91</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-0.176</X>
+						<Y>-0.054</Y>
+						<Z>0</Z>
+					</Point>
+					<Point>
+						<X>-21.57</X>
+						<Y>-8.719</Y>
+						<Z>0</Z>
+					</Point>
+				</Points>
+				<Bidirectional>true</Bidirectional>
+				<SpeedLimit>false</SpeedLimit>
+				<SpeedLimitValue Class="CodeUnitValue">
+					<Code><![CDATA[10.0]]></Code>
+					<Unit Class="SpeedUnits">MPS</Unit>
+				</SpeedLimitValue>
+				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
+				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
+			</Path>
+			<Path SourceId="1776168910667" TargetId="1776176571874">
+				<Id>1777939964369</Id>
 				<Name><![CDATA[path64]]></Name>
-				<X>640</X>
-				<Y>400</Y>
-				<Label>
-					<X>10</X>
-					<Y>0</Y>
-				</Label>
-				<PublicFlag>true</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>false</ShowLabel>
-				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-				<Z>0</Z>
-				<LineColor>-14774017</LineColor>
-				<LineMaterial>null</LineMaterial>
-				<LineWidth>1</LineWidth>
-				<PathType>dashedLine</PathType>
-				<Width Class="UnitValue">
-					<Value Class="Double">1</Value>
-					<Unit Class="LengthUnits">METER</Unit>
-				</Width>
-				<Points>
-					<Point>
-						<X>0.72</X>
-						<Y>0.292</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>-22.493</X>
-						<Y>-8.989</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>23.933</X>
-						<Y>9.573</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>23.913</X>
-						<Y>9.565</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>0.7</X>
-						<Y>0.284</Y>
-						<Z>0</Z>
-					</Point>
-					<Point>
-						<X>17.207</X>
-						<Y>7.008</Y>
-						<Z>0</Z>
-					</Point>
-				</Points>
-				<Bidirectional>true</Bidirectional>
-				<SpeedLimit>false</SpeedLimit>
-				<SpeedLimitValue Class="CodeUnitValue">
-					<Code><![CDATA[10.0]]></Code>
-					<Unit Class="SpeedUnits">MPS</Unit>
-				</SpeedLimitValue>
-				<LimitNumberOfTransporters>false</LimitNumberOfTransporters>
-				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
-			</Path>
-			<Path SourceId="1776168910667" TargetId="1776176571874">
-				<Id>1777925076155</Id>
-				<Name><![CDATA[path65]]></Name>
 				<X>655</X>
-				<Y>370</Y>
+				<Y>369</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -17729,33 +17729,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>-1.718</X>
-						<Y>-0.696</Y>
+						<X>-1.37</X>
+						<Y>-0.555</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-26.169</X>
-						<Y>-5.909</Y>
+						<X>-24.846</X>
+						<Y>-9.149</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>22.804</X>
-						<Y>4.171</Y>
+						<X>22.107</X>
+						<Y>8.037</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>23.051</X>
-						<Y>4.22</Y>
+						<X>21.948</X>
+						<Y>7.979</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-1.471</X>
-						<Y>-0.647</Y>
+						<X>-1.529</X>
+						<Y>-0.613</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-40.709</X>
-						<Y>-16.413</Y>
+						<X>-20.451</X>
+						<Y>-8.301</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -17769,10 +17769,10 @@
 				<LimitNumberOfTransportersValue>10</LimitNumberOfTransportersValue>
 			</Path>
 			<Path SourceId="1776168910667" TargetId="1776176571874">
-				<Id>1777925082677</Id>
-				<Name><![CDATA[path66]]></Name>
-				<X>660</X>
-				<Y>350</Y>
+				<Id>1777939968385</Id>
+				<Name><![CDATA[path65]]></Name>
+				<X>662</X>
+				<Y>351</Y>
 				<Label>
 					<X>10</X>
 					<Y>0</Y>
@@ -17792,33 +17792,33 @@
 				</Width>
 				<Points>
 					<Point>
-						<X>0.952</X>
-						<Y>0.386</Y>
+						<X>-1.114</X>
+						<Y>-0.452</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>-22.262</X>
-						<Y>-8.894</Y>
+						<X>-24.593</X>
+						<Y>-9.038</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>24.166</X>
-						<Y>9.666</Y>
+						<X>22.364</X>
+						<Y>8.137</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>23.913</X>
-						<Y>9.565</Y>
+						<X>22.12</X>
+						<Y>8.048</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>0.699</X>
-						<Y>0.285</Y>
+						<X>-1.358</X>
+						<Y>-0.541</Y>
 						<Z>0</Z>
 					</Point>
 					<Point>
-						<X>13.385</X>
-						<Y>5.478</Y>
+						<X>-21.743</X>
+						<Y>-8.823</Y>
 						<Z>0</Z>
 					</Point>
 				</Points>
@@ -26091,4 +26091,224 @@
 			<Unit Class="SpeedUnits">MPS</Unit>
 		</SpeedLimitValue>
 	</PointNode>
+	<Text>
+		<Id>1777941839727</Id>
+		<Name><![CDATA[text18]]></Name>
+		<X>1690</X>
+		<Y>1110</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Truck Stop Logic]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>24</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<TimePlot>
+		<Id>1777948090774</Id>
+		<Name><![CDATA[plot]]></Name>
+		<X>3740</X>
+		<Y>20</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<AutoUpdate>true</AutoUpdate>
+		<RecurrenceProperties>
+			<Id>1777948090772</Id>
+			<OccurrenceAtTime>true</OccurrenceAtTime>
+			<OccurrenceDate>1777968000000</OccurrenceDate>
+			<OccurrenceTime Class="CodeUnitValue">
+				<Code><![CDATA[0]]></Code>
+				<Unit Class="TimeUnits">MINUTE</Unit>
+			</OccurrenceTime>
+			<RecurrenceCode Class="CodeUnitValue">
+				<Code><![CDATA[1]]></Code>
+				<Unit Class="TimeUnits">MINUTE</Unit>
+			</RecurrenceCode>
+		</RecurrenceProperties>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Width>260</Width>
+		<Height>210</Height>
+		<BackgroundColor>-4144960</BackgroundColor>
+		<BorderColor>-16777216</BorderColor>
+		<ChartArea>
+			<XOffset>50</XOffset>
+			<YOffset>30</YOffset>
+			<Width>180</Width>
+			<Height>120</Height>
+			<BackgroundColor>-1</BackgroundColor>
+			<BorderColor>-16777216</BorderColor>
+			<GridColor>-12566464</GridColor>
+		</ChartArea>
+		<Legend>
+			<Place>SOUTH</Place>
+			<TextColor>-16777216</TextColor>
+			<Size>30</Size>
+		</Legend>
+		<Labels>
+			<HorLabelsPosition>DEFAULT</HorLabelsPosition>
+			<VerLabelsPosition>DEFAULT</VerLabelsPosition>
+			<TextColor>-12566464</TextColor>
+		</Labels>
+		<ShowLegend>true</ShowLegend>
+		<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>
+		<TimeWindowUnits>MODEL_TIME_UNIT</TimeWindowUnits>
+		<VerScaleFromExpression>0</VerScaleFromExpression>
+		<VerScaleToExpression>1</VerScaleToExpression>
+		<VerScaleType>AUTO</VerScaleType>
+		<DrawLine>true</DrawLine>
+		<Interpolation>LINEAR</Interpolation>
+		<DatasetExpression>
+			<Title>Checkout Line Length</Title>
+			<Id>1777948090771</Id>
+			<Color>-32944</Color>
+			<Expression2>vCheckoutLine</Expression2>
+			<Expression2Flag>true</Expression2Flag>
+			<PointStyle>CIRCLE</PointStyle>
+			<LineWidth>1.0</LineWidth>
+		</DatasetExpression>
+		<SamplesToKeep>1000</SamplesToKeep>
+		<TimeWindowExpression>1000</TimeWindowExpression>
+		<FillAreaUnderLine>false</FillAreaUnderLine>
+		<LabelFormat>MODEL_TIME_UNITS</LabelFormat>
+	</TimePlot>
+	<Text>
+		<Id>1777948090776</Id>
+		<Name><![CDATA[text20]]></Name>
+		<X>4020</X>
+		<Y>60</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[Average Checkout line size:]]></Text>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>16</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Text>
+		<Id>1777948090778</Id>
+		<Name><![CDATA[text23]]></Name>
+		<X>4220</X>
+		<Y>60</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D</DrawMode>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Z>0</Z>
+		<Rotation>0.0</Rotation>
+		<Color>-16777216</Color>
+		<Text><![CDATA[text]]></Text>
+		<TextCode>dsCheckoutLine.getXMean()</TextCode>
+		<Font>
+			<Name><![CDATA[SansSerif]]></Name>
+			<Size>16</Size>
+			<Style>0</Style>
+		</Font>
+		<Alignment>LEFT</Alignment>
+	</Text>
+	<Histogram>
+		<Id>1777948090783</Id>
+		<Name><![CDATA[chart]]></Name>
+		<X>3740</X>
+		<Y>230</Y>
+		<Label>
+			<X>0</X>
+			<Y>-10</Y>
+		</Label>
+		<PublicFlag>true</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>false</ShowLabel>
+		<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+		<AutoUpdate>true</AutoUpdate>
+		<RecurrenceProperties>
+			<Id>1777948090781</Id>
+			<OccurrenceAtTime>true</OccurrenceAtTime>
+			<OccurrenceDate>1777968000000</OccurrenceDate>
+			<OccurrenceTime Class="CodeUnitValue">
+				<Code><![CDATA[0]]></Code>
+				<Unit Class="TimeUnits">MINUTE</Unit>
+			</OccurrenceTime>
+			<RecurrenceCode Class="CodeUnitValue">
+				<Code><![CDATA[1]]></Code>
+				<Unit Class="TimeUnits">MINUTE</Unit>
+			</RecurrenceCode>
+		</RecurrenceProperties>
+		<EmbeddedIcon>false</EmbeddedIcon>
+		<Width>260</Width>
+		<Height>210</Height>
+		<BackgroundColor>-4144960</BackgroundColor>
+		<BorderColor>-16777216</BorderColor>
+		<ChartArea>
+			<XOffset>50</XOffset>
+			<YOffset>30</YOffset>
+			<Width>180</Width>
+			<Height>120</Height>
+			<BackgroundColor>-1</BackgroundColor>
+			<BorderColor>-16777216</BorderColor>
+			<GridColor>-12566464</GridColor>
+		</ChartArea>
+		<Legend>
+			<Place>SOUTH</Place>
+			<TextColor>-16777216</TextColor>
+			<Size>30</Size>
+		</Legend>
+		<Labels>
+			<HorLabelsPosition>DEFAULT</HorLabelsPosition>
+			<VerLabelsPosition>DEFAULT</VerLabelsPosition>
+			<TextColor>-12566464</TextColor>
+		</Labels>
+		<ShowLegend>true</ShowLegend>
+		<ShowPDF>true</ShowPDF>
+		<ShowCDF>false</ShowCDF>
+		<ShowMean>false</ShowMean>
+		<Bars>
+			<Direction>UP</Direction>
+			<RelativeWidth>0.8</RelativeWidth>
+		</Bars>
+		<HistogramDataExpression>
+			<Id>1777948090780</Id>
+			<Expression>dsCheckout</Expression>
+			<ColorPDF>-16776961</ColorPDF>
+			<ColorCDF>-12799119</ColorCDF>
+			<ColorLowPercent>-2987746</ColorLowPercent>
+			<ColorHighPercent>-2448096</ColorHighPercent>
+			<ColorMean>-9807155</ColorMean>
+			<LineWidth>1</LineWidth>
+			<Title>Checkout time lengths</Title>
+		</HistogramDataExpression>
+	</Histogram>
 </Presentation>

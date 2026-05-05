@@ -8605,7 +8605,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[rate]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[pArrivalRate]]></Code>
+					<Code><![CDATA[pTruckArrivalRate]]></Code>
 					<Unit Class="RateUnits">PER_HOUR</Unit>
 				</Value>
 			</Parameter>

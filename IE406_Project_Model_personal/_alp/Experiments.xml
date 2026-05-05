@@ -157,7 +157,7 @@
 				<ParameterName>pTruckFuelTimeMax</ParameterName>
 			</Parameter>
 			<Parameter>
-				<ParameterName>parameter</ParameterName>
+				<ParameterName>pTruckArrivalRate</ParameterName>
 			</Parameter>
 		</Parameters>
 		<PresentationProperties>

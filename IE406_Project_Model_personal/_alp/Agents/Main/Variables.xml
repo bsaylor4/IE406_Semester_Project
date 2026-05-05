@@ -1031,7 +1031,7 @@
 		</Properties>
 	</Variable>
 	<Variable Class="Parameter">
-		<Id>1777925446535</Id>
+		<Id>1777939550431</Id>
 		<Name><![CDATA[pTruckFuelTimeMin]]></Name>
 		<X>3160</X>
 		<Y>900</Y>
@@ -1047,10 +1047,10 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[12]]></Code>
+				<Code><![CDATA[10]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
-				<Id>1777925446533</Id>
+				<Id>1777939550429</Id>
 				<EditorContolType>TEXT_BOX</EditorContolType>
 				<MinSliderValue>0</MinSliderValue>
 				<MaxSliderValue>100</MaxSliderValue>
@@ -1059,7 +1059,7 @@
 		</Properties>
 	</Variable>
 	<Variable Class="Parameter">
-		<Id>1777925467681</Id>
+		<Id>1777939572773</Id>
 		<Name><![CDATA[pTruckFuelTimeMode]]></Name>
 		<X>3160</X>
 		<Y>920</Y>
@@ -1075,10 +1075,10 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[20]]></Code>
+				<Code><![CDATA[18]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
-				<Id>1777925467679</Id>
+				<Id>1777939572771</Id>
 				<EditorContolType>TEXT_BOX</EditorContolType>
 				<MinSliderValue>0</MinSliderValue>
 				<MaxSliderValue>100</MaxSliderValue>
@@ -1087,7 +1087,7 @@
 		</Properties>
 	</Variable>
 	<Variable Class="Parameter">
-		<Id>1777925502478</Id>
+		<Id>1777939599787</Id>
 		<Name><![CDATA[pTruckFuelTimeMax]]></Name>
 		<X>3160</X>
 		<Y>940</Y>
@@ -1103,10 +1103,10 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[35]]></Code>
+				<Code><![CDATA[30]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
-				<Id>1777925502476</Id>
+				<Id>1777939599785</Id>
 				<EditorContolType>TEXT_BOX</EditorContolType>
 				<MinSliderValue>0</MinSliderValue>
 				<MaxSliderValue>100</MaxSliderValue>
@@ -1115,10 +1115,10 @@
 		</Properties>
 	</Variable>
 	<Variable Class="Parameter">
-		<Id>1777925693994</Id>
-		<Name><![CDATA[parameter]]></Name>
+		<Id>1777939735147</Id>
+		<Name><![CDATA[pTruckArrivalRate]]></Name>
 		<X>3160</X>
-		<Y>960</Y>
+		<Y>970</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -1127,11 +1127,14 @@
 		<PresentationFlag>true</PresentationFlag>
 		<ShowLabel>true</ShowLabel>
 		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
-			<Type><![CDATA[double]]></Type>
+			<Type><![CDATA[int]]></Type>
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[4]]></Code>
+			</DefaultValue>
 			<ParameterEditor>
-				<Id>1777925693992</Id>
+				<Id>1777939735145</Id>
 				<EditorContolType>TEXT_BOX</EditorContolType>
 				<MinSliderValue>0</MinSliderValue>
 				<MaxSliderValue>100</MaxSliderValue>
