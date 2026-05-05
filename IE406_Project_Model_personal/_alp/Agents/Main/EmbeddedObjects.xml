@@ -7751,7 +7751,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[delayTime]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[triangular( pFuelTimeMin, pFuelTimeMode, pFuelTimeMax )]]></Code>
+					<Code><![CDATA[triangular(pTruckFuelTimeMin, pTruckFuelTimeMode, pTruckFuelTimeMax)]]></Code>
 					<Unit Class="TimeUnits">MINUTE</Unit>
 				</Value>
 			</Parameter>
@@ -8687,7 +8687,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[locationNode]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[node13]]></Code>
+					<Code><![CDATA[node19]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>

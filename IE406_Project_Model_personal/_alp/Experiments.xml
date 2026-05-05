@@ -147,6 +147,18 @@
 			<Parameter>
 				<ParameterName>pNumberofTrucks</ParameterName>
 			</Parameter>
+			<Parameter>
+				<ParameterName>pTruckFuelTimeMin</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pTruckFuelTimeMode</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pTruckFuelTimeMax</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>parameter</ParameterName>
+			</Parameter>
 		</Parameters>
 		<PresentationProperties>
 			<EnableZoomAndPanning>true</EnableZoomAndPanning>
