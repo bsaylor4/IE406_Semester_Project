@@ -3552,7 +3552,7 @@
 			<Parameter>
 				<Name><![CDATA[rate]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[pArrivalRate]]></Code>
+					<Code><![CDATA[carArrivalSchedule.getValue()]]></Code>
 					<Unit Class="RateUnits">PER_HOUR</Unit>
 				</Value>
 			</Parameter>
@@ -7194,19 +7194,19 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[probability1]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[pGasOnlyPayAtPump/(1-pNoGasInside)]]></Code>
+					<Code><![CDATA[pTruckPayAtPump]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability2]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[pInsidePayAtPump / (1 - pNoGasInside)]]></Code>
+					<Code><![CDATA[pTruckPayAtPumpGoInside]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[probability3]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[(pPayInsideGasOnly + pPayInsideGasPlusInside) / (1 - pNoGasInside)]]></Code>
+					<Code><![CDATA[pTruckPayInside]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -8605,7 +8605,7 @@ if (car != null) {
 			<Parameter>
 				<Name><![CDATA[rate]]></Name>
 				<Value Class="CodeUnitValue">
-					<Code><![CDATA[pTruckArrivalRate]]></Code>
+					<Code><![CDATA[TruckArrivalSchedule.getValue()]]></Code>
 					<Unit Class="RateUnits">PER_HOUR</Unit>
 				</Value>
 			</Parameter>
@@ -8653,9 +8653,6 @@ if (car != null) {
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[locationType]]></Name>
-				<Value Class="CodeValue">
-					<Code><![CDATA[self.LOCATION_NODE]]></Code>
-				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[locationX]]></Name>

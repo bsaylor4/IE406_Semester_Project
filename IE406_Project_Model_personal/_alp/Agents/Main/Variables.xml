@@ -39,7 +39,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[4]]></Code>
+				<Code><![CDATA[6]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776192411509</Id>
@@ -67,7 +67,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[12]]></Code>
+				<Code><![CDATA[15]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776192427488</Id>
@@ -95,7 +95,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[7]]></Code>
+				<Code><![CDATA[10]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776192448700</Id>
@@ -123,7 +123,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[12]]></Code>
+				<Code><![CDATA[32]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776193299411</Id>
@@ -179,7 +179,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[0.45]]></Code>
+				<Code><![CDATA[0.55]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776347491927</Id>
@@ -207,7 +207,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[0.15]]></Code>
+				<Code><![CDATA[0.20]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776347516281</Id>
@@ -263,7 +263,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[0.10]]></Code>
+				<Code><![CDATA[0.08]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776347690546</Id>
@@ -291,7 +291,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[0.15]]></Code>
+				<Code><![CDATA[0.02]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1776347712036</Id>
@@ -1034,7 +1034,7 @@
 		<Id>1777939550431</Id>
 		<Name><![CDATA[pTruckFuelTimeMin]]></Name>
 		<X>3160</X>
-		<Y>900</Y>
+		<Y>980</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -1047,7 +1047,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[10]]></Code>
+				<Code><![CDATA[20]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1777939550429</Id>
@@ -1062,7 +1062,7 @@
 		<Id>1777939572773</Id>
 		<Name><![CDATA[pTruckFuelTimeMode]]></Name>
 		<X>3160</X>
-		<Y>920</Y>
+		<Y>1000</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -1075,7 +1075,7 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[18]]></Code>
+				<Code><![CDATA[25]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1777939572771</Id>
@@ -1090,7 +1090,7 @@
 		<Id>1777939599787</Id>
 		<Name><![CDATA[pTruckFuelTimeMax]]></Name>
 		<X>3160</X>
-		<Y>940</Y>
+		<Y>1020</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -1118,7 +1118,7 @@
 		<Id>1777939735147</Id>
 		<Name><![CDATA[pTruckArrivalRate]]></Name>
 		<X>3160</X>
-		<Y>970</Y>
+		<Y>1050</Y>
 		<Label>
 			<X>10</X>
 			<Y>0</Y>
@@ -1131,10 +1131,94 @@
 			<UnitType>NONE</UnitType>
 			<SdArray>false</SdArray>
 			<DefaultValue Class="CodeValue">
-				<Code><![CDATA[4]]></Code>
+				<Code><![CDATA[14]]></Code>
 			</DefaultValue>
 			<ParameterEditor>
 				<Id>1777939735145</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1778520472393</Id>
+		<Name><![CDATA[pTruckPayAtPump]]></Name>
+		<X>2960</X>
+		<Y>960</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[0.25]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1778520472391</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1778520502231</Id>
+		<Name><![CDATA[pTruckPayInside]]></Name>
+		<X>2960</X>
+		<Y>980</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[0.25]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1778520502229</Id>
+				<EditorContolType>TEXT_BOX</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+	<Variable Class="Parameter">
+		<Id>1778520791079</Id>
+		<Name><![CDATA[pTruckPayAtPumpGoInside]]></Name>
+		<X>2960</X>
+		<Y>1000</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type><![CDATA[double]]></Type>
+			<UnitType>NONE</UnitType>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeValue">
+				<Code><![CDATA[0.50]]></Code>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1778520791077</Id>
 				<EditorContolType>TEXT_BOX</EditorContolType>
 				<MinSliderValue>0</MinSliderValue>
 				<MaxSliderValue>100</MaxSliderValue>

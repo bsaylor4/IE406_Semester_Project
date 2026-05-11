@@ -159,6 +159,15 @@
 			<Parameter>
 				<ParameterName>pTruckArrivalRate</ParameterName>
 			</Parameter>
+			<Parameter>
+				<ParameterName>pTruckPayAtPump</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pTruckPayInside</ParameterName>
+			</Parameter>
+			<Parameter>
+				<ParameterName>pTruckPayAtPumpGoInside</ParameterName>
+			</Parameter>
 		</Parameters>
 		<PresentationProperties>
 			<EnableZoomAndPanning>true</EnableZoomAndPanning>
