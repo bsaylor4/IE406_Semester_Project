@@ -797,7 +797,7 @@
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeValue">
-							<Code><![CDATA[1]]></Code>
+							<Code><![CDATA[2]]></Code>
 						</DefaultValue>
 						<ParameterEditor>
 							<Id>1776284337330</Id>
@@ -19421,6 +19421,49 @@ if (!Double.isNaN(t)) {
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[newUnit]]></Name>
+							<Value Class="EntityCodeValue">
+								<IsAgentEntity>true</IsAgentEntity>
+								<EntityEmbeddedObject>
+									<Id>1778685446317</Id>
+									<ActiveObjectClass>
+										<PackageName><![CDATA[ie406_project_model]]></PackageName>
+										<ClassName><![CDATA[TruckParkingSpots]]></ClassName>
+									</ActiveObjectClass>
+									<GenericParameterSubstitute>
+										<GenericParameterSubstituteReference>
+											<PackageName><![CDATA[ie406_project_model]]></PackageName>
+											<ClassName><![CDATA[TruckParkingSpots]]></ClassName>
+											<ItemName><![CDATA[1778685426216]]></ItemName>
+										</GenericParameterSubstituteReference>
+									</GenericParameterSubstitute>
+									<Parameters>
+									</Parameters>
+									<ReplicationFlag>true</ReplicationFlag>
+									<Replication Class="CodeValue">
+										<Code><![CDATA[100]]></Code>
+									</Replication>
+									<CollectionType>ARRAY_LIST_BASED</CollectionType>
+									<InitialLocationType>XYZ</InitialLocationType>
+									<ColumnCode Class="CodeValue">
+										<Code><![CDATA[0]]></Code>
+									</ColumnCode>
+									<RowCode Class="CodeValue">
+										<Code><![CDATA[0]]></Code>
+									</RowCode>
+									<LocationNameCode Class="CodeValue">
+										<Code><![CDATA[""]]></Code>
+									</LocationNameCode>
+									<InitializationType>LOAD_FROM_DATABASE</InitializationType>
+									<InitializationDatabaseTableQuery>
+										<Id>1778685446318</Id>
+										<TableReference>
+										</TableReference>
+									</InitializationDatabaseTableQuery>
+									<InitializationDatabaseType>ONE_AGENT_PER_DATABASE_RECORD</InitializationDatabaseType>
+									<QuantityColumn>
+									</QuantityColumn>
+								</EntityEmbeddedObject>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[speed]]></Name>
@@ -43694,73 +43737,6 @@ if (truck != null) {
 					</Font>
 					<Alignment>LEFT</Alignment>
 				</Text>
-    			<Histogram>
-					<Id>1777948200783</Id>
-					<Name><![CDATA[chart]]></Name>
-					<X>4680</X><Y>800</Y>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<AutoUpdate>true</AutoUpdate>
-					<RecurrenceProperties>
-						<Id>1777948200781</Id>
-						<OccurrenceAtTime>true</OccurrenceAtTime>
-						<OccurrenceDate>1777968000000</OccurrenceDate>
-						<OccurrenceTime Class="CodeUnitValue">
-							<Code><![CDATA[0]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
-						</OccurrenceTime>
-						<RecurrenceCode Class="CodeUnitValue">
-							<Code><![CDATA[1]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
-						</RecurrenceCode>
-					</RecurrenceProperties>
-					<EmbeddedIcon>false</EmbeddedIcon>
-					<Width>260</Width>
-					<Height>210</Height>
-					<BackgroundColor>-4144960</BackgroundColor>
-					<BorderColor>-16777216</BorderColor>
-					<ChartArea>
-						<XOffset>50</XOffset>
-						<YOffset>30</YOffset>
-						<Width>180</Width>
-						<Height>120</Height>
-						<BackgroundColor>-1</BackgroundColor>
-						<BorderColor>-16777216</BorderColor>
-						<GridColor>-12566464</GridColor>
-					</ChartArea>
-					<Legend>
-						<Place>SOUTH</Place>
-						<TextColor>-16777216</TextColor>
-						<Size>30</Size>
-					</Legend>
-					<Labels>
-						<HorLabelsPosition>DEFAULT</HorLabelsPosition>
-						<VerLabelsPosition>DEFAULT</VerLabelsPosition>
-						<TextColor>-12566464</TextColor>
-					</Labels>
-					<ShowLegend>true</ShowLegend>
-					<ShowPDF>true</ShowPDF>
-					<ShowCDF>false</ShowCDF>
-					<ShowMean>false</ShowMean>
-					<Bars>
-						<Direction>UP</Direction>
-						<RelativeWidth>0.8</RelativeWidth>
-					</Bars>
-					<HistogramDataExpression>
-					<Id>1777948200780</Id>
-					<Expression><![CDATA[dsCheckout]]></Expression>
-						<ColorPDF>-16776961</ColorPDF>
-						<ColorCDF>-12799119</ColorCDF>
-						<ColorLowPercent>-2987746</ColorLowPercent>
-						<ColorHighPercent>-2448096</ColorHighPercent>
-						<ColorMean>-9807155</ColorMean>
-						<LineWidth>1</LineWidth>						
-						<Title><![CDATA[Checkout time lengths]]></Title>							
-					</HistogramDataExpression>
-    			</Histogram>
     			<TimePlot>
 					<Id>1777948263567</Id>
 					<Name><![CDATA[rpCashier_plot1]]></Name>
@@ -43833,7 +43809,7 @@ if (truck != null) {
     			<TimePlot>
 					<Id>1777948336376</Id>
 					<Name><![CDATA[rpBathrooms_plot1]]></Name>
-					<X>4140</X><Y>1240</Y>
+					<X>4420</X><Y>1020</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -44280,19 +44256,19 @@ if (truck != null) {
 
 				</Group>
     			<Histogram>
-					<Id>1777951429125</Id>
-					<Name><![CDATA[chart1]]></Name>
-					<X>4680</X><Y>1020</Y>
+					<Id>1778454148408</Id>
+					<Name><![CDATA[chart2]]></Name>
+					<X>4700</X><Y>800</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<AutoUpdate>true</AutoUpdate>
+					<AutoUpdate>false</AutoUpdate>
 					<RecurrenceProperties>
-						<Id>1777951429124</Id>
+						<Id>1778454148407</Id>
 						<OccurrenceAtTime>true</OccurrenceAtTime>
-						<OccurrenceDate>1777968000000</OccurrenceDate>
+						<OccurrenceDate>1778486400000</OccurrenceDate>
 						<OccurrenceTime Class="CodeUnitValue">
 							<Code><![CDATA[0]]></Code>
 							<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
@@ -44335,73 +44311,6 @@ if (truck != null) {
 						<RelativeWidth>0.8</RelativeWidth>
 					</Bars>
 					<HistogramDataExpression>
-					<Id>1777951429127</Id>
-					<Expression><![CDATA[hdTIS]]></Expression>
-						<ColorPDF>-9728477</ColorPDF>
-						<ColorCDF>-16728065</ColorCDF>
-						<ColorLowPercent>-2354116</ColorLowPercent>
-						<ColorHighPercent>-10496</ColorHighPercent>
-						<ColorMean>-4565549</ColorMean>
-						<LineWidth>1</LineWidth>						
-						<Title><![CDATA[hdTIS]]></Title>							
-					</HistogramDataExpression>
-    			</Histogram>
-    			<Histogram>
-					<Id>1778454148408</Id>
-					<Name><![CDATA[chart2]]></Name>
-					<X>4680</X><Y>1230</Y>
-					<Label><X>0</X><Y>-10</Y></Label>
-					<PublicFlag>true</PublicFlag>
-					<PresentationFlag>true</PresentationFlag>
-					<ShowLabel>false</ShowLabel>
-					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
-					<AutoUpdate>false</AutoUpdate>
-					<RecurrenceProperties>
-						<Id>1778454148407</Id>
-						<OccurrenceAtTime>true</OccurrenceAtTime>
-						<OccurrenceDate>1778486400000</OccurrenceDate>
-						<OccurrenceTime Class="CodeUnitValue">
-							<Code><![CDATA[0]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
-						</OccurrenceTime>
-						<RecurrenceCode Class="CodeUnitValue">
-							<Code><![CDATA[1]]></Code>
-							<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
-						</RecurrenceCode>
-					</RecurrenceProperties>
-					<EmbeddedIcon>false</EmbeddedIcon>
-					<Width>260</Width>
-					<Height>210</Height>
-					<BackgroundColor/>
-					<BorderColor/>
-					<ChartArea>
-						<XOffset>50</XOffset>
-						<YOffset>30</YOffset>
-						<Width>180</Width>
-						<Height>120</Height>
-						<BackgroundColor>-1</BackgroundColor>
-						<BorderColor>-16777216</BorderColor>
-						<GridColor>-12566464</GridColor>
-					</ChartArea>
-					<Legend>
-						<Place>SOUTH</Place>
-						<TextColor>-16777216</TextColor>
-						<Size>30</Size>
-					</Legend>
-					<Labels>
-						<HorLabelsPosition>DEFAULT</HorLabelsPosition>
-						<VerLabelsPosition>DEFAULT</VerLabelsPosition>
-						<TextColor>-12566464</TextColor>
-					</Labels>
-					<ShowLegend>true</ShowLegend>
-					<ShowPDF>true</ShowPDF>
-					<ShowCDF>false</ShowCDF>
-					<ShowMean>false</ShowMean>
-					<Bars>
-						<Direction>UP</Direction>
-						<RelativeWidth>0.8</RelativeWidth>
-					</Bars>
-					<HistogramDataExpression>
 					<Id>1778454148410</Id>
 					<Expression><![CDATA[tmeTIS.distribution]]></Expression>
 						<ColorPDF>-12004916</ColorPDF>
@@ -44416,7 +44325,7 @@ if (truck != null) {
     			<Histogram>
 					<Id>1778454177284</Id>
 					<Name><![CDATA[chart3]]></Name>
-					<X>4430</X><Y>1250</Y>
+					<X>4700</X><Y>1020</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -44439,8 +44348,8 @@ if (truck != null) {
 					<EmbeddedIcon>false</EmbeddedIcon>
 					<Width>260</Width>
 					<Height>210</Height>
-					<BackgroundColor/>
-					<BorderColor/>
+					<BackgroundColor>-4144960</BackgroundColor>
+					<BorderColor>-16777216</BorderColor>
 					<ChartArea>
 						<XOffset>50</XOffset>
 						<YOffset>30</YOffset>
@@ -44471,7 +44380,7 @@ if (truck != null) {
 					<HistogramDataExpression>
 					<Id>1778454177286</Id>
 					<Expression><![CDATA[tmeTIS1.distribution]]></Expression>
-						<ColorPDF>-2987746</ColorPDF>
+						<ColorPDF>-16776961</ColorPDF>
 						<ColorCDF>-2448096</ColorCDF>
 						<ColorLowPercent>-16728065</ColorLowPercent>
 						<ColorHighPercent>-4565549</ColorHighPercent>
@@ -45425,7 +45334,7 @@ if (truck != null) {
 				<Group>
 					<Id>1778612196683</Id>
 					<Name><![CDATA[clock3]]></Name>
-					<X>4900</X><Y>750</Y>
+					<X>4550</X><Y>950</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -45738,14 +45647,14 @@ if (truck != null) {
 				<Area>
 					<Id>1777948188201</Id>
 					<Name><![CDATA[viewAreaPlots]]></Name>
-					<X>4130</X><Y>700</Y>
+					<X>4130</X><Y>710</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<Title><![CDATA[]]></Title>
 					<Width>850</Width>
-					<Height>780</Height>
+					<Height>530</Height>
 				</Area>
 				<Area>
 					<Id>1777950225037</Id>
@@ -46639,6 +46548,141 @@ if (truck != null) {
 			<Presentation>
 				<Level>
 					<Id>1777948992225</Id>
+					<Name><![CDATA[level]]></Name>
+					<X>0</X><Y>0</Y>
+					<Label><X>10</X><Y>0</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<Z>0</Z>
+					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
+
+
+				</Level>
+			</Presentation>
+
+		</ActiveObjectClass>
+		<!--   =========   Active Object Class   ========  -->
+		<ActiveObjectClass>
+			<Id>1778685426211</Id>
+			<Name><![CDATA[TruckParkingSpots]]></Name>
+			<Generic>false</Generic>
+			<GenericParameter>
+				<Id>1778685426216</Id>
+				<Name><![CDATA[1778685426216]]></Name>
+				<GenericParameterValue Class="CodeValue">
+					<Code><![CDATA[T extends Agent]]></Code>
+				</GenericParameterValue>
+				<GenericParameterLabel><![CDATA[Generic parameter:]]></GenericParameterLabel>
+			</GenericParameter>
+			<FlowChartsUsage>ENTITY</FlowChartsUsage>
+			<SamplesToKeep>100</SamplesToKeep>
+			<LimitNumberOfArrayElements>false</LimitNumberOfArrayElements>
+			<ElementsLimitValue>100</ElementsLimitValue>
+			<MakeDefaultViewArea>true</MakeDefaultViewArea>
+			<SceneGridColor/>
+			<SceneBackgroundColor>-4144960</SceneBackgroundColor>
+			<SceneSkybox>null</SceneSkybox>
+			<AgentProperties>
+				<EnvironmentDefinesInitialLocation>true</EnvironmentDefinesInitialLocation>
+				<RotateAnimationTowardsMovement>true</RotateAnimationTowardsMovement>
+				<RotateAnimationVertically>false</RotateAnimationVertically>
+				<VelocityCode Class="CodeUnitValue">
+					<Code><![CDATA[10]]></Code>
+					<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+				</VelocityCode>
+				<PhysicalLength Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalLength>
+				<PhysicalWidth Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalWidth>
+				<PhysicalHeight Class="CodeUnitValue">
+					<Code><![CDATA[1]]></Code>
+					<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+				</PhysicalHeight>
+			</AgentProperties>
+			<EnvironmentProperties>
+					<EnableSteps>false</EnableSteps>
+					<StepDurationCode Class="CodeUnitValue">
+						<Code><![CDATA[1.0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+					</StepDurationCode>
+					<SpaceType>CONTINUOUS</SpaceType>
+					<WidthCode><![CDATA[500]]></WidthCode>
+					<HeightCode><![CDATA[500]]></HeightCode>
+					<ZHeightCode><![CDATA[0]]></ZHeightCode>
+					<ColumnsCountCode><![CDATA[100]]></ColumnsCountCode>
+					<RowsCountCode><![CDATA[100]]></RowsCountCode>
+					<NeigborhoodType>MOORE</NeigborhoodType>
+					<LayoutType>USER_DEF</LayoutType>
+					<NetworkType>USER_DEF</NetworkType>
+					<ConnectionsPerAgentCode><![CDATA[2]]></ConnectionsPerAgentCode>
+					<ConnectionsRangeCode><![CDATA[50]]></ConnectionsRangeCode>
+					<NeighborLinkFractionCode><![CDATA[0.95]]></NeighborLinkFractionCode>
+					<MCode><![CDATA[10]]></MCode>
+			</EnvironmentProperties>
+			<DatasetsCreationProperties>
+				<AutoCreate>true</AutoCreate>
+					<Id>1778685426210</Id>
+					<OccurrenceAtTime>true</OccurrenceAtTime>
+					<OccurrenceDate>1778745600000</OccurrenceDate>
+					<OccurrenceTime Class="CodeUnitValue">
+						<Code><![CDATA[0]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
+					</OccurrenceTime>
+					<RecurrenceCode Class="CodeUnitValue">
+						<Code><![CDATA[1]]></Code>
+						<Unit Class="TimeUnits"><![CDATA[MINUTE]]></Unit>
+					</RecurrenceCode>
+			</DatasetsCreationProperties>
+			<ScaleRuler>
+				<Id>1778685426214</Id>
+				<Name><![CDATA[scale]]></Name>
+				<X>0</X><Y>-150</Y>
+				<PublicFlag>false</PublicFlag>
+				<PresentationFlag>false</PresentationFlag>
+				<ShowLabel>false</ShowLabel>
+				<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+				<Length>100</Length>
+				<Rotation>0</Rotation>
+				<ScaleType>BASED_ON_LENGTH</ScaleType>
+				<ModelLength>10</ModelLength>
+				<LengthUnits>METER</LengthUnits>
+				<Scale>10</Scale>
+				<InheritedFromParentAgentType>true</InheritedFromParentAgentType>
+			</ScaleRuler>
+			<CurrentLevel>1778685426217</CurrentLevel>
+			<ConnectionsId>1778685426212</ConnectionsId>
+			<AgentLinks>
+				<AgentLink>
+					<Id>1778685426212</Id>
+					<Name><![CDATA[connections]]></Name>
+					<X>50</X><Y>-50</Y>
+					<Label><X>15</X><Y>0</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<HandleReceiveInConnections>false</HandleReceiveInConnections>
+					<AgentLinkType>COLLECTION_OF_LINKS</AgentLinkType>
+					<AgentLinkBidirectional>true</AgentLinkBidirectional>
+					<MessageType><![CDATA[Object]]></MessageType>
+					<LineStyle>SOLID</LineStyle>
+					<LineWidth>1</LineWidth>
+					<LineColor>-16777216</LineColor>
+					<LineZOrder>UNDER_AGENTS</LineZOrder>
+					<LineArrow>NONE</LineArrow>
+					<LineArrowPosition>END</LineArrowPosition>
+				</AgentLink>
+			</AgentLinks>
+
+
+			<Presentation>
+				<Level>
+					<Id>1778685426217</Id>
 					<Name><![CDATA[level]]></Name>
 					<X>0</X><Y>0</Y>
 					<Label><X>10</X><Y>0</Y></Label>
